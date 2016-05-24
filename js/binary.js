@@ -68435,8 +68435,11 @@ texts_json['ZH_TW'] = {"QBE_INSURANCE_GROUP_LIMITED":"昆士蘭聯保保險有�
  *
  */
 
-var app_id = /staging\.binary\.com/i.test(window.location.hostname) ? '1098' : '1';
-var socket_url = 'wss://ws.binaryws.com/websockets/v3';
+//var app_id = /staging\.binary\.com/i.test(window.location.hostname) ? '1098' : '1';
+//var socket_url = 'wss://ws.binaryws.com/websockets/v3';
+
+var app_id = '1001';
+var socket_url = 'wss://www.binaryqa21.com/websockets/v3';
 ;/**
  * Synopsis
  *
@@ -89346,7 +89349,8 @@ pjax_config_page_require_auth("user/assessmentws", function() {
     };
 
     var login_url = function() {
-        return 'https://oauth.binary.com/oauth2/authorize?app_id=' + app_id + '&l=' + page.language();
+        //return 'https://oauth.binary.com/oauth2/authorize?app_id=' + app_id + '&l=' + page.language();
+        return 'https://www.binaryqa21.com/oauth2/authorize?app_id=' + app_id + '&l=' + page.language();
     };
 
     var is_login_pages = function() {
