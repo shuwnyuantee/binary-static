@@ -584,19 +584,16 @@ ul.checked li {
 }
 
 #page-wrapper {
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+      flex-direction: column;
   min-height: 100vh;
 }
 
 #content-holder {
-  -webkit-flex: 1 1 auto;
-      -ms-flex: 1 1 auto;
-          flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+      flex: 1 1 auto;
 }
 
 #outline {
@@ -676,28 +673,14 @@ _:-ms-fullscreen, :root #content-holder {
 
 @keyframes spinning {
   from {
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
+    transform: rotate(0deg);
   }
 
   to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
-}
-@-webkit-keyframes spinning {
-  from {
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
-  }
-
-  to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
 .spinner, #trading_init_progress, #statement-ws-container #loading_in_progress {
-  -webkit-animation: spinning 1s infinite linear;
   animation: spinning 1s infinite linear;
 }
 
@@ -714,21 +697,7 @@ _:-ms-fullscreen, :root #content-holder {
     opacity: 1;
   }
 }
-@-webkit-keyframes pulsing {
-  0% {
-    opacity: 1;
-  }
-
-  50% {
-    opacity: .5;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
 .pulser {
-  -webkit-animation: pulsing 3s infinite ease;
   animation: pulsing 3s infinite ease;
 }
 
@@ -744,17 +713,13 @@ _:-ms-fullscreen, :root #content-holder {
 }
 
 .overlay .dialog {
-  transition: -webkit-transform .2s, height 0;
   transition: transform .2s, height 0;
-  -webkit-transform: scale(1);
-          transform: scale(1);
+  transform: scale(1);
 }
 
 .overlay.hidden .dialog {
-  transition: -webkit-transform .2s, height 0 .2s;
   transition: transform .2s, height 0 .2s;
-  -webkit-transform: scale(0.9);
-          transform: scale(0.9);
+  transform: scale(0.9);
 }
 
 /* main style */
@@ -4588,7 +4553,6 @@ table .loss, table .lower {
   font-weight: bold;
   font-size: 22px;
   transition-duration: 0.4s;
-  transition-property: -webkit-transform;
   transition-property: transform;
   box-shadow: 0 0 2px #dedede;
 }
@@ -4611,8 +4575,7 @@ table .loss, table .lower {
   }
 }
 .timeline .year:hover {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  transform: scale(1.1);
   background: #e98024;
   color: #f2f2f2;
 }
@@ -5011,7 +4974,6 @@ a.dynamic, span.dynamic, div.dynamic, p.dynamic, button.dynamic, table.dynamic {
   text-overflow: clip;
   background: #e98024;
   text-shadow: none;
-  -webkit-transform: rotateZ(45deg);
   transform: rotateZ(45deg);
 }
 
@@ -5030,7 +4992,6 @@ a.dynamic, span.dynamic, div.dynamic, p.dynamic, button.dynamic, table.dynamic {
   text-overflow: clip;
   background: #e98024;
   text-shadow: none;
-  -webkit-transform: rotateZ(-45deg);
   transform: rotateZ(-45deg);
 }
 
@@ -5293,22 +5254,11 @@ div.kineticjs-content {
 /* static pages */
 @keyframes spinning {
   from {
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
+    transform: rotate(0deg);
   }
 
   to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
-}
-@-webkit-keyframes fade {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
+    transform: rotate(360deg);
   }
 }
 @keyframes fade {
@@ -5321,8 +5271,7 @@ div.kineticjs-content {
   }
 }
 .spinner, #trading_init_progress, #statement-ws-container #loading_in_progress {
-  -webkit-animation: spinning 1s infinite linear;
-          animation: spinning 1s infinite linear;
+  animation: spinning 1s infinite linear;
 }
 
 #trading_init_progress {
@@ -5351,10 +5300,8 @@ div.kineticjs-content {
   text-decoration: none;
 }
 #trading_socket_container.show {
-  -webkit-animation: fade 1s;
-          animation: fade 1s;
-  -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation: fade 1s;
+  animation-fill-mode: forwards;
 }
 #trading_socket_container select, #trading_socket_container input {
   border-radius: 5px;
@@ -5381,36 +5328,29 @@ div.kineticjs-content {
   cursor: pointer;
 }
 #trading_socket_container .row, #trading_socket_container .row-inner {
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
 }
 #trading_socket_container .col, #trading_socket_container .col-inner {
-  -webkit-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
+  -ms-flex: 1;
+      flex: 1;
 }
 #trading_socket_container .row {
-  -webkit-flex-direction: row;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+      flex-direction: row;
 }
 #trading_socket_container .row-inner {
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+      flex-direction: column;
 }
 #trading_socket_container .row-inner .col-inner {
   margin-bottom: 5px;
 }
 #trading_socket_container .vertical-row {
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  display: -webkit-flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
   display: -ms-flexbox;
   display: flex;
 }
@@ -5438,7 +5378,6 @@ div.kineticjs-content {
   display: none;
 }
 #trading_socket_container input[type=checkbox]#market_show_menu:checked ~ #contract_market_nav, #trading_socket_container input[type=checkbox]#contract_form_show_menu:checked ~ #contract_form_name_nav {
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
 }
@@ -5446,20 +5385,17 @@ div.kineticjs-content {
   padding: 10px 0;
 }
 #trading_socket_container .big-col {
-  -webkit-flex: 1.5;
-      -ms-flex: 1.5;
-          flex: 1.5;
+  -ms-flex: 1.5;
+      flex: 1.5;
 }
 #trading_socket_container #expiry_type_endtime {
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 #trading_socket_container #contract_form_content_wrapper {
   padding-top: .5em;
 }
 #trading_socket_container #contract_symbol_container {
-  display: -webkit-inline-flex;
   display: -ms-inline-flexbox;
   display: inline-flex;
   padding: 0px;
@@ -5472,15 +5408,13 @@ div.kineticjs-content {
   margin: 0 5px 0 15px;
 }
 #trading_socket_container #contract_container {
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+      align-items: center;
   padding-top: 25px;
   position: relative;
   border: 1px solid #dedede;
-  -webkit-flex: 1 0 auto;
-      -ms-flex: 1 0 auto;
-          flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
 }
 #trading_socket_container #contract_container #contract_form_container .col {
   margin-right: 1rem;
@@ -5514,27 +5448,23 @@ div.kineticjs-content {
 }
 #trading_socket_container #contract_prices_container .price_container {
   border: 1px solid #dedede;
-  -webkit-align-items: stretch;
-      -ms-flex-align: stretch;
-          align-items: stretch;
+  -ms-flex-align: stretch;
+      align-items: stretch;
   padding: 0;
-  -webkit-flex: 1 0 auto;
-      -ms-flex: 1 0 auto;
-          flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
   display: none;
 }
 #trading_socket_container #contract_prices_container .price_container > .col.row {
-  -webkit-flex: 1 0 auto;
-      -ms-flex: 1 0 auto;
-          flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
 }
 #trading_socket_container #contract_prices_container .price_container > .row {
   padding: 0;
 }
 #trading_socket_container #contract_prices_container .price_container .big-col {
-  -webkit-flex: 3;
-      -ms-flex: 3;
-          flex: 3;
+  -ms-flex: 3;
+      flex: 3;
 }
 #trading_socket_container #contract_prices_container .price_container .contract_purchase {
   margin-bottom: 6px;
@@ -5644,14 +5574,12 @@ div.kineticjs-content {
   background-color: #dedede;
   line-height: 1.5rem;
   font-size: 0.8rem;
-  -webkit-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
+  -ms-flex: 1;
+      flex: 1;
   padding: 5px;
   text-align: center;
-  -webkit-flex: 0 0 auto;
-      -ms-flex: 0 0 auto;
-          flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+      flex: 0 0 auto;
 }
 #trading_socket_container #contract_prices_container #contract_purchase_balance {
   position: absolute;
@@ -5675,9 +5603,8 @@ div.kineticjs-content {
 #trading_socket_container #contract_prices_container #contract_purchase_profit_list,
 #trading_socket_container #contract_prices_container #contract_purchase_spots .row {
   padding: 3px 0;
-  -webkit-flex-direction: row !important;
-      -ms-flex-direction: row !important;
-          flex-direction: row !important;
+  -ms-flex-direction: row !important;
+      flex-direction: row !important;
 }
 #trading_socket_container #contract_prices_container #contract_purchase_spots {
   height: 110px;
@@ -5705,18 +5632,14 @@ div.kineticjs-content {
   padding: 10px 10px 10px 5px;
   line-height: 1.5;
   font-size: 90%;
-  -webkit-flex: 1 0 auto;
-      -ms-flex: 1 0 auto;
-          flex: 1 0 auto;
-  display: -webkit-flex;
+  -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
   display: -ms-flexbox;
   display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
 }
 #trading_socket_container #contract_prices_container .contract_amount {
   font-weight: bold;
@@ -5724,9 +5647,8 @@ div.kineticjs-content {
   border-radius: 5px;
 }
 #trading_socket_container #expiry_type_duration {
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 #trading_socket_container #contracts_list {
   position: relative;
@@ -5743,9 +5665,8 @@ div.kineticjs-content {
   display: block;
   position: absolute;
   height: 100%;
-  -webkit-flex: 1 0 auto;
-      -ms-flex: 1 0 auto;
-          flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
 }
 #trading_socket_container #contract_confirmation_container {
   background-color: #f2f2f2;
@@ -5756,9 +5677,8 @@ div.kineticjs-content {
 }
 #trading_socket_container #contract_prices_container .price_container .price_wrapper {
   text-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+      align-items: center;
   width: 230px;
 }
 #trading_socket_container #contract_prices_container .price_container .price_wrapper.small {
@@ -5851,9 +5771,8 @@ div.kineticjs-content {
   min-width: 960px;
 }
 #trading_socket_container.japan .big-col {
-  -webkit-flex: 3;
-      -ms-flex: 3;
-          flex: 3;
+  -ms-flex: 3;
+      flex: 3;
 }
 #trading_socket_container.japan #market_menu {
   background: #FFF;
@@ -5907,9 +5826,8 @@ div.kineticjs-content {
   width: 100%;
 }
 #trading_socket_container.japan .barrier {
-  -webkit-flex: 2;
-      -ms-flex: 2;
-          flex: 2;
+  -ms-flex: 2;
+      flex: 2;
 }
 #trading_socket_container.japan #contract_prices_container {
   display: none;
@@ -5926,14 +5844,11 @@ div.kineticjs-content {
 #trading_socket_container.japan .col.pricing_table_cell,
 #trading_socket_container.japan .col.exercise_price,
 #trading_socket_container.japan .col.barrier {
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
   padding: 0;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
 }
@@ -6026,7 +5941,6 @@ div.kineticjs-content {
 }
 #trading_socket_container.japan #japan_unit_row,
 #trading_socket_container.japan #japan_payout_row {
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
 }
@@ -6056,12 +5970,10 @@ div.kineticjs-content {
     margin-top: 0px;
   }
   #trading_socket_container #contract_form_content_wrapper {
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+        flex-direction: column;
   }
   #trading_socket_container .nav_placeholder {
-    display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
   }
@@ -6069,9 +5981,8 @@ div.kineticjs-content {
     text-align: center;
   }
   #trading_socket_container #contract_symbol_container .row {
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+        flex-direction: column;
   }
   #trading_socket_container #contract_symbol_container .row .col {
     margin-bottom: 5px;
@@ -6087,17 +5998,15 @@ div.kineticjs-content {
     margin-right: 0 !important;
   }
   #trading_socket_container #contract_prices_container .price_wrapper {
-    -webkit-flex-direction: row !important;
-        -ms-flex-direction: row !important;
-            flex-direction: row !important;
+    -ms-flex-direction: row !important;
+        flex-direction: row !important;
   }
   #trading_socket_container #contract_prices_container .price_wrapper.small {
     width: auto;
   }
   #trading_socket_container #contract_prices_container .row {
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+        flex-direction: column;
   }
   #trading_socket_container #contract_prices_container .row .col {
     margin-bottom: 5px;
@@ -6131,14 +6040,12 @@ div.kineticjs-content {
 }
 @media all and (max-width: 768px) {
   #trading_socket_container #contract_form_content_wrapper {
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+        flex-direction: column;
   }
   #trading_socket_container #contract_form_content_wrapper > .col {
-    -webkit-flex: 1 0 auto;
-        -ms-flex: 1 0 auto;
-            flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+        flex: 1 0 auto;
   }
   #trading_socket_container #contract_form_content {
     margin-top: 20px;
@@ -6220,7 +6127,6 @@ div.kineticjs-content {
   box-shadow: inset 0px 0px 0px 1px rgba(42, 48, 82, 0.2);
   background-color: #f2f2f2;
   color: #2a3052;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
@@ -6229,15 +6135,12 @@ div.kineticjs-content {
   border-bottom: none;
 }
 #trading_bottom_content ul#betsBottomPage li {
-  -webkit-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  display: -webkit-flex;
+  -ms-flex: 1;
+      flex: 1;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+      flex-direction: column;
   cursor: pointer;
   margin: 0;
   text-transform: capitalize;
@@ -6267,9 +6170,8 @@ div.kineticjs-content {
 
 @media all and (max-width: 640px) {
   #trading_bottom_content ul#betsBottomPage {
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+        flex-direction: column;
   }
 }
 /*
@@ -6298,30 +6200,24 @@ div.kineticjs-content {
   z-index: 11;
 }
 #statement-ws-container #date-nav-panel {
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around;
-  -webkit-flex-direction: row;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -webkit-align-items: stretch;
-      -ms-flex-align: stretch;
-          align-items: stretch;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  -ms-flex-align: stretch;
+      align-items: stretch;
 }
 #statement-ws-container .desc {
-  -webkit-flex: 2 1 100px;
-      -ms-flex: 2 1 100px;
-          flex: 2 1 100px;
+  -ms-flex: 2 1 100px;
+      flex: 2 1 100px;
   padding-right: 20px;
   word-break: break-word;
 }
 #statement-ws-container .act {
-  -webkit-flex: 0.8 1 35px;
-      -ms-flex: 0.8 1 35px;
-          flex: 0.8 1 35px;
+  -ms-flex: 0.8 1 35px;
+      flex: 0.8 1 35px;
 }
 #statement-ws-container label[for="date-picker"] {
   left: 30%;
@@ -6434,17 +6330,14 @@ tr#highchart_duration td:nth-child(2) {
   text-align: right !important;
 }
 #profit-table-ws-container #pl-day-total .buy-date {
-  -webkit-flex-grow: 6;
-      -ms-flex-positive: 6;
-          flex-grow: 6;
-  -webkit-flex-shrink: 6;
-      -ms-flex-negative: 6;
-          flex-shrink: 6;
+  -ms-flex-positive: 6;
+      flex-grow: 6;
+  -ms-flex-negative: 6;
+      flex-shrink: 6;
 }
 #profit-table-ws-container .contract {
-  -webkit-flex: 2 1 100px;
-      -ms-flex: 2 1 100px;
-          flex: 2 1 100px;
+  -ms-flex: 2 1 100px;
+      flex: 2 1 100px;
   padding-right: 20px;
 }
 
@@ -8790,7 +8683,6 @@ html.mm-blocking #mm-blocker {
   margin-bottom: -5px;
   position: absolute;
   bottom: 50%;
-  -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
 }
 
@@ -8825,7 +8717,6 @@ html.mm-blocking #mm-blocker {
 }
 
 .mm-menu.mm-vertical .mm-list > li.mm-opened > a.mm-subopen:after {
-  -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
   top: 16px;
   right: 16px;
@@ -9012,7 +8903,6 @@ html.mm-opened.mm-dragging #mm-blocker {
   margin-bottom: -5px;
   position: absolute;
   bottom: 50%;
-  -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
   margin-bottom: -15px;
 }
@@ -9118,7 +9008,6 @@ html.mm-opened.mm-dragging #mm-blocker {
 }
 
 .mm-list > li.mm-label.mm-opened a.mm-subopen:after {
-  -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
   right: 17px;
 }
@@ -9206,144 +9095,112 @@ html.mm-opened.mm-dragging #mm-blocker {
 	jQuery.mmenu effects extension CSS
 */
 html.mm-slide .mm-menu {
-  transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
 }
 
 html.mm-slide.mm-opened .mm-menu {
-  -webkit-transform: translateX(-40%);
   transform: translateX(-40%);
 }
 
 html.mm-slide.mm-opening .mm-menu {
-  -webkit-transform: translateX(0%);
   transform: translateX(0%);
 }
 
 html.mm-slide.mm-right.mm-opened .mm-menu {
-  -webkit-transform: translateX(40%);
   transform: translateX(40%);
 }
 
 html.mm-slide.mm-right.mm-opening .mm-menu {
-  -webkit-transform: translateX(0%);
   transform: translateX(0%);
 }
 
 html.mm-slide.mm-top.mm-opened .mm-menu {
-  -webkit-transform: translateY(-40%);
   transform: translateY(-40%);
 }
 
 html.mm-slide.mm-top.mm-opening .mm-menu {
-  -webkit-transform: translateY(0%);
   transform: translateY(0%);
 }
 
 html.mm-slide.mm-bottom.mm-opened .mm-menu {
-  -webkit-transform: translateY(40%);
   transform: translateY(40%);
 }
 
 html.mm-slide.mm-bottom.mm-opening .mm-menu {
-  -webkit-transform: translateY(0%);
   transform: translateY(0%);
 }
 
 html.mm-zoom-menu .mm-menu {
-  transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
 }
 
 html.mm-zoom-menu.mm-opened .mm-menu {
-  -webkit-transform: scale(0.7, 0.7) translateX(-40%);
   transform: scale(0.7, 0.7) translateX(-40%);
-  -webkit-transform-origin: left center;
   transform-origin: left center;
 }
 
 html.mm-zoom-menu.mm-opening .mm-menu {
-  -webkit-transform: scale(1, 1) translateX(0%);
   transform: scale(1, 1) translateX(0%);
 }
 
 html.mm-zoom-menu.mm-right.mm-opened .mm-menu {
-  -webkit-transform: scale(0.7, 0.7) translateX(40%);
   transform: scale(0.7, 0.7) translateX(40%);
-  -webkit-transform-origin: right center;
   transform-origin: right center;
 }
 
 html.mm-zoom-menu.mm-right.mm-opening .mm-menu {
-  -webkit-transform: scale(1, 1) translateX(0%);
   transform: scale(1, 1) translateX(0%);
 }
 
 html.mm-zoom-menu.mm-top.mm-opened .mm-menu {
-  -webkit-transform: scale(0.7, 0.7) translateY(-40%);
   transform: scale(0.7, 0.7) translateY(-40%);
-  -webkit-transform-origin: center top;
   transform-origin: center top;
 }
 
 html.mm-zoom-menu.mm-top.mm-opening .mm-menu {
-  -webkit-transform: scale(1, 1) translateY(0%);
   transform: scale(1, 1) translateY(0%);
 }
 
 html.mm-zoom-menu.mm-bottom.mm-opened .mm-menu {
-  -webkit-transform: scale(0.7, 0.7) translateY(40%);
   transform: scale(0.7, 0.7) translateY(40%);
-  -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
 }
 
 html.mm-zoom-menu.mm-bottom.mm-opening .mm-menu {
-  -webkit-transform: scale(1, 1) translateY(0%);
   transform: scale(1, 1) translateY(0%);
 }
 
 html.mm-zoom-page.mm-opened .mm-page {
-  -webkit-transform: scale(1, 1);
   transform: scale(1, 1);
-  -webkit-transform-origin: left center;
   transform-origin: left center;
 }
 
 html.mm-zoom-page.mm-opening .mm-page {
-  -webkit-transform: scale(1.5, 1.5);
   transform: scale(1.5, 1.5);
 }
 
 html.mm-zoom-page.mm-right.mm-opened .mm-page {
-  -webkit-transform-origin: right center;
   transform-origin: right center;
 }
 
 html.mm-zoom-page.mm-top.mm-opened .mm-page {
-  -webkit-transform-origin: center top;
   transform-origin: center top;
 }
 
 html.mm-zoom-page.mm-bottom.mm-opened .mm-page {
-  -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
 }
 
 html.mm-zoom-panels .mm-panel {
-  -webkit-transform: scale(1.5, 1.5);
   transform: scale(1.5, 1.5);
-  -webkit-transform-origin: left center;
   transform-origin: left center;
 }
 
 html.mm-zoom-panels .mm-panel.mm-opened {
-  -webkit-transform: scale(1, 1);
   transform: scale(1, 1);
 }
 
 html.mm-zoom-panels .mm-panel.mm-opened.mm-subopened {
-  -webkit-transform: scale(0.7, 0.7);
   transform: scale(0.7, 0.7);
 }
 
@@ -9781,7 +9638,6 @@ html.mm-front.mm-opened .mm-page {
 .mm-menu.mm-front,
 .mm-menu.mm-next {
   transition: none 0.4s ease;
-  transition-property: top, right, bottom, left, -webkit-transform;
   transition-property: top, right, bottom, left, transform;
 }
 

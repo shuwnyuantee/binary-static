@@ -68435,7 +68435,9 @@ texts_json['ZH_TW'] = {"QBE_INSURANCE_GROUP_LIMITED":"昆士蘭聯保保險有�
  *
  */
 
-var app_id = '1';
+//var app_id = /staging\.binary\.com/i.test(window.location.hostname) ? '1098' : '1';
+var app_id = 1001;
+var socket_url = 'wss://ws.binaryws.com/websockets/v3';
 ;/**
  * Synopsis
  *
@@ -69330,7 +69332,7 @@ URL.prototype = {
                 staticHost = staticHost.substr(0, staticHost.indexOf('/js/') + 1);
             }
             else {
-                staticHost = 'https://static.binary.com/';
+                staticHost = 'https://www.binary.com/';
             }
 
             window.staticHost = staticHost;
@@ -79833,15 +79835,9 @@ function Trim(str){
   return str;
 }
 
-function changeLanguage(lang) {
-  str = window.location.search;
-  str = page.url.replaceQueryParam('l', lang, str);
-  window.location = window.location.pathname + str;
-}
-
 function limitLanguage(lang) {
-  if (page.language() !== lang) {
-    changeLanguage(lang);
+  if (page.language() !== lang && !Login.is_login_pages()) {
+    window.location.href = page.url_for_language(lang);
   }
   if (document.getElementById('language_select')) {
     $('#language_select').remove();
@@ -85940,20 +85936,7 @@ function BinarySocketClass() {
         authorized = false,
         timeouts = {},
         req_number = 0,
-        socketUrl;
-        var host = window.location.host;
-        if((/www\.binary\.com/i).test(host)) {
-            socketUrl = 'wss://ws.binaryws.com/websockets/v3';
-        } else if((/binaryqa/i).test(host)) {
-            socketUrl = 'wss://' + host + '/websockets/v3';
-        } else {
-            socketUrl = 'wss://www2.binary.com/websockets/v3';
-        }
-        socketUrl += '?app_id=' + app_id;
-
-    if (page.language()) {
-        socketUrl += '&l=' + page.language();
-    }
+        socketUrl = socket_url + '?app_id=' + app_id + (page.language() ? '&l=' + page.language() : '');
 
     var clearTimeouts = function(){
         for(var k in timeouts){
