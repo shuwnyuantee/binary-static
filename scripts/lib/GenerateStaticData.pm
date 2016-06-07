@@ -808,8 +808,6 @@ sub _make_nobody_dir {
 sub localize {
     my $text = shift;
 
-    print "call localize......\n\n";
-
     my $translated = BS::localize($text, '[_1]', '[_2]', '[_3]', '[_4]');
     if ($text eq $translated) {    #Not Translated.
         return;
