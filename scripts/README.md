@@ -30,10 +30,13 @@ After HTML build, you can run `sudo grunt connect` then visits [https://localhos
 * `-b branchname` to compile the changes to sub-folder named br_branchname
 * `-vr` to display list of all generated files
 
-### (2) Update translation files
+### (2) Make translation
 
+#### Setup
 * on Mac, install `Homebrew` by `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * install `GNU gettext` by `brew install gettext`
+
+#### Update translation files
 * run `./translation.sh`
 * .po & .pot files will be updated in `../src/config/` & `../src/config/locales`
 
