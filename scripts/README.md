@@ -13,16 +13,16 @@
  * re-build all HTML by `carton exec perl compile.pl -f`
  * build specified url by `carton exec perl compile.pl -p why-us`
 
-### Local test
+#### Local test
 
 After HTML build, you can run `sudo grunt connect` then visits [https://localhost/en/home.html] for test
 
-### github.io deploy
+#### github.io deploy
 
 * `carton exec perl compile.pl -d`
 
 
-## Compile Parameters
+#### Compile Parameters
 
 * `-f` force to overwrite the existing HTMLs
 * `-d` compile for use in gh-pages of a binary-static fork
