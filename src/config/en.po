@@ -39,18 +39,22 @@ msgid "\"Third Party Provider(s)\" means the third party (non-affiliated) entity
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:394
+#: bin/GenerateStaticData.pm:711
 msgid "$100,000 - $250,000"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:380
+#: bin/GenerateStaticData.pm:708
 msgid "$100,000 - $500,000"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:379
+#: bin/GenerateStaticData.pm:707
 msgid "$25,000 - $100,000"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:395
+#: bin/GenerateStaticData.pm:712
 msgid "$250,000 - $1,000,000"
 msgstr ""
 
@@ -59,9 +63,17 @@ msgstr ""
 msgid "%1 %2 (\"API\") Terms and Conditions"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:361
+msgid "%1 %2 has been credited to your Virtual money account %3"
+msgstr ""
+
 #. (website)
 #: ../src/templates/toolkit/legal/affiliate_tac_tab.html.tt:3
 msgid "%1 Affiliate Program Terms and Conditions"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:730
+msgid "%1 Please click the link below to restart the password recovery process. If you require further assistance, please contact our Customer Support."
 msgstr ""
 
 #. (stash->{website_name})
@@ -111,6 +123,10 @@ msgstr ""
 msgid "%1 has thousands of clients taking a variety of positions on the financial markets at any one time, and earns a small margin on these trades."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:550
+msgid "%1 has updated its %2. By clicking OK, you confirm that you have read and accepted the updated %2."
+msgstr ""
+
 #. (landing_company, tnc_page_url)
 #: ../src/templates/toolkit/legal/terms_conditions_approval_message.html.tt:11
 msgid "%1 has updated its <a class=\"pjaxload\" href=\"%2\">Terms & Conditions</a>. By clicking OK, you confirm that you have read and accepted the updated <a class=\"pjaxload\" href=\"%2\">Terms & Conditions</a>."
@@ -123,6 +139,7 @@ msgstr ""
 
 #. (request.website.display_name, "//developers.binary.com")
 #: ../src/templates/toolkit/applications/index.html.tt:75
+#: bin/GenerateStaticData.pm:42
 msgid "%1 is an active proponent of the open-source movement. Suggest enhancements, and take part in the development of our powerful applications. You can find more information on our <a href=\"%2\" target=\"_blank\">Developers Portal</a>."
 msgstr ""
 
@@ -311,6 +328,10 @@ msgstr ""
 msgid "%2 offers a virtual-money account so you can get the hang of trading binaries. Why not <a class=\"pjaxload\" href=\"%1\">open a free $10k fully-functional virtual-money account</a>, and start learning how to trade."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:154
+msgid "%ctx(minimum duration, for example minimum 15 seconds)min"
+msgstr ""
+
 #: ../src/templates/haml/home/index.html.haml:1
 msgid "&#8220;Binary.com is one of the oldest and trustworthy partners we ever had. We have worked together for many years.&#8221;"
 msgstr ""
@@ -327,6 +348,10 @@ msgstr ""
 msgid "'<strong>Short</strong>' contracts generate losses when the index rises and profits when it falls."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:51
+msgid "(Bejing/CST -8 hours)"
+msgstr ""
+
 #: ../src/templates/haml/get_started/glossary.html.haml:1
 msgid "(One) Touch trades"
 msgstr ""
@@ -335,12 +360,21 @@ msgstr ""
 msgid "* Tax Free: Profits from trading are tax free in many countries but you should always consult a qualified tax advisor."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:386
+msgid "- A scanned copy of a utility bill or bank statement (no more than 3 months old)."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:384
+msgid "- A scanned copy of your passport, driving licence (provisional or full) or identity card, showing your name and date of birth."
+msgstr ""
+
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:163
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:191
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:219
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:247
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:275
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:303
+#: bin/GenerateStaticData.pm:687
 msgid "0-1 year"
 msgstr ""
 
@@ -350,6 +384,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:261
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:289
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:317
+#: bin/GenerateStaticData.pm:690
 msgid "0-5 transactions in the past 12 months"
 msgstr ""
 
@@ -363,11 +398,13 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:248
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:276
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:304
+#: bin/GenerateStaticData.pm:688
 msgid "1-2 years"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:207
 #: ../src/templates/toolkit/new_account/japanws.html.tt:226
+#: bin/GenerateStaticData.pm:267
 msgid "1-3 million JPY"
 msgstr ""
 
@@ -378,6 +415,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/japanws.html.tt:330
 #: ../src/templates/toolkit/new_account/japanws.html.tt:347
 #: ../src/templates/toolkit/new_account/japanws.html.tt:364
+#: bin/GenerateStaticData.pm:277
 msgid "1-3 years"
 msgstr ""
 
@@ -387,6 +425,7 @@ msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:210
 #: ../src/templates/toolkit/new_account/japanws.html.tt:229
+#: bin/GenerateStaticData.pm:270
 msgid "10-30 million JPY"
 msgstr ""
 
@@ -404,6 +443,7 @@ msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:208
 #: ../src/templates/toolkit/new_account/japanws.html.tt:227
+#: bin/GenerateStaticData.pm:268
 msgid "3-5 million JPY"
 msgstr ""
 
@@ -414,6 +454,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/japanws.html.tt:331
 #: ../src/templates/toolkit/new_account/japanws.html.tt:348
 #: ../src/templates/toolkit/new_account/japanws.html.tt:365
+#: bin/GenerateStaticData.pm:278
 msgid "3-5 years"
 msgstr ""
 
@@ -423,6 +464,7 @@ msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:211
 #: ../src/templates/toolkit/new_account/japanws.html.tt:230
+#: bin/GenerateStaticData.pm:271
 msgid "30-50 million JPY"
 msgstr ""
 
@@ -444,16 +486,19 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:263
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:291
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:319
+#: bin/GenerateStaticData.pm:692
 msgid "40 transactions or more in the past 12 months"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:209
 #: ../src/templates/toolkit/new_account/japanws.html.tt:228
+#: bin/GenerateStaticData.pm:269
 msgid "5-10 million JPY"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:212
 #: ../src/templates/toolkit/new_account/japanws.html.tt:231
+#: bin/GenerateStaticData.pm:272
 msgid "50-100 million JPY"
 msgstr ""
 
@@ -464,6 +509,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/japanws.html.tt:329
 #: ../src/templates/toolkit/new_account/japanws.html.tt:346
 #: ../src/templates/toolkit/new_account/japanws.html.tt:363
+#: bin/GenerateStaticData.pm:276
 msgid "6 months to 1 year"
 msgstr ""
 
@@ -473,6 +519,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:262
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:290
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:318
+#: bin/GenerateStaticData.pm:691
 msgid "6-10 transactions in the past 12 months"
 msgstr ""
 
@@ -1040,6 +1087,7 @@ msgid "Account balance : %1 %2"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:613
 msgid "Accounting"
 msgstr ""
 
@@ -1048,6 +1096,7 @@ msgid "Accounting & Payments"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:614
 msgid "Accounts And Payments Executive"
 msgstr ""
 
@@ -1057,6 +1106,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:57
 msgid "Acquisition of financial contracts through this site must be effected in accordance with the terms and conditions presented on the pages of this site. Acquisition of a financial contract is completed when the financial contract has been customised, the premium (or the payout, as the case may be) has been calculated and payment has been verified."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:190
+msgid "Action"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -1079,6 +1132,22 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:356
+msgid "Adjust trade parameters"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:663
+msgid "Adjusted Barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:664
+msgid "Adjusted High Barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:665
+msgid "Adjusted Low Barrier"
+msgstr ""
+
 #: ../src/templates/toolkit/user/settings/api_tokenws.html.tt:36
 msgid "Admin"
 msgstr ""
@@ -1088,10 +1157,12 @@ msgid "Administering the company’s semi-annual performance appraisal process"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:622
 msgid "Administrative Executive"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:621
 msgid "Administrator"
 msgstr ""
 
@@ -1176,12 +1247,17 @@ msgstr ""
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:70
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:22
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:54
+#: bin/GenerateStaticData.pm:555
 msgid "Amount"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:402
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:346
 msgid "Amount of above assets"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:177
+msgid "Amount per point"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -1192,12 +1268,20 @@ msgstr ""
 msgid "An Ends Between trade pays out if the market exit price is strictly higher than the low price target AND strictly lower than the high price target. An Ends Outside binary pays out if the market exit price is EITHER strictly higher than the high price target OR strictly lower than the low price target."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:591
+msgid "An additional password can be used to restrict access to the cashier."
+msgstr ""
+
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "An advanced university degree in Mathematics, Physics or Engineering"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "An assertive, sales-driven personality, able to adapt quickly and achieve powerful results"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:339
+msgid "An error occured."
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -1231,6 +1315,7 @@ msgid "Answer to secret question"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:617
 msgid "Anti-Fraud Officer"
 msgstr ""
 
@@ -1275,6 +1360,7 @@ msgid "Anyone who has potential to grow or increase traffic to %1"
 msgstr ""
 
 #: ../src/templates/toolkit/applications/index.html.tt:2
+#: bin/GenerateStaticData.pm:720
 msgid "Applications"
 msgstr ""
 
@@ -1303,6 +1389,14 @@ msgstr ""
 msgid "Appropriateness Test"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:74
+msgid "Apr"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:86
+msgid "April"
+msgstr ""
+
 #: ../src/templates/haml/static/payment_agent.html.haml:1
 msgid "Are you a Payment Agent, or interested in acting as one?"
 msgstr ""
@@ -1313,6 +1407,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/careers.html.haml:1
 msgid "Are you ready?"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:346
+msgid "Are you sure that you want to permanently delete token"
 msgstr ""
 
 #: ../src/templates/toolkit/affiliates/main.html.tt:20
@@ -1382,6 +1480,10 @@ msgstr ""
 msgid "Asians"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:322
+msgid "Asset"
+msgstr ""
+
 #: ../src/templates/haml/layouts/default/footer.html.haml:1
 #: ../src/templates/haml/resources/index.html.haml:1
 #: ../src/templates/toolkit/global/footer.html.tt:64
@@ -1430,6 +1532,14 @@ msgstr ""
 msgid "Audit deposit patterns and take action on fraud or abuse"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:78
+msgid "Aug"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:90
+msgid "August"
+msgstr ""
+
 #: ../src/templates/haml/static/contact.html.haml:1
 msgid "Australia"
 msgstr ""
@@ -1440,6 +1550,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/user/authenticatews.html.tt:2
 msgid "Authentication"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:215
+msgid "Authorise your account."
 msgstr ""
 
 #: ../src/templates/toolkit/user/settingsws.html.tt:84
@@ -1483,7 +1597,12 @@ msgstr ""
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:22
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:24
+#: bin/GenerateStaticData.pm:558
 msgid "Back"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:195
+msgid "Balance"
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/payment_methods.html.tt:49
@@ -1506,6 +1625,18 @@ msgstr ""
 #. (stash->{website_name})
 #: ../src/templates/haml/get_started/what_is_binary_trading.html.haml:1
 msgid "Banks, hedge funds and professional investors routinely trade binary options in over-the-counter derivatives markets. Many market professionals use and trust the %1 platform for high-volume flexible trades."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:143
+msgid "Barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:659
+msgid "Barrier Change"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:144
+msgid "Barrier offset"
 msgstr ""
 
 #: ../src/templates/haml/get_started/glossary.html.haml:1
@@ -1650,10 +1781,12 @@ msgid "Binary options basics"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:270
+#: bin/GenerateStaticData.pm:678
 msgid "Binary options or other financial derivatives trading experience"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:284
+#: bin/GenerateStaticData.pm:679
 msgid "Binary options or other financial derivatives trading frequency"
 msgstr ""
 
@@ -1780,6 +1913,7 @@ msgid "Bonus Code"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:380
+#: bin/GenerateStaticData.pm:282
 msgid "Both the above"
 msgstr ""
 
@@ -1797,6 +1931,10 @@ msgstr ""
 msgid "Brand of first car"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:574
+msgid "Browser"
+msgstr ""
+
 #: ../src/templates/haml/get_started/volidx_markets.html.haml:1
 msgid "Bull Market and Bear Market Indices start at 00:00 GMT each day, replicating a bullish and bearish market respectively."
 msgstr ""
@@ -1811,6 +1949,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/careers.html.haml:1
 msgid "But we’re picky. We only select people with special qualities: serious professionals, who have high moral standards, and thrive in an honest, collaborative environment."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:192
+msgid "Buy"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:436
@@ -1898,6 +2040,10 @@ msgstr ""
 #: ../src/templates/toolkit/user/settings/change_passwordws.html.tt:3
 #: ../src/templates/toolkit/user/settings/change_passwordws.html.tt:62
 msgid "Change Password"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:211
+msgid "Chart"
 msgstr ""
 
 #: ../src/templates/toolkit/affiliates/main.html.tt:62
@@ -2088,6 +2234,14 @@ msgstr ""
 msgid "Clients' Money"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:632
+msgid "Closed"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:324
+msgid "Closes"
+msgstr ""
+
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Collaborate with members of our IT Group to identify innovative ways to improve our website’s capability and performance"
 msgstr ""
@@ -2120,10 +2274,12 @@ msgid "Commodities are resources that are grown or extracted from the ground, su
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:214
+#: bin/GenerateStaticData.pm:674
 msgid "Commodities trading experience"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:228
+#: bin/GenerateStaticData.pm:675
 msgid "Commodities trading frequency"
 msgstr ""
 
@@ -2150,10 +2306,12 @@ msgid "Complaints and Disputes"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:615
 msgid "Compliance"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:616
 msgid "Compliance Executive"
 msgstr ""
 
@@ -2185,10 +2343,12 @@ msgstr ""
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:25
 #: ../src/templates/toolkit/container/confirm_box_popup.html.tt:1
 #: ../src/templates/toolkit/container/confirm_box_popup.html.tt:5
+#: bin/GenerateStaticData.pm:559
 msgid "Confirm"
 msgstr ""
 
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
+#: bin/GenerateStaticData.pm:736
 msgid "Confirm New Password"
 msgstr ""
 
@@ -2201,6 +2361,7 @@ msgid "Conflicts Policy"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:331
+#: bin/GenerateStaticData.pm:693
 msgid "Construction"
 msgstr ""
 
@@ -2238,12 +2399,33 @@ msgstr ""
 msgid "Continuous Indices"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:199
+msgid "Contract"
+msgstr ""
+
 #: ../src/templates/toolkit/new_account/japanws.html.tt:70
+#: bin/GenerateStaticData.pm:262
 msgid "Contract / Temporary / Part Time"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:165
+msgid "Contract Confirmation"
 msgstr ""
 
 #: ../src/templates/toolkit/user/portfoliows.html.tt:31
 msgid "Contract Details"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:628
+msgid "Contract Expiry"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:655
+msgid "Contract ID"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:627
+msgid "Contract Information"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/betting_rules.html.tt:37
@@ -2254,6 +2436,14 @@ msgstr ""
 msgid "Contract Risks"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:629
+msgid "Contract Sold"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:640
+msgid "Contract is not started yet"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/betting_rules.html.tt:39
 msgid "Contract payouts shall be determined by the Company by reference to the daily high/low/close values reported on this website relevant to the underlying index(ices) of the contract(s) or from the interbank trading data received by the Company for forex quotes or commodities prices as displayed on the website, subject that the Company shall have the right to make corrections to such data in the event of mis-priced or typographically incorrect data. Clients should note that the different markets may close at different times during the day due to local trading hours and time zones."
 msgstr ""
@@ -2262,6 +2452,10 @@ msgstr ""
 #: ../src/templates/toolkit/bet/explanation.html.tt:176
 #: ../src/templates/toolkit/bet/explanation.html.tt:185
 msgid "Contract period"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:654
+msgid "Contract will be sold at the prevailing market price when the request is received by our servers. This price may differ from the indicated price."
 msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:52
@@ -2335,11 +2529,20 @@ msgid "Copyright"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:610
 msgid "Copywriter"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:666
+msgid "Corporate Action"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/risk_disclaimer.html.tt:94
 msgid "Costs and Charges"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:607
+msgid "Country Manager"
 msgstr ""
 
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:45
@@ -2394,6 +2597,10 @@ msgstr ""
 msgid "Creating interfaces and tools to access market information, real-time and historical analysis of trading strategies"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:194
+msgid "Credit/Debit"
+msgstr ""
+
 #: ../src/templates/toolkit/cashier/payment_methods.html.tt:150
 msgid "Credit/Debit Card"
 msgstr ""
@@ -2404,6 +2611,14 @@ msgstr ""
 
 #: ../src/templates/haml/user/reality_check_summaryws.html.haml:1
 msgid "Currency"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:630
+msgid "Current"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:637
+msgid "Current Level"
 msgstr ""
 
 #: ../src/templates/toolkit/user/settings/change_passwordws.html.tt:12
@@ -2424,6 +2639,7 @@ msgstr ""
 
 #: ../src/templates/haml/static/careers.html.haml:1
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:547
 msgid "Customer Support"
 msgstr ""
 
@@ -2451,10 +2667,20 @@ msgid "Data Feed"
 msgstr ""
 
 #: ../src/templates/toolkit/resources/market_timesws.html.tt:4
+#: bin/GenerateStaticData.pm:188 bin/GenerateStaticData.pm:396
 msgid "Date"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:198
+msgid "Date (GMT)"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:573
+msgid "Date and Time"
+msgstr ""
+
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
+#: bin/GenerateStaticData.pm:737
 msgid "Date of Birth"
 msgstr ""
 
@@ -2463,6 +2689,10 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/realws.html.tt:62
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:34
 msgid "Date of birth"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:44
+msgid "Day"
 msgstr ""
 
 #. (link)
@@ -2480,6 +2710,14 @@ msgstr ""
 
 #: ../src/templates/haml/about/index.html.haml:1
 msgid "Debt-free"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:82
+msgid "Dec"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:94
+msgid "December"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:442
@@ -2503,6 +2741,10 @@ msgstr ""
 msgid "Definitions"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:345
+msgid "Delete"
+msgstr ""
+
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Demonstrate the ability to think / act quickly and multi-task as needed to execute effective campaigns"
 msgstr ""
@@ -2518,11 +2760,20 @@ msgstr ""
 #: ../src/templates/haml/cashier/index.html.haml:1
 #: ../src/templates/toolkit/cashier/payment_methods.html.tt:15
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:40
+#: bin/GenerateStaticData.pm:556
 msgid "Deposit"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:544
+msgid "Deposit %1 %2 virtual money into your account %3"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/promocode.html.tt:3
 msgid "Deposit Bonus"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:208
+msgid "Deposit of"
 msgstr ""
 
 #: ../src/templates/haml/cashier/index.html.haml:1
@@ -2570,6 +2821,10 @@ msgstr ""
 msgid "Derivative investment instruments such as Binary Options and related markets can be highly volatile. The prices of the underlying instrument which a Binary Options refers to may fluctuate rapidly and over wide ranges and may reflect unforeseeable events or changes in conditions, none of which can be controlled by you or %1."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:193
+msgid "Description"
+msgstr ""
+
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
 msgid "Design engaging, visually inspiring content for the company's website and many other forms of media, including both online and offline materials."
 msgstr ""
@@ -2581,11 +2836,16 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/realws.html.tt:27
 #: ../src/templates/toolkit/new_account/virtualws.html.tt:11
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:8
+#: bin/GenerateStaticData.pm:731
 msgid "Details"
 msgstr ""
 
 #: ../src/templates/haml/static/careers.html.haml:1
 msgid "DevOps Engineering"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:596
+msgid "DevOps Manager"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
@@ -2626,6 +2886,7 @@ msgid "Digits"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:66
+#: bin/GenerateStaticData.pm:258
 msgid "Director"
 msgstr ""
 
@@ -2713,7 +2974,12 @@ msgstr ""
 msgid "Drive rapid growth from key areas of the world, applying a variety of online and offline marketing abilities to expand the company's active affiliate network."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:717
+msgid "Due to recent changes in the regulations, we are required to ask our clients to complete the following Financial Assessment. Please note that you will not be able to continue trading until this is completed."
+msgstr ""
+
 #: ../src/templates/haml/get_started/glossary.html.haml:1
+#: bin/GenerateStaticData.pm:152
 msgid "Duration"
 msgstr ""
 
@@ -2812,6 +3078,7 @@ msgstr ""
 #: ../src/templates/haml/layouts/default/footer.html.haml:1
 #: ../src/templates/toolkit/global/footer.html.tt:35
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:332
+#: bin/GenerateStaticData.pm:694
 msgid "Education"
 msgstr ""
 
@@ -2877,6 +3144,10 @@ msgstr ""
 msgid "Employee handbook"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:153
+msgid "End Time"
+msgstr ""
+
 #: ../src/templates/haml/get_started/glossary.html.haml:1
 msgid "Ends Between/Ends Outside trades"
 msgstr ""
@@ -2918,12 +3189,21 @@ msgstr ""
 msgid "Ensuring that the Binary Group of companies are in full compliance with the regulatory regimes to which they are subject"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:156
+msgid "Enter the barrier in terms of the difference from the spot price. If you enter +0.005, then you will be purchasing a contract with a barrier 0.005 higher than the entry spot. The entry spot will be the next tick after your order has been received"
+msgstr ""
+
 #: ../src/templates/haml/home/index.html.haml:1
 msgid "Enter your email"
 msgstr ""
 
 #: ../src/templates/toolkit/bet/explanation.html.tt:170
+#: bin/GenerateStaticData.pm:633
 msgid "Entry Level"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:106
+msgid "Entry Spot"
 msgstr ""
 
 #: ../src/templates/toolkit/bet/explanation.html.tt:150
@@ -2940,6 +3220,7 @@ msgid "Equities"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:388
+#: bin/GenerateStaticData.pm:686
 msgid "Estimated Net Worth"
 msgstr ""
 
@@ -2954,6 +3235,10 @@ msgstr ""
 
 #: ../src/templates/haml/about/group-information.html.haml:1
 msgid "European Union residents with the exception of the UK, who wish to trade investment products, will have their account opened with Binary Investments (Europe) Ltd."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:216
+msgid "Even/Odd"
 msgstr ""
 
 #: ../src/templates/toolkit/bet/explanation.html.tt:132
@@ -3012,6 +3297,18 @@ msgstr ""
 msgid "Exclude me from the website until"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:372
+msgid "Exclude time cannot be for more than 5 years."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:371
+msgid "Exclude time cannot be less than 6 months."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:370
+msgid "Exclude time must be after today."
+msgstr ""
+
 #: ../src/templates/toolkit/japan/legal/liability_exclusion.html.tt:2
 #: ../src/templates/toolkit/japan/legal/tacjp.html.tt:32
 msgid "Exclusion of Liability"
@@ -3035,6 +3332,22 @@ msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
 msgid "Exercise exceptional client relationship management skills to prevent fraudulent activities in payments processing and business transactions."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:171 bin/GenerateStaticData.pm:176
+msgid "Exercise period"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:634
+msgid "Exit Level"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:644
+msgid "Exit Spot"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:643
+msgid "Exit Spot Time"
 msgstr ""
 
 #: ../src/templates/toolkit/bet/explanation.html.tt:122
@@ -3099,6 +3412,10 @@ msgstr ""
 msgid "Expiry price"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:212
+msgid "Explanation"
+msgstr ""
+
 #: ../src/templates/toolkit/applications/index.html.tt:60
 msgid "Explore our most cutting-edge new platform, now available in beta form. Place trades from your virtual account."
 msgstr ""
@@ -3124,6 +3441,22 @@ msgstr ""
 
 #: ../src/templates/toolkit/user/settingsws.html.tt:42
 msgid "Facility that allows you to set limits on your account."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:578
+msgid "Failed"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:745
+msgid "Failed to reset password. %1, please retry."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:49
+msgid "Failed to update trade description."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:392
+msgid "False"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -3152,6 +3485,14 @@ msgstr ""
 msgid "Favourite dish"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:72
+msgid "Feb"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:84
+msgid "February"
+msgstr ""
+
 #: ../src/templates/haml/static/tour.html.haml:1
 msgid "Feel free to contact our friendly and helpful customer service experts. They're always available to answer your questions. You can contact us via live chat, email and telephone."
 msgstr ""
@@ -3173,6 +3514,7 @@ msgid "Filtering Stray Ticks"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:333
+#: bin/GenerateStaticData.pm:695
 msgid "Finance"
 msgstr ""
 
@@ -3181,6 +3523,7 @@ msgid "Financial Account Opening"
 msgstr ""
 
 #: ../src/templates/toolkit/user/settingsws.html.tt:112
+#: bin/GenerateStaticData.pm:669
 msgid "Financial Assessment"
 msgstr ""
 
@@ -3206,6 +3549,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/why_us.html.haml:1
 msgid "Find the right trade for every market condition."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:350
+msgid "Finish"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:117
@@ -3262,6 +3609,10 @@ msgstr ""
 msgid "Follow up on rejected deposits"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:749
+msgid "For added security, please check your email to retrieve the verification token."
+msgstr ""
+
 #. (stash->{website_name})
 #: ../src/templates/haml/cashier/index.html.haml:1
 msgid "For e-cash methods or local currencies not supported by %1."
@@ -3286,6 +3637,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/japanws.html.tt:288
 #: ../src/templates/toolkit/new_account/japanws.html.tt:393
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:269
+#: bin/GenerateStaticData.pm:284
 msgid "Foreign currency deposit"
 msgstr ""
 
@@ -3294,11 +3646,21 @@ msgid "Forex"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:158
+#: bin/GenerateStaticData.pm:670
 msgid "Forex trading experience"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:172
+#: bin/GenerateStaticData.pm:671
 msgid "Forex trading frequency"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:738
+msgid "Format: yyyy-mm-dd (not required for virtual-money accounts)"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:116
+msgid "Fr"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:79
@@ -3327,6 +3689,14 @@ msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Fresh graduates who meet our basic requirements and are passionate about pursuing a professional career in administrative services are welcome to apply."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:69
+msgid "Friday"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:61
+msgid "From"
 msgstr ""
 
 #: ../src/templates/haml/static/careers.html.haml:1
@@ -3365,6 +3735,10 @@ msgstr ""
 #: ../src/templates/haml/layouts/default/footer.html.haml:1
 #: ../src/templates/toolkit/global/footer.html.tt:50
 msgid "GamCare"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:135
+msgid "Gaming Account"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:12
@@ -3435,6 +3809,10 @@ msgstr ""
 msgid "Give Me More Money!"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:618
+msgid "Global Customer Service Representatives"
+msgstr ""
+
 #: ../src/templates/haml/get_started/glossary.html.haml:1
 #: ../src/templates/haml/get_started/index.html.haml:1
 #: ../src/templates/haml/layouts/get_started/nav.html.haml:1
@@ -3463,6 +3841,7 @@ msgid "Governing law and jurisdiction"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:608
 msgid "Graphic Designers"
 msgstr ""
 
@@ -3495,11 +3874,25 @@ msgid "Hands-on test automation experience a plus"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:334
+#: bin/GenerateStaticData.pm:696
 msgid "Health"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:381
+#: bin/GenerateStaticData.pm:283
 msgid "Hedging"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:108
+msgid "High Barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:145
+msgid "High barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:146
+msgid "High barrier offset"
 msgstr ""
 
 #: ../src/templates/toolkit/affiliates/main.html.tt:49
@@ -3511,6 +3904,7 @@ msgid "High returns"
 msgstr ""
 
 #: ../src/templates/haml/get_started/volidx_markets.html.haml:1
+#: bin/GenerateStaticData.pm:169
 msgid "Higher/Lower"
 msgstr ""
 
@@ -3523,6 +3917,7 @@ msgid "Higher/Lower trades"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:69
+#: bin/GenerateStaticData.pm:261
 msgid "Housewife / Househusband"
 msgstr ""
 
@@ -3585,10 +3980,12 @@ msgid "How to use a payment agent?"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:620
 msgid "Human Resource Executive"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:619
 msgid "Human Resources"
 msgstr ""
 
@@ -3627,6 +4024,10 @@ msgstr ""
 
 #: ../src/templates/haml/get_started/beginners_faq.html.haml:1
 msgid "I'm new to binaries, where do I start?"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:575
+msgid "IP Address"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -3720,6 +4121,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/careers.html.haml:1
 msgid "If you meet our basic requirements, we’ll send you a talent test."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:752
+msgid "If you need assistance feel free to contact our %1Customer Support"
 msgstr ""
 
 #: ../src/templates/toolkit/bet/explanation.html.tt:13
@@ -3979,6 +4384,7 @@ msgid "In this newly created role, to be based on our offices in Cyberjaya, Mala
 msgstr ""
 
 #: ../src/templates/haml/get_started/types_of_trades.html.haml:1
+#: bin/GenerateStaticData.pm:183
 msgid "In/Out"
 msgstr ""
 
@@ -3992,6 +4398,7 @@ msgid "In/Out trades"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:357
+#: bin/GenerateStaticData.pm:684
 msgid "Income Source"
 msgstr ""
 
@@ -4004,6 +4411,7 @@ msgid "Indemnity and Liability"
 msgstr ""
 
 #: ../src/templates/toolkit/user/portfoliows.html.tt:33
+#: bin/GenerateStaticData.pm:645
 msgid "Indicative"
 msgstr ""
 
@@ -4012,10 +4420,12 @@ msgid "Indices"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:186
+#: bin/GenerateStaticData.pm:672
 msgid "Indices trading experience"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:200
+#: bin/GenerateStaticData.pm:673
 msgid "Indices trading frequency"
 msgstr ""
 
@@ -4028,6 +4438,7 @@ msgid "Indonesia"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:326
+#: bin/GenerateStaticData.pm:682
 msgid "Industry of Employment"
 msgstr ""
 
@@ -4036,6 +4447,7 @@ msgid "Information Security"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:595
 msgid "Information Technology"
 msgstr ""
 
@@ -4066,10 +4478,12 @@ msgstr ""
 
 #: ../src/templates/haml/static/careers.html.haml:1
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:623
 msgid "Internal Audit"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:624
 msgid "Internal Auditor"
 msgstr ""
 
@@ -4089,12 +4503,32 @@ msgstr ""
 msgid "Introduction"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:333
+msgid "Invalid amount, maximum is"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:332
+msgid "Invalid amount, minimum is"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:744
+msgid "Invalid date of birth."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:137
+msgid "Invalid email address"
+msgstr ""
+
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Investigate and reproduce client-reported issues"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/risk_disclaimer.html.tt:74
 msgid "Investing or trading in Contracts exposes you to the performance of the underlying or reference instrument or asset to which the Binary Contract refers including foreign exchange, indices, stocks and commodities each of which have their own features and risks."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:134
+msgid "Investment Account"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/risk_disclaimer.html.tt:26
@@ -4112,6 +4546,7 @@ msgid "Investment trust"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:364
+#: bin/GenerateStaticData.pm:704
 msgid "Investments & Dividends"
 msgstr ""
 
@@ -4167,12 +4602,24 @@ msgstr ""
 msgid "It will be released to your account upon approval."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:222
+msgid "Item"
+msgstr ""
+
 #: ../src/templates/haml/static/group_history.html.haml:1
 msgid "It’s time to expand. We set up a programming center in Cyberjaya – the Silicon Valley of Kuala Lumpur – to maintain and improve BetOnMarkets.com."
 msgstr ""
 
 #: ../src/templates/haml/static/contact.html.haml:1
 msgid "JAPAN ONLY CONTACT TEXT"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:71
+msgid "Jan"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:83
+msgid "January"
 msgstr ""
 
 #: ../src/templates/haml/static/contact.html.haml:1
@@ -4795,6 +5242,30 @@ msgstr ""
 msgid "Joshua Cavallaro <span> Markets And You Trader.</span>"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:77
+msgid "Jul"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:89
+msgid "July"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:187
+msgid "Jump To"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:76
+msgid "Jun"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:88
+msgid "June"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:726
+msgid "Keep track of your authorised applications."
+msgstr ""
+
 #: ../src/templates/haml/about/index.html.haml:1
 msgid "Key facts"
 msgstr ""
@@ -4829,6 +5300,22 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:35
 msgid "Languages"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:172
+msgid "Last Digit Prediction"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:213
+msgid "Last Digit Stats"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:343 bin/GenerateStaticData.pm:723
+msgid "Last Used"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:539
+msgid "Last digit stats for the latest %1 ticks on %2"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:47
@@ -4880,15 +5367,18 @@ msgid "Legal Compliance"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:393
+#: bin/GenerateStaticData.pm:710
 msgid "Less than $100,000"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:378
+#: bin/GenerateStaticData.pm:706
 msgid "Less than $25,000"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:206
 #: ../src/templates/toolkit/new_account/japanws.html.tt:225
+#: bin/GenerateStaticData.pm:266
 msgid "Less than 1 million JPY"
 msgstr ""
 
@@ -4899,10 +5389,12 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/japanws.html.tt:328
 #: ../src/templates/toolkit/new_account/japanws.html.tt:345
 #: ../src/templates/toolkit/new_account/japanws.html.tt:362
+#: bin/GenerateStaticData.pm:275
 msgid "Less than 6 months"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:343
+#: bin/GenerateStaticData.pm:683
 msgid "Level of Education"
 msgstr ""
 
@@ -4924,6 +5416,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Life-long career interest in the Accounting field"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:223
+msgid "Limit"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:139
@@ -4958,6 +5454,10 @@ msgstr ""
 msgid "Live chat:"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:590
+msgid "Lock Cashier"
+msgstr ""
+
 #: ../src/templates/haml/layouts/default/header.html.haml:1
 #: ../src/templates/toolkit/global/header.html.tt:78
 msgid "Log in"
@@ -4983,11 +5483,13 @@ msgid "Log-in to your %1 affiliate account and click on: Reports &rarr; Traffic 
 msgstr ""
 
 #: ../src/templates/toolkit/user/settingsws.html.tt:98
+#: bin/GenerateStaticData.pm:580
 msgid "Login History"
 msgstr ""
 
 #: ../src/templates/haml/user/reality_check_summaryws.html.haml:1
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:12
+#: bin/GenerateStaticData.pm:557
 msgid "Login ID"
 msgstr ""
 
@@ -5003,8 +5505,28 @@ msgstr ""
 msgid "Logout"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:206
+msgid "Long"
+msgstr ""
+
 #: ../src/templates/toolkit/affiliates/main.html.tt:47
 msgid "Long-term partnership with the leading financial trading service"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:120
+msgid "Loss"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:107
+msgid "Low Barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:147
+msgid "Low barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:148
+msgid "Low barrier offset"
 msgstr ""
 
 #: ../src/templates/haml/static/group_history.html.haml:1
@@ -5059,9 +5581,18 @@ msgstr ""
 msgid "Manage your authorised applications."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:73
+msgid "Mar"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:85
+msgid "March"
+msgstr ""
+
 #: ../src/templates/toolkit/new_account/japanws.html.tt:305
 #: ../src/templates/toolkit/new_account/japanws.html.tt:394
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:280
+#: bin/GenerateStaticData.pm:285
 msgid "Margin FX"
 msgstr ""
 
@@ -5091,10 +5622,12 @@ msgid "Market-closing times: Please refer to"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:604
 msgid "Marketing"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:609
 msgid "Marketing Executives"
 msgstr ""
 
@@ -5102,9 +5635,17 @@ msgstr ""
 msgid "Marketing Project Coordinator"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:605
+msgid "Marketing Project Manager"
+msgstr ""
+
 #: ../src/templates/toolkit/affiliates/faq.html.tt:80
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:161
 msgid "Marketing and Promotion"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:210
+msgid "Matches/Differs"
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:85
@@ -5112,6 +5653,7 @@ msgid "Max:"
 msgstr ""
 
 #: ../src/templates/toolkit/user/settings/self_exclusionws.html.tt:15
+#: bin/GenerateStaticData.pm:226
 msgid "Maximum account cash balance"
 msgstr ""
 
@@ -5140,8 +5682,21 @@ msgstr ""
 msgid "Maximum aggregate loss per day."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:230
+msgid "Maximum aggregate payouts on open positions"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:228
+msgid "Maximum daily turnover"
+msgstr ""
+
 #: ../src/templates/toolkit/user/settings/self_exclusionws.html.tt:85
+#: bin/GenerateStaticData.pm:224
 msgid "Maximum number of open positions"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:75 bin/GenerateStaticData.pm:87
+msgid "May"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:165
@@ -5176,6 +5731,10 @@ msgstr ""
 msgid "Min: 10 Max: 2000"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:318
+msgid "Minimum of %1 characters required."
+msgstr ""
+
 #: ../src/templates/haml/user/account/settings_securityws.html.haml:1
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
 #: ../src/templates/toolkit/new_account/virtualws.html.tt:39
@@ -5185,7 +5744,16 @@ msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:19
 #: ../src/templates/toolkit/new_account/realws.html.tt:37
+#: bin/GenerateStaticData.pm:314
 msgid "Miss"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:112
+msgid "Mo"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:65
+msgid "Monday"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:65
@@ -5220,6 +5788,10 @@ msgstr ""
 msgid "Monitoring and review of this Policy"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:45
+msgid "Month"
+msgstr ""
+
 #: ../src/templates/haml/static/careers.html.haml:1
 msgid "More benefits"
 msgstr ""
@@ -5240,16 +5812,19 @@ msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:16
 #: ../src/templates/toolkit/new_account/realws.html.tt:34
+#: bin/GenerateStaticData.pm:311
 msgid "Mr"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:17
 #: ../src/templates/toolkit/new_account/realws.html.tt:35
+#: bin/GenerateStaticData.pm:312
 msgid "Mrs"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:18
 #: ../src/templates/toolkit/new_account/realws.html.tt:36
+#: bin/GenerateStaticData.pm:313
 msgid "Ms"
 msgstr ""
 
@@ -5266,6 +5841,7 @@ msgid "Mycrowd - for Binary.com traders"
 msgstr ""
 
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:12
+#: bin/GenerateStaticData.pm:341
 msgid "Name"
 msgstr ""
 
@@ -5298,7 +5874,12 @@ msgid "Neither you, your direct relatives, or any persons you control are eligib
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:373
+#: bin/GenerateStaticData.pm:685
 msgid "Net Annual Income"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:162
+msgid "Net profit"
 msgstr ""
 
 #: ../src/templates/haml/layouts/default/footer.html.haml:1
@@ -5306,7 +5887,16 @@ msgstr ""
 msgid "Network Status"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:724
+msgid "Never"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:344
+msgid "Never Used"
+msgstr ""
+
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
+#: bin/GenerateStaticData.pm:735
 msgid "New Password"
 msgstr ""
 
@@ -5318,9 +5908,18 @@ msgstr ""
 msgid "New password is same as old password."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:338
+msgid "New token created."
+msgstr ""
+
 #: ../src/templates/haml/get_started/benefits_of_trading_binaries.html.haml:1
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
+#: bin/GenerateStaticData.pm:109
 msgid "Next"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:185
+msgid "Next Day"
 msgstr ""
 
 #: ../src/templates/toolkit/applications/index.html.tt:82
@@ -5337,6 +5936,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/japan/legal/tacjp.html.tt:18
 msgid "No Connections with Antisocial Forces"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:126
+msgid "No Live price update"
 msgstr ""
 
 #: ../src/templates/haml/get_started/glossary.html.haml:1
@@ -5358,6 +5961,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/japanws.html.tt:327
 #: ../src/templates/toolkit/new_account/japanws.html.tt:344
 #: ../src/templates/toolkit/new_account/japanws.html.tt:361
+#: bin/GenerateStaticData.pm:274
 msgid "No experience"
 msgstr ""
 
@@ -5404,6 +6008,7 @@ msgstr ""
 #: ../src/templates/toolkit/bet/explanation.html.tt:166
 #: ../src/templates/toolkit/bet/explanation.html.tt:180
 #: ../src/templates/toolkit/bet/explanation.html.tt:189
+#: bin/GenerateStaticData.pm:653
 msgid "Note"
 msgstr ""
 
@@ -5427,8 +6032,24 @@ msgstr ""
 msgid "Notification of Changes"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:81
+msgid "Nov"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:93
+msgid "November"
+msgstr ""
+
 #: ../src/templates/toolkit/affiliates/faq.html.tt:25
 msgid "Novice traders can use our intuitive visual platform to learn about trading, practice trading and gain trading experience."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:164
+msgid "Now"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:538
+msgid "Number of ticks"
 msgstr ""
 
 #: ../src/templates/toolkit/misc/endpoint.html.tt:22
@@ -5450,12 +6071,26 @@ msgstr ""
 msgid "Occupation"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:80
+msgid "Oct"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:92
+msgid "October"
+msgstr ""
+
 #: ../src/templates/toolkit/new_account/japanws.html.tt:65
+#: bin/GenerateStaticData.pm:257
 msgid "Office worker"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_conditions_approval_message.html.tt:17
+#: bin/GenerateStaticData.pm:552
 msgid "Ok"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:376
+msgid "Old password is wrong."
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:433
@@ -5484,6 +6119,7 @@ msgid "Once you click the 'Submit' button the funds will be withdrawn from your 
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:101
+#: bin/GenerateStaticData.pm:566
 msgid "Once you click the 'Submit' button, the funds will be withdrawn from your account and transferred to your Client's account."
 msgstr ""
 
@@ -5503,12 +6139,24 @@ msgstr ""
 msgid "Online currency exchangers "
 msgstr ""
 
+#: bin/GenerateStaticData.pm:247
+msgid "Only %1 are allowed."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:335
+msgid "Only 2 decimal points are allowed."
+msgstr ""
+
 #: ../src/templates/haml/static/group_history.html.haml:1
 msgid "Only five years after inception, we pick up this major award for our online trading services. The award recognises BetOnMarkets.com’s reliable, fast and secure online trading for novice and expert traders. At this time, our website has received over 15 million trades."
 msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:101
 msgid "Only one account is allowed per person. No winnings and/or refunds may be collected on accounts opened in false names or on multiple accounts opened by the same person."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:631
+msgid "Open"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:605
@@ -5554,6 +6202,10 @@ msgstr ""
 msgid "Opening an account"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:323
+msgid "Opens"
+msgstr ""
+
 #: ../src/templates/haml/user/reality_check_frequencyws.html.haml:1
 msgid "Options trading can become a real addiction, as can any other activity pushed to its limits. To avoid the danger of such an addiction, we provide a reality-check that gives you a summary of your trades and accounts on a regular basis."
 msgstr ""
@@ -5562,9 +6214,22 @@ msgstr ""
 msgid "Order Execution"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:660
+msgid "Original Barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:661
+msgid "Original High Barrier"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:662
+msgid "Original Low Barrier"
+msgstr ""
+
 #: ../src/templates/toolkit/new_account/japanws.html.tt:395
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:336
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:366
+#: bin/GenerateStaticData.pm:698
 msgid "Other"
 msgstr ""
 
@@ -5577,14 +6242,17 @@ msgid "Other best execution factors such as speed of execution, likelihood of ex
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:298
+#: bin/GenerateStaticData.pm:680
 msgid "Other financial instruments trading experience"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:312
+#: bin/GenerateStaticData.pm:681
 msgid "Other financial instruments trading frequency"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:73
+#: bin/GenerateStaticData.pm:265
 msgid "Others"
 msgstr ""
 
@@ -5639,14 +6307,17 @@ msgid "Our site can be filtered using a number of filtering systems available on
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:100
+#: bin/GenerateStaticData.pm:565
 msgid "Our site does not charge any transfer fees."
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:396
+#: bin/GenerateStaticData.pm:713
 msgid "Over $1,000,000"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:381
+#: bin/GenerateStaticData.pm:709
 msgid "Over $500,001"
 msgstr ""
 
@@ -5656,6 +6327,7 @@ msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:213
 #: ../src/templates/toolkit/new_account/japanws.html.tt:232
+#: bin/GenerateStaticData.pm:273
 msgid "Over 100 million JPY"
 msgstr ""
 
@@ -5665,6 +6337,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:249
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:277
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:305
+#: bin/GenerateStaticData.pm:689
 msgid "Over 3 years"
 msgstr ""
 
@@ -5675,6 +6348,7 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/japanws.html.tt:332
 #: ../src/templates/toolkit/new_account/japanws.html.tt:349
 #: ../src/templates/toolkit/new_account/japanws.html.tt:366
+#: bin/GenerateStaticData.pm:279
 msgid "Over 5 years"
 msgstr ""
 
@@ -5685,6 +6359,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/why_us.html.haml:1
 msgid "Over two billion dollars in trades to date."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:217
+msgid "Over/Under"
 msgstr ""
 
 #: ../src/templates/toolkit/bet/explanation.html.tt:146
@@ -5727,11 +6405,48 @@ msgid "Partners"
 msgstr ""
 
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
+#: bin/GenerateStaticData.pm:732
 msgid "Password Reset"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:743
+msgid "Password does not match."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:301
+msgid "Password is moderate"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:299
+msgid "Password is not strong enough."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:302
+msgid "Password is strong"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:303
+msgid "Password is very strong"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:300
+msgid "Password is weak"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:742
+msgid "Password must contains at least 1 digit, 1 uppercase letter and 1 lowercase letter."
 msgstr ""
 
 #: ../src/templates/haml/user/lost_passwordws.html.haml:1
 msgid "Password reset"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:297
+msgid "Password score is: %1. Passing score is: 20."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:298
+msgid "Password should have lower and uppercase letters with numbers."
 msgstr ""
 
 #: ../src/templates/haml/layouts/default/footer.html.haml:1
@@ -5779,11 +6494,17 @@ msgid "Payments"
 msgstr ""
 
 #: ../src/templates/haml/get_started/glossary.html.haml:1
+#: bin/GenerateStaticData.pm:149
 msgid "Payout"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:365
+#: bin/GenerateStaticData.pm:705
 msgid "Pension"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:170
+msgid "Period"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -5792,6 +6513,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/open_source_projects.html.haml:1
 msgid "Perl modules"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:722
+msgid "Permissions"
 msgstr ""
 
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:3
@@ -5812,19 +6537,38 @@ msgstr ""
 msgid "Platform Tour"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:304
+msgid "Please %1 to view this page"
+msgstr ""
+
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
 #: ../src/templates/toolkit/cashier/deposit_withdraw_ws.html.tt:79
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:39
 #: ../src/templates/toolkit/new_account/virtualws.html.tt:18
+#: bin/GenerateStaticData.pm:734
 msgid "Please check your email for the value of this token"
 msgstr ""
 
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
+#: bin/GenerateStaticData.pm:729
 msgid "Please check your email to retrieve the token needed to reset your password."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:750
+msgid "Please choose which currency you would like to transact in."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:716
+msgid "Please complete the following financial assessment form before continuing."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:129
+msgid "Please confirm the trade on your statement before proceeding."
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:5
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:20
+#: bin/GenerateStaticData.pm:568
 msgid "Please confirm the transaction details in order to complete the transfer:"
 msgstr ""
 
@@ -5834,7 +6578,24 @@ msgid "Please contact us with whatever is on your mind at <a href=\"mailto:%1\">
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:39
+#: bin/GenerateStaticData.pm:561
 msgid "Please deposit before transfer to client."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:127
+msgid "Please enter a date that is at least 6 months from now."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:584
+msgid "Please enter a number between %1."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:366
+msgid "Please enter a number between 0 and %1"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:583
+msgid "Please enter a number greater or equal to %1."
 msgstr ""
 
 #: ../src/templates/haml/user/reality_check_frequencyws.html.haml:1
@@ -5849,7 +6610,12 @@ msgid "Please enter a number."
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:79
+#: bin/GenerateStaticData.pm:564
 msgid "Please enter a valid amount."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:365
+msgid "Please enter an integer value"
 msgstr ""
 
 #: ../src/templates/toolkit/user/settings/self_exclusionws.html.tt:108
@@ -5861,7 +6627,16 @@ msgid "Please enter your current password."
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:52
+#: bin/GenerateStaticData.pm:562
 msgid "Please fill in the Login ID and Amount you wish to transfer to your Client in the form below:"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:394
+msgid "Please follow the pattern 3 numbers, a dash, followed by 4 numbers."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:315
+msgid "Please input a valid date"
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:94
@@ -5932,7 +6707,16 @@ msgstr ""
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:361
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:377
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:392
+#: bin/GenerateStaticData.pm:316
 msgid "Please select"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:330
+msgid "Please select a payment agent"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:369
+msgid "Please select a valid date"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/realws.html.tt:9
@@ -5943,9 +6727,25 @@ msgstr ""
 msgid "Please specify your preferred reality-check interval in minutes "
 msgstr ""
 
+#: bin/GenerateStaticData.pm:289
+msgid "Please submit a valid %1."
+msgstr ""
+
 #. (stash->{affiliate_email})
 #: ../src/templates/haml/static/payment_agent.html.haml:1
 msgid "Please submit the above information to <a href='mailto:%1'>%1</a>."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:50
+msgid "Please try again."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:47
+msgid "Please wait.<br />Your request is being processed."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:180
+msgid "Points"
 msgstr ""
 
 #: ../src/templates/haml/static/contact.html.haml:1
@@ -5973,7 +6773,12 @@ msgid "Postal code/ZIP"
 msgstr ""
 
 #: ../src/templates/toolkit/user/portfoliows.html.tt:30
+#: bin/GenerateStaticData.pm:173
 msgid "Potential Payout"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:175
+msgid "Potential Profit"
 msgstr ""
 
 #: ../src/templates/haml/user/reality_check_summaryws.html.haml:1
@@ -5997,12 +6802,28 @@ msgstr ""
 msgid "Pre-contract Document"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:357
+msgid "Predict the direction<br />and purchase"
+msgstr ""
+
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Prepare project requirements, as needed to clarify expectations and deliverables"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Preparing the periodic and special reports required to ensure legal and regulatory compliance in the jurisdictions within which we operate"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:231
+msgid "Presents the maximum aggregate payouts on outstanding contracts in your portfolio. If the maximum is attained, you may not purchase additional contracts without first closing out existing positions."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:110
+msgid "Previous"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:186
+msgid "Previous Day"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -6025,12 +6846,25 @@ msgstr ""
 msgid "Previous work experience in a client service and/or marketing role"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:641
+msgid "Price"
+msgstr ""
+
 #: ../src/templates/haml/get_started/types_of_trades.html.haml:1
 msgid "Price the trade."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:214
+msgid "Prices"
+msgstr ""
+
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:348
+#: bin/GenerateStaticData.pm:699
 msgid "Primary"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:55
+msgid "Print chart"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -6090,6 +6924,7 @@ msgid "Proficiency in a second language (oral and written) is preferred"
 msgstr ""
 
 #: ../src/templates/haml/get_started/glossary.html.haml:1
+#: bin/GenerateStaticData.pm:121
 msgid "Profit"
 msgstr ""
 
@@ -6098,7 +6933,16 @@ msgid "Profit / Loss"
 msgstr ""
 
 #: ../src/templates/toolkit/user/my_accountws.html.tt:62
+#: bin/GenerateStaticData.pm:204
 msgid "Profit Table"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:203
+msgid "Profit/Loss"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:638
+msgid "Profit/Loss (points)"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -6106,6 +6950,7 @@ msgid "Proofread and correct the content appearing on the company’s website, b
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:612
 msgid "Proofreader"
 msgstr ""
 
@@ -6128,6 +6973,7 @@ msgid "Public and corporation bond"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:67
+#: bin/GenerateStaticData.pm:259
 msgid "Public worker"
 msgstr ""
 
@@ -6140,7 +6986,16 @@ msgid "Published in English, Japanese, Chinese, Arabic, Polish, German, French, 
 msgstr ""
 
 #: ../src/templates/toolkit/user/portfoliows.html.tt:32
+#: bin/GenerateStaticData.pm:151
 msgid "Purchase"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:200
+msgid "Purchase Price"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:104
+msgid "Purchase Time"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:373
@@ -6157,18 +7012,22 @@ msgid "Qualified applicants should have global experience in recruitment adminis
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:599
 msgid "Quality Assurance"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:600
 msgid "Quality Assurance Engineer"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:601
 msgid "Quantitative Analysis"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:603
 msgid "Quantitative Analyst"
 msgstr ""
 
@@ -6177,7 +7036,16 @@ msgid "Quantitative Analytics"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:602
 msgid "Quantitative Developer"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:390
+msgid "Questions"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:182
+msgid "Random"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/virtualws.html.tt:47
@@ -6200,6 +7068,10 @@ msgstr ""
 
 #: ../src/templates/haml/get_started/index.html.haml:1
 msgid "Read the answers to some common questions."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:133
+msgid "Real Account"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:2
@@ -6225,7 +7097,12 @@ msgid "Reap the rewards of trading binaries, knowing your funds are always safe.
 msgstr ""
 
 #: ../src/templates/toolkit/user/portfoliows.html.tt:29
+#: bin/GenerateStaticData.pm:189
 msgid "Ref."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:656
+msgid "Reference ID"
 msgstr ""
 
 #: ../src/templates/haml/static/group_history.html.haml:1
@@ -6307,12 +7184,29 @@ msgstr ""
 msgid "Reload Cashier"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:657
+msgid "Remaining Time"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:227
+msgid "Represents the maximum amount of cash that you may hold in your account.  If the maximum is reached, you will be asked to withdraw funds."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:225
+msgid "Represents the maximum number of outstanding contracts in your portfolio. Each line in your portfolio counts for one open position. Once the maximum is reached, you will not be able to open new positions without closing an existing position first."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:229
+msgid "Represents the maximum volume of contracts that you may purchase in any given trading day."
+msgstr ""
+
 #: ../src/templates/haml/get_started/glossary.html.haml:1
 msgid "Resale price"
 msgstr ""
 
 #: ../src/templates/haml/user/lost_passwordws.html.haml:1
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
+#: bin/GenerateStaticData.pm:739
 msgid "Reset Password"
 msgstr ""
 
@@ -6371,6 +7265,7 @@ msgid "Retail Clients"
 msgstr ""
 
 #: ../src/templates/haml/get_started/glossary.html.haml:1
+#: bin/GenerateStaticData.pm:163
 msgid "Return"
 msgstr ""
 
@@ -6400,11 +7295,16 @@ msgstr ""
 msgid "Revisions to the Binary.com API"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:725
+msgid "Revoke access"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:203
 msgid "Right to Terminate"
 msgstr ""
 
 #: ../src/templates/haml/get_started/volidx_markets.html.haml:1
+#: bin/GenerateStaticData.pm:168
 msgid "Rise/Fall"
 msgstr ""
 
@@ -6445,12 +7345,53 @@ msgstr ""
 msgid "Russia"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:117
+msgid "Sa"
+msgstr ""
+
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:362
+#: bin/GenerateStaticData.pm:702
 msgid "Salaried Employee"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:201
+msgid "Sale Date"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:202
+msgid "Sale Price"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:70
+msgid "Saturday"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:60
+msgid "Save as CSV"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:56
+msgid "Save as JPEG"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:59
+msgid "Save as PDF"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:57
+msgid "Save as PNG"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:58
+msgid "Save as SVG"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:40
 msgid "Scope and Intent"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:395
+msgid "Score"
 msgstr ""
 
 #. (broker_name)
@@ -6467,6 +7408,7 @@ msgid "Second line of home address"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:349
+#: bin/GenerateStaticData.pm:700
 msgid "Secondary"
 msgstr ""
 
@@ -6504,11 +7446,28 @@ msgstr ""
 msgid "Select Country"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:537
+msgid "Select market"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:353
+msgid "Select your market"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:355
+msgid "Select your trade type"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:354
+msgid "Select your underlying asset"
+msgstr ""
+
 #: ../src/templates/toolkit/user/settingsws.html.tt:40
 msgid "Self Exclusion"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:363
+#: bin/GenerateStaticData.pm:703
 msgid "Self-Employed"
 msgstr ""
 
@@ -6517,7 +7476,16 @@ msgid "Self-Exclusion Facilities"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:68
+#: bin/GenerateStaticData.pm:260
 msgid "Self-employed"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:191
+msgid "Sell"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:650
+msgid "Sell at market"
 msgstr ""
 
 #: ../src/templates/haml/static/why_us.html.haml:1
@@ -6537,15 +7505,29 @@ msgid "Send your funds to the payment agent. The deposited funds, less the agent
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:597
 msgid "Senior Front-End Developer"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:598
 msgid "Senior Perl Developer"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:79
+msgid "Sep"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:91
+msgid "September"
 msgstr ""
 
 #: ../src/templates/toolkit/misc/endpoint.html.tt:10
 msgid "Server"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:367
+msgid "Session duration limit cannot be more than 6 weeks."
 msgstr ""
 
 #: ../src/templates/toolkit/user/settings/self_exclusionws.html.tt:94
@@ -6568,6 +7550,10 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:325
+msgid "Settles"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:234
 msgid "Severability"
 msgstr ""
@@ -6575,6 +7561,10 @@ msgstr ""
 #: ../src/templates/haml/home/index.html.haml:1
 #: ../src/templates/haml/static/why_us.html.haml:1
 msgid "Sharp prices"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:207
+msgid "Short"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/betting_rules.html.tt:54
@@ -6672,6 +7662,7 @@ msgid "So what are you waiting for? Join us as an affiliate today."
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:606
 msgid "Social Media Executive"
 msgstr ""
 
@@ -6679,8 +7670,28 @@ msgstr ""
 msgid "Software (Perl) Development"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:317
+msgid "Sorry, account opening is unavailable."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:253
+msgid "Sorry, an error occurred while processing your account."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:648
+msgid "Sorry, an error occurred while processing your request."
+msgstr ""
+
 #: ../src/templates/haml/not_found.html.haml:1
 msgid "Sorry, the page cannot be found."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:360
+msgid "Sorry, this feature is available to virtual accounts only."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:319
+msgid "Sorry, this feature is not available."
 msgstr ""
 
 #: ../src/templates/toolkit/legal/affiliate_tac_tab.html.tt:67
@@ -6689,6 +7700,14 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/order_execution.html.tt:26
 msgid "Specific Instructions"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:142
+msgid "Spot"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:642
+msgid "Spot Time"
 msgstr ""
 
 #: ../src/templates/haml/get_started/glossary.html.haml:1
@@ -6705,11 +7724,20 @@ msgid "Spreads"
 msgstr ""
 
 #: ../src/templates/haml/get_started/glossary.html.haml:1
+#: bin/GenerateStaticData.pm:150
 msgid "Stake"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:105
+msgid "Start Time"
 msgstr ""
 
 #: ../src/templates/haml/home/index.html.haml:1
 msgid "Start learning"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:141
+msgid "Start time"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:96
@@ -6721,6 +7749,7 @@ msgid "State/Province"
 msgstr ""
 
 #: ../src/templates/toolkit/user/my_accountws.html.tt:75
+#: bin/GenerateStaticData.pm:184
 msgid "Statement"
 msgstr ""
 
@@ -6730,6 +7759,7 @@ msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:185
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:206
+#: bin/GenerateStaticData.pm:576
 msgid "Status"
 msgstr ""
 
@@ -6744,6 +7774,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/bet/explanation.html.tt:180
 msgid "Stays In/Goes Out Contracts will be refunded at the purchase price if there are less than 2 ticks between the start and end times."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:351
+msgid "Step"
 msgstr ""
 
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
@@ -6763,11 +7797,29 @@ msgid "Stock market indices measure the value of a selection of companies in the
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:242
+#: bin/GenerateStaticData.pm:676
 msgid "Stocks trading experience"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:256
+#: bin/GenerateStaticData.pm:677
 msgid "Stocks trading frequency"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:635
+msgid "Stop Loss Level"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:636
+msgid "Stop Profit Level"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:178
+msgid "Stop-loss"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:179
+msgid "Stop-type"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:47
@@ -6811,7 +7863,12 @@ msgid "Strong, passionate interest in Marketing and Advertising"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:71
+#: bin/GenerateStaticData.pm:263
 msgid "Student"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:111
+msgid "Su"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/biel_terms.html.tt:64
@@ -6830,6 +7887,10 @@ msgstr ""
 msgid "Submit your CV and Cover Letter"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:577
+msgid "Successful"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/copyright.html.tt:12
 msgid "Such materials may be copied and distributed on a limited basis for noncommercial purposes only, provided that any material copied remains intact and that all copies include the following notice in a clearly visible position: &ldquo;Copyright 1999-<span class='currentYear'></span> Binary Ltd. All rights reserved.&rdquo;"
 msgstr ""
@@ -6840,6 +7901,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/cashier/payment_agent_listws.html.tt:30
 msgid "Summary:"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:64
+msgid "Sunday"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/biel_terms.html.tt:2
@@ -6855,10 +7920,12 @@ msgid "Talk to us"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:379
+#: bin/GenerateStaticData.pm:281
 msgid "Targeting medium-term / long-term profits"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:378
+#: bin/GenerateStaticData.pm:280
 msgid "Targeting short-term profits"
 msgstr ""
 
@@ -6924,6 +7991,10 @@ msgstr ""
 msgid "Terms"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:551
+msgid "Terms & Conditions"
+msgstr ""
+
 #: ../src/templates/haml/layouts/default/footer.html.haml:1
 #: ../src/templates/toolkit/global/footer.html.tt:91
 #: ../src/templates/toolkit/global/footer.html.tt:96
@@ -6939,12 +8010,17 @@ msgid "Terms and conditions"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:350
+#: bin/GenerateStaticData.pm:701
 msgid "Tertiary"
 msgstr ""
 
 #. (stash->{website_name})
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
 msgid "Test-run %1, and sharpen your trading skills, with a no-risk, no-commitment, virtual account."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:115
+msgid "Th"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/virtualws.html.tt:4
@@ -7192,6 +8268,10 @@ msgstr ""
 msgid "The GBP Index is a weighted Index, measuring the British Pound’s value against a basket of 5 global currencies (USD, EUR, AUD, JPY, CAD), each weighted by 20%."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:331
+msgid "The Payment Agent facility is currently not available in your country."
+msgstr ""
+
 #: ../src/templates/toolkit/affiliates/faq.html.tt:16
 msgid "The Program"
 msgstr ""
@@ -7376,6 +8456,7 @@ msgid "The financial trading services contained within this site are only suitab
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:406
+#: bin/GenerateStaticData.pm:714
 msgid "The financial trading services contained within this site are only suitable for customers who are able to bear the loss of all the money they invest and who understand and have experience of the risk involved in the acquistion of financial contracts. Transactions in financial contracts carry a high degree of risk. If purchased contracts expire worthless, you will suffer a total loss of your investment, which consists of the contract premium."
 msgstr ""
 
@@ -7423,6 +8504,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:24
 msgid "The maximum loss that may be incurred by any Client is the amount of money paid by oneself to the Company."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:340
+msgid "The maximum number of tokens (%1) has been reached."
 msgstr ""
 
 #: ../src/templates/haml/static/group_history.html.haml:1
@@ -7485,6 +8570,10 @@ msgstr ""
 msgid "The transactions performed on this site and the relationship between Clients and the Company are to be governed by and construed in accordance with the laws of the country of incorporation of the Company (the \"Jurisdiction\"), which shall be either of the Isle of Man, Malta, or Costa Rica. You agree that the Jurisdiction's courts will have sole jurisdiction to settle any disputes that may arise in relation thereto. For such purposes, you irrevocably submit to the jurisdiction of the courts of the Jurisdiction in relation to any such dispute and you agree that any claim you might have against the Company shall only be brought before the courts of the Jurisdiction. For further information on complaints and disputes, kindly refer to the Company’s Complaints and Disputes section."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:136 bin/GenerateStaticData.pm:291
+msgid "The two passwords that you entered do not match."
+msgstr ""
+
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:141
 msgid "The use of the Binary.com API is at your own risk, and you assume full responsibility and risk of loss it may suffer as a result of using, or accessing the Binary.com API. Except to the extent that liability under any applicable law or regulation cannot be excluded:"
 msgstr ""
@@ -7506,8 +8595,36 @@ msgstr ""
 msgid "There are risks associated with utilizing an Internet-based deal execution trading system, including but not limited to the failure of hardware, software and Internet connection. Since %1 does not control signal power, its reception or routing via Internet, configuration of your equipment or reliability of its connection, we cannot be responsible for communication failures, distortions or delays when trading via the Internet."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:131
+msgid "There was a problem accessing the server during purchase."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:130
+msgid "There was a problem accessing the server."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:751
+msgid "There was a problem validating your personal details. Please fix the fields %1here"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:649
+msgid "There was an error"
+msgstr ""
+
 #: ../src/templates/haml/exception.html.haml:1
 msgid "There was an error and we were unable to process your request."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:393
+msgid "There was some invalid character in an input field."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:240
+msgid "Therefore your current immediate maximum withdrawal (subject to your account having sufficient funds) is %1 %2 (or equivalent in other currency)."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:239
+msgid "Therefore your current immediate maximum withdrawal (subject to your account having sufficient funds) is %1 %2."
 msgstr ""
 
 #: ../src/templates/toolkit/legal/biel_terms.html.tt:88
@@ -7586,6 +8703,26 @@ msgstr ""
 msgid "This bonus will be processed and credited to a client's account when:"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:647
+msgid "This contract has LOST"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:646
+msgid "This contract has WON"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:119
+msgid "This contract lost"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:658
+msgid "This contract was affected by a Corporate Action event."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:118
+msgid "This contract won"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:5
 msgid "This document (the \"Agreement\") sets out the terms and conditions (\"Terms\") between \"the Company\" which is Binary Services Ltd (\"we,\" \"us,\" and \"our\"), and you (the person who registered for the Binary.com Application Program Interface (\"API\"); \"you\", or \"your\")."
 msgstr ""
@@ -7595,6 +8732,7 @@ msgid "This document (the \"Agreement\") sets out the terms and conditions betwe
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:44
+#: bin/GenerateStaticData.pm:387
 msgid "This feature is not relevant to virtual-money accounts."
 msgstr ""
 
@@ -7603,6 +8741,7 @@ msgid "This feature is only relevant to payment agent accounts."
 msgstr ""
 
 #: ../src/templates/haml/user/lost_passwordws.html.haml:1
+#: bin/GenerateStaticData.pm:245
 msgid "This field is required."
 msgstr ""
 
@@ -7658,7 +8797,12 @@ msgstr ""
 msgid "Thorough knowledge of bash scripting, as well as experience with scripting languages such as Perl and PHP"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:68
+msgid "Thursday"
+msgstr ""
+
 #: ../src/templates/haml/get_started/glossary.html.haml:1
+#: bin/GenerateStaticData.pm:197
 msgid "Tick"
 msgstr ""
 
@@ -7683,8 +8827,16 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:62
+msgid "To"
+msgstr ""
+
 #: ../src/templates/haml/static/careers.html.haml:1
 msgid "To apply, please submit your CV and a cover letter to <span id=\"hr_contact_eaddress\"></span>."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:383
+msgid "To authenticate your account, kindly email the following to %1"
 msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
@@ -7720,8 +8872,20 @@ msgstr ""
 msgid "To reset your password, enter the e-mail address you registered in the field below and click \"RESET PASSWORD\"."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:342
+msgid "Token"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:174
+msgid "Total Cost"
+msgstr ""
+
 #: ../src/templates/toolkit/affiliates/commission_table.html.tt:4
 msgid "Total Net Revenue Per Month"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:205
+msgid "Total Profit/Loss"
 msgstr ""
 
 #: ../src/templates/haml/get_started/types_of_trades.html.haml:1
@@ -7746,6 +8910,7 @@ msgid "Tour"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:335
+#: bin/GenerateStaticData.pm:697
 msgid "Tourism"
 msgstr ""
 
@@ -7804,6 +8969,7 @@ msgid "Trading Experience"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/betting_rules.html.tt:56
+#: bin/GenerateStaticData.pm:232
 msgid "Trading Limits"
 msgstr ""
 
@@ -7816,6 +8982,10 @@ msgstr ""
 #: ../src/templates/toolkit/legal/datafeed.html.tt:29
 #: ../src/templates/toolkit/resources/market_timesws.html.tt:2
 msgid "Trading Times"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:221
+msgid "Trading and Withdrawal Limits"
 msgstr ""
 
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
@@ -7864,10 +9034,12 @@ msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:8
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:22
+#: bin/GenerateStaticData.pm:569
 msgid "Transfer to"
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:56
+#: bin/GenerateStaticData.pm:563
 msgid "Transfer to Login ID"
 msgstr ""
 
@@ -7888,7 +9060,12 @@ msgid "Translations"
 msgstr ""
 
 #: ../src/templates/haml/static/job_descriptions.html.haml:1
+#: bin/GenerateStaticData.pm:611
 msgid "Translator"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:391
+msgid "True"
 msgstr ""
 
 #: ../src/templates/haml/static/why_us.html.haml:1
@@ -7900,10 +9077,30 @@ msgstr ""
 msgid "Try It"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:296
+msgid "Try adding more letters or numbers."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:295
+msgid "Try adding more letters."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:294
+msgid "Try adding more numbers."
+msgstr ""
+
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
 #: ../src/templates/haml/layouts/get_started/more.html.haml:1
 #: ../src/templates/toolkit/japan/get_started.html.tt:222
 msgid "Try it now"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:113
+msgid "Tu"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:66
+msgid "Tuesday"
 msgstr ""
 
 #: ../src/templates/haml/user/reality_check_summaryws.html.haml:1
@@ -7966,6 +9163,7 @@ msgid "Underlying"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:72
+#: bin/GenerateStaticData.pm:264
 msgid "Unemployed"
 msgstr ""
 
@@ -7989,6 +9187,10 @@ msgstr ""
 msgid "Unless otherwise advised, we shall treat you as a Retail Client. You may also request, in writing, us to change the category in which you have been classified and this may have an effect on the level of protection afforded to you. We reserve the right to accept or refuse any such request for change in classification."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:588
+msgid "Unlock Cashier"
+msgstr ""
+
 #: ../src/templates/haml/get_started/types_of_trades.html.haml:1
 msgid "Up/Down"
 msgstr ""
@@ -7997,7 +9199,12 @@ msgstr ""
 msgid "Up/Down trades"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:326
+msgid "Upcoming Events"
+msgstr ""
+
 #: ../src/templates/toolkit/user/settings/settings_detailsws.html.tt:367
+#: bin/GenerateStaticData.pm:592
 msgid "Update"
 msgstr ""
 
@@ -8068,7 +9275,12 @@ msgstr ""
 
 #: ../src/templates/haml/user/reset_passwordws.html.haml:1
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:35
+#: bin/GenerateStaticData.pm:733
 msgid "Verification Token"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:741
+msgid "Verification code format incorrect."
 msgstr ""
 
 #: ../src/templates/toolkit/cashier/deposit_withdraw_ws.html.tt:75
@@ -8082,6 +9294,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:4
 msgid "Version 40. Last modified 2016-05-12."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:181
+msgid "View"
 msgstr ""
 
 #: ../src/templates/toolkit/user/top_up_virtualws.html.tt:12
@@ -8135,6 +9351,7 @@ msgstr ""
 
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:33
 #: ../src/templates/toolkit/cashier/paymentagent_withdrawws.html.tt:14
+#: bin/GenerateStaticData.pm:560
 msgid "View your statement"
 msgstr ""
 
@@ -8144,6 +9361,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/user/my_accountws.html.tt:64
 msgid "View your trading profit/loss."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:132
+msgid "Virtual Account"
 msgstr ""
 
 #: ../src/templates/haml/get_started/volidx_markets.html.haml:1
@@ -8162,6 +9383,14 @@ msgstr ""
 msgid "Vs 407 zrnaf nalguvat fcrpvny gb lbh lbh znl pbcl lbhe nccyvpngvba gb wl+ebg13@ovanel.pbz sbe snfg-genpx pbafvqrengvba."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:218
+msgid "Waiting for entry tick."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:349
+msgid "Walkthrough Guide"
+msgstr ""
+
 #: ../src/templates/haml/layouts/get_started/more.html.haml:1
 #: ../src/templates/toolkit/japan/get_started.html.tt:229
 msgid "Want to learn more?"
@@ -8177,6 +9406,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:153
 msgid "Warranty Disclaimer"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:114
+msgid "We"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/conflicts_policy.html.tt:11
@@ -8214,6 +9447,14 @@ msgstr ""
 
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "We are looking for energetic and enthusiastic individuals who love challenges, are detail-oriented and highly analytical to join our Internal Audit team."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:124
+msgid "We are not able to stream live prices at the moment. To enjoy live streaming of prices try refreshing the page, if you get this issue after repeated attempts try a different browser"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:53
+msgid "We are not accepting accounts from residents of this country at the present time."
 msgstr ""
 
 #. ("http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx")
@@ -8347,6 +9588,14 @@ msgstr ""
 msgid "Webtrader on GitHub"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:67
+msgid "Wednesday"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:95
+msgid "Week of"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/datafeed.html.tt:36
 msgid "Weekend quotes"
 msgstr ""
@@ -8419,6 +9668,14 @@ msgstr ""
 
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
 msgid "When you are satisfied with the trade price, instantly execute your trade."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:373
+msgid "When you click \"Ok\" you will be excluded from trading on the site until the selected date."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:128
+msgid "When you click 'Ok' you will be excluded from trading on the site until the selected date."
 msgstr ""
 
 #: ../src/templates/toolkit/affiliates/main.html.tt:83
@@ -8650,6 +9907,10 @@ msgstr ""
 msgid "Withdraw: Not applicable"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:233
+msgid "Withdrawal Limits"
+msgstr ""
+
 #: ../src/templates/haml/static/job_details.html.haml:1
 msgid "Work closely with other members of the team to develop software that would drive prices on our trading platform"
 msgstr ""
@@ -8688,6 +9949,10 @@ msgstr ""
 
 #: ../src/templates/haml/static/responsible_trading.html.haml:1
 msgid "Written limits and self-exclusion"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:46
+msgid "Year"
 msgstr ""
 
 #. (affiliate_email)
@@ -8736,6 +10001,14 @@ msgstr ""
 msgid "You are advised that the Binary Options offered by %1 are not traded under the rules of any recognised, designated or regulated exchange. Consequently, engaging in Binary Options trading may expose you to substantially greater risks than investments which are so traded."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:542
+msgid "You are currently logged in to your real money account with %1 (%2)."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:543
+msgid "You are currently logged in to your virtual money account (%2)."
+msgstr ""
+
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:218
 msgid "You are in default or breach of any covenant, obligation or condition contained in this Agreement, and if such default is not cured within seven days of receipt of written notice from the Company;"
 msgstr ""
@@ -8746,6 +10019,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:49
 msgid "You are not allowed to store any Content (such as feed data)."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:329
+msgid "You are not authorized for withdrawal via payment agent."
 msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:119
@@ -8791,12 +10068,32 @@ msgstr ""
 msgid "You can use an authorized payment agent to process deposits and withdrawals for payment methods or local currencies not supported by %1. It's easy to do."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:368
+msgid "You did not change anything."
+msgstr ""
+
 #: ../src/templates/haml/get_started/beginners_faq.html.haml:1
 msgid "You don't need to deposit any money to open an account, but you need to deposit funds before you can start trading."
 msgstr ""
 
 #: ../src/templates/haml/get_started/how_to_trade_binaries.html.haml:1
 msgid "You get fair and transparent pricing, whatever your position."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:237
+msgid "You have already withdrawn %1 %2."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:242
+msgid "You have already withdrawn the equivalent of %1 %2 in aggregate over the last %3 days."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:238
+msgid "You have already withdrawn the equivalent of %1 %2."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:721
+msgid "You have not granted access to any applications."
 msgstr ""
 
 #: ../src/templates/toolkit/legal/affiliate_tac_tab.html.tt:119
@@ -8809,6 +10106,10 @@ msgstr ""
 
 #: ../src/templates/haml/layouts/default/footer.html.haml:1
 msgid "You have reached the rate limit of requests per second. To continue, please <a href='javascript:;' id='ratelimit-refresh-link'>refresh</a> the page."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:651
+msgid "You have sold this contract at %1 %2"
 msgstr ""
 
 #: ../src/templates/toolkit/misc/endpoint.html.tt:27
@@ -8859,6 +10160,10 @@ msgstr ""
 msgid "You may withdraw the bonus amount once you have exceeded an account turnover of 25 times the bonus amount value."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:52
+msgid "You must accept the terms and conditions to open an account."
+msgstr ""
+
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:71
 msgid "You must comply with these Terms in order to use the Binary.com API."
 msgstr ""
@@ -8870,6 +10175,10 @@ msgstr ""
 #. ("<a href=\"https://hackerone.com/binary\" target=\"_blank\">Hackerone</a>", "<a href=\"https://binary.vanillacommunity.com\" target=\"_blank\">Vanilla Community</a>")
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:191
 msgid "You must promptly report any security deficiencies in, or intrusions to, your Application that you discover to Binary.com by writing in to %1 or by raising a discussion  thread on %2 which is part of our Developer Site. You will work with Binary.com to immediately correct any security deficiency, and will immediately disconnect any intrusions or intruder. In the event of any security deficiency or intrusion involving the Application, APIs or Content, you will make no public statements (e.g. press, blogs, social media, bulletin boards, etc.) without prior written and express permission from Binary.com in each instance."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:533
+msgid "You need to finish all 20 questions."
 msgstr ""
 
 #: ../src/templates/haml/get_started/binary_options_basics.html.haml:1
@@ -8951,6 +10260,10 @@ msgstr ""
 msgid "You shall not target any of your marketing, advertising, and promotional activities to any persons under the age of 18 years old."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:246
+msgid "You should enter between %1 characters."
+msgstr ""
+
 #: ../src/templates/toolkit/legal/risk_disclaimer.html.tt:44
 msgid "You should not trade or invest in Binary Options unless you know and understand the features risks involved and you may lose all the money invested."
 msgstr ""
@@ -8997,7 +10310,20 @@ msgstr ""
 msgid "You're using a Virtual Account."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:545
+msgid "Your %1 account is unavailable. For any questions please contact %2."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:546
+msgid "Your %1 accounts are unavailable. For any questions please contact %2."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:241
+msgid "Your %1 day withdrawal limit is currently %2 %3 (or equivalent in other currency)."
+msgstr ""
+
 #: ../src/templates/toolkit/cashier/paymentagent_transferws.html.tt:102
+#: bin/GenerateStaticData.pm:567
 msgid "Your Client will receive an email notification informing him/her that the transfer has been processed."
 msgstr ""
 
@@ -9008,6 +10334,26 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:100
 msgid "Your Property"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:579
+msgid "Your account has no Login/Logout activity."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:379
+msgid "Your account has no trading activity."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:234
+msgid "Your account is fully authenticated and your withdrawal limits have been lifted."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:382
+msgid "Your account is fully authenticated. You can view your %1trading limits here"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:753
+msgid "Your account is not fully authenticated. Please visit the <a href=\"%1\">authentication</a> page for more information."
 msgstr ""
 
 #: ../src/templates/toolkit/user/my_accountws.html.tt:17
@@ -9031,13 +10377,33 @@ msgstr ""
 msgid "Your breach of any of Binary.com’s rights;"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:748
+msgid "Your cashier is locked as per your request - to unlock it, please click %1here"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:589
+msgid "Your cashier is locked as per your request - to unlock it, please enter the password."
+msgstr ""
+
 #: ../src/templates/toolkit/cashier/session_expired.html.tt:7
 msgid "Your cashier session has expired"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:364
+msgid "Your changes have been updated."
 msgstr ""
 
 #. (broker_name)
 #: ../src/templates/toolkit/affiliates/faq.html.tt:23
 msgid "Your clients will love the %1 trading platform because we offer a complete trading experience tailored to the needs of an exceptionally wide range of traders."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:167
+msgid "Your current balance is"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:715
+msgid "Your details have been updated."
 msgstr ""
 
 #: ../src/templates/haml/home/index.html.haml:1
@@ -9059,16 +10425,60 @@ msgstr ""
 msgid "Your password and login ID are unique and passwords are hashed so that not even %1 staff can read them. This is the reason why we cannot retrieve your password and have to issue you with a new one to your email address if you cannot recall it."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:138
+msgid "Your password cannot be the same as your email"
+msgstr ""
+
 #: ../src/templates/toolkit/user/settings/change_passwordws.html.tt:72
 msgid "Your password has been changed. Please log in again."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:740
+msgid "Your password has been successfully reset. Please log into your account using your new password."
 msgstr ""
 
 #: ../src/templates/toolkit/legal/privacy.html.tt:9
 msgid "Your personal information is used primarily as a way of authenticating you as the proper owner of your account and as the person to whom withdrawal payments may be made, and to process trades. We collect personal data relating to you directly from you when you fill in the account opening form. In the event of any doubt as to the authenticity of your account details or of any withdrawal request, the company reserves the right to request further authentication information as may be deemed appropriate under the circumstances."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:293
+msgid "Your provided email address is already in use by another Login ID. According to our terms and conditions, you may only register once through our site. If you have forgotten the password of your existing account, please <a href=\"%1\">try our password recovery tool</a> or contact customer service."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:570
+msgid "Your request to transfer %1 %2 from %3 to %4 has been successfully processed."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:334
+msgid "Your request to withdraw %1 %2 from your account %3 to Payment Agent %4 account has been successfully processed."
+msgstr ""
+
 #: ../src/templates/haml/get_started/benefits_of_trading_binaries.html.haml:1
 msgid "Your risks are known"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:306
+msgid "Your session duration limit will end in %1 seconds."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:254
+msgid "Your settings have been updated successfully."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:292
+msgid "Your token has expired. Please click <a class=\"pjaxload\" href=\"%1\">here</a> to restart the verification process."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:585
+msgid "Your trading statistics since %1."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:166
+msgid "Your transaction reference is"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:652
+msgid "Your transaction reference number is %1"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:219
@@ -9087,8 +10497,20 @@ msgstr ""
 msgid "Your website URL (if you have one)"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:236
+msgid "Your withdrawal limit is %1 %2 (or equivalent in other currency)."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:235
+msgid "Your withdrawal limit is %1 %2."
+msgstr ""
+
 #: ../src/templates/haml/get_started/benefits_of_trading_binaries.html.haml:1
 msgid "You’ll be surprised by the returns you can make."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:63
+msgid "Zoom"
 msgstr ""
 
 #: ../src/templates/haml/static/responsible_trading.html.haml:1
@@ -9107,6 +10529,10 @@ msgstr ""
 msgid "a limit on the losses you may incur within a specified period of time;"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:385
+msgid "and"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:30
 msgid "any instance where the Company believes that person's activities at this site may be illegal in that person's country or state;"
 msgstr ""
@@ -9123,13 +10549,29 @@ msgstr ""
 msgid "any restriction to its Clients from purchasing any contracts during certain hours."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:310
+msgid "apostrophe"
+msgstr ""
+
 #: ../src/templates/haml/layouts/default/head.html.haml:1
 #: ../src/templates/toolkit/global/head.html.tt:9
 msgid "binary options, forex, forex trading, online trading, financial trading, binary trading, index trading, trading indices, forex trades, trading commodities, binary options strategy, binary broker, binary bet, binary options trading platform, binary strategy, finance, stocks, investment, trading"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:252
+msgid "comma"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/tac.html.tt:20
 msgid "conflicts Policy"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:100
+msgid "day"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:160
+msgid "days"
 msgstr ""
 
 #: ../src/templates/haml/user/account/account_transferws.html.haml:1
@@ -9140,6 +10582,26 @@ msgstr ""
 msgid "e.g. www.binaryqa36.com"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:256
+msgid "f"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:101
+msgid "hour"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:159
+msgid "hours"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:309
+msgid "hyphen"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:209
+msgid "is required. Current spread"
+msgstr ""
+
 #: ../src/templates/toolkit/affiliates/faq.html.tt:38
 msgid "it has an internationally wide appeal, with an interface in English, Spanish, French, German, Portuguese, Chinese, Arabic, Polish, Russian and Indonesian."
 msgstr ""
@@ -9148,8 +10610,49 @@ msgstr ""
 msgid "it is the leading binary option trading platform."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:248
+msgid "letters"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:48
+msgid "loading..."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:305
+msgid "login"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:255
+msgid "m"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:155
+msgid "minimum available duration"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:102
+msgid "minute"
+msgstr ""
+
 #: ../src/templates/haml/user/reality_check_summaryws.html.haml:1
+#: bin/GenerateStaticData.pm:158
 msgid "minutes"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:98
+msgid "month"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:99
+msgid "months"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:639
+msgid "not available"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:249
+msgid "numbers"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/maltainvestws.html.tt:415
@@ -9163,6 +10666,30 @@ msgstr ""
 
 #: ../src/templates/toolkit/legal/datafeed.html.tt:29
 msgid "page for the exact time of settlement for all contracts. Other websites may adopt a different convention (for example some websites choose 4 o'clock NY time, or 5 o'clock London time). As a result, the open, high, low and closing prices displayed on our website may differ to those on other websites, due to the market-closing time convention."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:290
+msgid "password"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:251
+msgid "period"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:196
+msgid "points"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:103
+msgid "second"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:157
+msgid "seconds"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:250
+msgid "space"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/api_tac_tab.html.tt:30
@@ -9187,6 +10714,10 @@ msgstr ""
 msgid "the platform is user friendly and accessible to all levels of traders."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:161
+msgid "ticks"
+msgstr ""
+
 #: ../src/templates/haml/user/account/account_transferws.html.haml:1
 msgid "to your account."
 msgstr ""
@@ -9199,9 +10730,21 @@ msgstr ""
 msgid "use the Binary.com API for any purpose that violates any law or regulation, any right of any person, including but not limited to intellectual property rights, rights of privacy or rights of personality, or in any manner inconsistent with these Terms or privacy policy."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:288
+msgid "verification token"
+msgstr ""
+
 #: ../src/templates/toolkit/legal/complaints_disputes.html.tt:13
 #: ../src/templates/toolkit/legal/complaints_disputes.html.tt:16
 msgid "website"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:96
+msgid "year"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:97
+msgid "years"
 msgstr ""
 
 #: ../src/templates/toolkit/legal/terms_and_conditions.html.tt:179
@@ -9224,8 +10767,156 @@ msgstr ""
 msgid "you have sufficient experience and knowledge in matters of financial trading to be capable of evaluating the merits and risks of acquiring financial contracts via this site and have done so without relying on any information contained in this site."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:513
+msgid "{JAPAN ONLY}%1 %2 payout if %3 does not touch Exercise price through close on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:515
+msgid "{JAPAN ONLY}%1 %2 payout if %3 ends on or between low and high values of Exercise price at close on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:516
+msgid "{JAPAN ONLY}%1 %2 payout if %3 ends otside low and high values of Exercise price at close on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:518
+msgid "{JAPAN ONLY}%1 %2 payout if %3 goes ouside of low and high values of Exercise price through close on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:511
+msgid "{JAPAN ONLY}%1 %2 payout if %3 is strictly higher or equal than Exercise price at close  on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:512
+msgid "{JAPAN ONLY}%1 %2 payout if %3 is strictly lower than Exercise price at close on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:517
+msgid "{JAPAN ONLY}%1 %2 payout if %3 stays between low and high values of Exercise price through close on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:514
+msgid "{JAPAN ONLY}%1 %2 payout if %3 touches Exercise price through close on %4."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:408
+msgid "{JAPAN ONLY}A  Net Settlement type of option is one where the underlying asset does not include yen, but the option fee and settlement are paid in yen; it therefore requires some definition of how the settlement amounts will be calculated and converted to yen."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:409
+msgid "{JAPAN ONLY}A Binary Option contains the right for the buyer to receive a certain fixed amount if the market price reaches the exercise price by the exercise time, but it does not contain any rights to sell or buy the underlying asset."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:425
+msgid "{JAPAN ONLY}A Covered option position is where you hold an offsetting position in the underlying asset."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:412
+msgid "{JAPAN ONLY}A Currency Binary Option is one where there is a target for a particular currency pair, so a strike price for the exchange rate is agreed, and a payout will be due if the judgment price meets the conditions of being over or under the target strike price, depending on the option type, by the exercise time."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:406
+msgid "{JAPAN ONLY}A Currency Option confers the right to sell one currency in exchange for another currency as the underlying asset. For example, the right to sell Yen and buy Dollars is known as a Yen Put / Dollar Call Option, or just Yen Put for short; and the opposite right to buy Yen and sell Dollar is called a Yen Call / Dollar Put Option, or just Yen Call for short."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:426
+msgid "{JAPAN ONLY}A binary call option buyer will benefit from a correct prediction that the asset price will decline to below the strike price by the judgment time."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:429
+msgid "{JAPAN ONLY}A binary call options buyer will benefit from a correct prediction that the asset price will rise above the strike price by the judgment time."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:489
+msgid "{JAPAN ONLY}A binary option price cannot exceed the payout amount."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:494
+msgid "{JAPAN ONLY}A binary option which is in-the-money will have a higher value than an option that is out-of-the-money because there will be a higher probability of receiving the payout amount."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:493
+msgid "{JAPAN ONLY}A binary option which is out-of-the-money will have a lower price than an option which is in-the-money because the probability of receiving the payout amount is lower."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:427
+msgid "{JAPAN ONLY}A binary put option buyer will benefit from a correct prediction that the asset price will decline to below the strike price by the judgment time."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:428
+msgid "{JAPAN ONLY}A binary put options buyer will benefit from a correct prediction that the asset price will rise above the strike price by the judgment time."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:436
+msgid "{JAPAN ONLY}A bought or sold binary option may be closed-out before exercise time by selling or buying-back the option, or alternatively by cancelling."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:504
+msgid "{JAPAN ONLY}A modified version of the Black-Scholes model is widely used to calculate the theoretical prices of binary options."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:451
+msgid "{JAPAN ONLY}About OTC currency for binary options trading, summarizes the profit and loss result of all transactions that have been made between the customer, to publish the information in the company's home page, at any time while the customer is doing the transaction before the start, or the transaction, the information Make sure, for that you're willing to trade under the calm judgment, we are committed to a variety of environmental improvement."
+msgstr ""
+
 #: ../src/templates/toolkit/japan/get_started.html.tt:107
 msgid "{JAPAN ONLY}Activate your account by confirming your authorisation code which we will post to your registered address."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:439
+msgid "{JAPAN ONLY}Although customers and brokers will set limits on customers trading losses, even if those losses are exceeded, it is the customer's responsibility to close the position and so mandatory loss-cuts will not be executed by the broker company."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:405
+msgid "{JAPAN ONLY}An option holder must buy ( or sell ) the underlying asset at a predetermined price within a specified period ( or at a specific time )."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:485
+msgid "{JAPAN ONLY}An option price is the sum of the intrinsic-value and the time-value."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:495
+msgid "{JAPAN ONLY}As the exercise deadline approaches, the price of an in-the-money binary option will move towards the payout amount."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:496
+msgid "{JAPAN ONLY}As the exercise deadline approaches, the price of an out-of-the-money binary option will move towards zero."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:483
+msgid "{JAPAN ONLY}As the expected volatility of the underlying asset increases, a plain vanilla option price will move higher."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:488
+msgid "{JAPAN ONLY}As the time to the exercise point shortens, the time-value of a plain vanilla option decreases."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:519
+msgid "{JAPAN ONLY}BUY price per unit"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:465
+msgid "{JAPAN ONLY}Because option prices are determined by the probability of being exercised, it cannot be said that cheaper options have any natural advantage over expensive options."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:466
+msgid "{JAPAN ONLY}Binary options have lower risk than vanilla options for option sellers, because with binary options the maximum loss is fixed."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:505
+msgid "{JAPAN ONLY}Congratulations, you have pass the test, our Customer Support will contact you shortly."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:507
+msgid "{JAPAN ONLY}Dear customer, you are not allowed to take knowledge test until %1. Last test taken at %2."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:508
+msgid "{JAPAN ONLY}Dear customer, you've already completed the knowledge test, please proceed to next step."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:500
+msgid "{JAPAN ONLY}Delta refers to  a percentage change of the option price with respect to the change in the underlying asset price."
 msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:116
@@ -9244,8 +10935,72 @@ msgstr ""
 msgid "{JAPAN ONLY}Enter your personal information, and acknowledge our terms and conditions."
 msgstr ""
 
+#: bin/GenerateStaticData.pm:522
+msgid "{JAPAN ONLY}Even if all details of the binary options match perfectly, there may still be differences in the prices shown by different broking companies."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:463
+msgid "{JAPAN ONLY}Even if the option is exercise or not exercised, the original option premium remains with the option seller."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:467
+msgid "{JAPAN ONLY}Even though losses in binary options are limited, it is still necessary to take care not to engage in excessive speculative trading and to moderate your transactions volume."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:441
+msgid "{JAPAN ONLY}For a call option, if the price of the underlying asset is higher than the option exercise price, it is know as an in-the-money option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:442
+msgid "{JAPAN ONLY}For a call option, if the price of the underlying asset is higher than the option exercise price, it is know as an out-of-the-money option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:413
+msgid "{JAPAN ONLY}For a currency binary option which has the underlying exchange rate of dollars against yen, the right to receive a payout if the yen becomes weaker is known as a dollar-put binary option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:414
+msgid "{JAPAN ONLY}For a currency binary option with the underlying exchange rate of dollars against yen, the right to receive a payout if the yen becomes stronger is known as a dollar-put binary option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:484
+msgid "{JAPAN ONLY}For a plain vanilla option, as the time to the exercise point shortens, the price of the option will decrease."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:445
+msgid "{JAPAN ONLY}For a put option, if the underlying asset price is higher than the option exercise price, it is known as an in-the-money option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:444
+msgid "{JAPAN ONLY}For a put option, if the underlying asset price is lower than the option exercise price, it is known as an out-of-the-money option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:481
+msgid "{JAPAN ONLY}For an in-the-money option, the further away from the underlying asset price that the option exercise price is, the lower the price of the option will be."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:452
+msgid "{JAPAN ONLY}For an individual investor, all profits from OTC currency options trading are tax-free."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:453
+msgid "{JAPAN ONLY}For an individual investor, profits and losses from OTC currency options traing cannot be combined with profits and losses from margin FX and securities-related OTC options."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:480
+msgid "{JAPAN ONLY}For an out-of-the-money option, the further away from the underlying asset price that the option exercise price is, the lower the price of the option will be."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:443
+msgid "{JAPAN ONLY}For both call and put options, if the underlying asset price is the same as the exercise price, it is known as an at-the-money option."
+msgstr ""
+
 #: ../src/templates/toolkit/japan/get_started.html.tt:127
 msgid "{JAPAN ONLY}For full details of the documents we can accept please download the following guide:"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:499
+msgid "{JAPAN ONLY}Historical volatility is a prediction of the future rate of change in the underlying asset."
 msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:34
@@ -9260,6 +11015,102 @@ msgstr ""
 msgid "{JAPAN ONLY}Identification Documents"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:458
+msgid "{JAPAN ONLY}If an option buyer wishes to exercise the option rights, the seller may still reject the deal."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:482
+msgid "{JAPAN ONLY}If implied volatility increases then the prices of both call and put types of plain vanilla options will increase."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:455
+msgid "{JAPAN ONLY}If the buyer of an option does not exercise the option rights, there will be no fee payable to the option seller."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:456
+msgid "{JAPAN ONLY}If the buyer of an option waives his right to exercise, a transaction in the underlying asset will not be dealt between the seller and the buyer."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:462
+msgid "{JAPAN ONLY}If the exercise period passes without the option being exercised by the buyer, the option premium received by the seller will be the profit made on the trade."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:477
+msgid "{JAPAN ONLY}If the exercise prices and exercise times are the same for an American style and European style option, then the American style option will have a higher price."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:468
+msgid "{JAPAN ONLY}If the probablility of a payout is 50% then when the potential payout is less than 100% of the price paid for the option, the expected return on the investment will be less than 100%."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:486
+msgid "{JAPAN ONLY}If the underlying asset price is 100 yen, the exercise price is 80 yen, and the call option price is 45 yen, then it can be said that the option's intrinsic-value is 20 yen, and its time-value is 25 yen."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:424
+msgid "{JAPAN ONLY}If you believe the underlying asset price will be only moderately volatile, you could still benefit by buying both a call and put option with exercise prices that are above and below the exercise price."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:423
+msgid "{JAPAN ONLY}If you believe the underlying asset price will move by a large amount in either direction, you can benefit by buying both a call and a put option, with the exercise prices set above and below the current underlying price."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:417
+msgid "{JAPAN ONLY}If you buy a currency binary call option at a price of 500 yen, with an underlying of dollar against yen, the payout is 1,000 yen, and the strike price is 100, then if the judgment price at exercise time is 99, you will receive a payout 1,000 yen from the seller of the option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:419
+msgid "{JAPAN ONLY}If you buy a currency binary option at a price of 500 yen, and the judgment price meets the conditions so you receive a payout of 1,000 yen, then your profit can be calculated 500 yen after subtracting the 500 yen that was paid as a fee to the option seller."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:418
+msgid "{JAPAN ONLY}If you buy a currency binary put option at a price of 500 yen, with an underlying of dollar against yen, the payout is 1,000 yen, and the strike price is 100, then if the judgment price at exercise time is 99, you will receive a payout 1,000 yen from the seller of the option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:415
+msgid "{JAPAN ONLY}If you sell a currency binary call option at a price of 500 yen, with an underlying of dollar against yen, the payout is 1,000 yen, and the strike price is 100, then if the judgment price at exercise time is 99, you will need to payout 1,000 yen to the buyer of the option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:420
+msgid "{JAPAN ONLY}If you sell a currency binary option at a price of 500 yen, and the judgment price meets the conditions so you need to payout 1,000 yen, then your profit will be minus 500 yen after subtracting the 500 yen that was received as a fee from the option buyer."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:416
+msgid "{JAPAN ONLY}If you sell a currency binary put option at a price of 500 yen, with an underlying of dollar against yen, the payout is 1,000 yen, and the strike price is 100, then if the judgment price at exercise time is 99, you will need to payout 1,000 yen to the buyer of the option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:498
+msgid "{JAPAN ONLY}Implied volatility is a prediction of the future rate of change in the underlying asset."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:435
+msgid "{JAPAN ONLY}In Japan there are defined trading periods for binary options must be 2 hours or longer, and all trades must be conducted at the start of each trading period."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:449
+msgid "{JAPAN ONLY}In OTC currency binary options trading, if the exchange rate during the trading period moves by more than expected in one direction, and there are no longer any exercise prices which can continue to trade, it is possible under certain conditions to add further exercise prices. However, even when further exercise price have been added, the prices of the original options will not be affected."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:478
+msgid "{JAPAN ONLY}In case of the right to buy the underlying asset (call option), when the underlying asset price falls, the option price will increase."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:479
+msgid "{JAPAN ONLY}In case of the right to sell the underlying asset (put option), when the underlying asset price rises, the option price will increase."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:437
+msgid "{JAPAN ONLY}In contrast to other types of FX options, short positions in FX Binary Options cannot be closed-out as they are not subject to loss-cut regulations."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:490
+msgid "{JAPAN ONLY}In general a binary option price will not exceed the payout amount."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:492
+msgid "{JAPAN ONLY}In general the price of a binary option will be lower than the price of a plain vanilla option because the payout amount is fixed."
+msgstr ""
+
 #: ../src/templates/toolkit/japan/get_started.html.tt:139
 msgid "{JAPAN ONLY}In order to open a trading account for you we will need to test your knowledge of options to ensure you have the necessary understanding of the products and risks of binary option trading."
 msgstr ""
@@ -9268,8 +11119,37 @@ msgstr ""
 msgid "{JAPAN ONLY}Introduction to Binary Options"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:469
+msgid "{JAPAN ONLY}It cannot be said that binary options trading is unconditionally advanteous over regular spot fx trading, because investors may lose all of their investment whereas in spot fx trading there will still be some value in the trading position."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:530
+msgid "{JAPAN ONLY}It is determined that proper by the results of this test, if you want to start the transaction, and then also as a trouble on the transaction occurred between the Company , the Company despite missing is knowledge related to options trading trading cause of action and you agree that you will not is that it has admitted ."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:531
+msgid "{JAPAN ONLY}It is determined the customers have basic knowledge of option trading by the results of the knowledge test. If the customers start trading, the customers need to agree not have lawsuit despite the customer are shortage of knowledge related to options trading, and it cause damages, we admit to open the trading account."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:433
+msgid "{JAPAN ONLY}It is possible to use two binary options to make a profit if the asset price settles inbetween the two strikes. It is also possible to buy a single range option that will achieve the same result."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:434
+msgid "{JAPAN ONLY}It is possible to use two binary options to make a profit if the asset price settles outside the two strikes. It is also possible to buy a single range option that will achieve the same result."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:532
+msgid "{JAPAN ONLY}It prohibits the copying of the questions . In addition , You agree that you will not leak to third party"
+msgstr ""
+
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:2
+#: bin/GenerateStaticData.pm:399
 msgid "{JAPAN ONLY}Knowledge Test"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:398
+msgid "{JAPAN ONLY}Knowledge Test Result"
 msgstr ""
 
 #: ../src/templates/toolkit/new_account/japanws.html.tt:30
@@ -9279,6 +11159,18 @@ msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:169
 msgid "{JAPAN ONLY}Option Pricing"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:501
+msgid "{JAPAN ONLY}Option prices are normally dependant on elements such as the underlying asset price, the exercise price, the length of time until the exercise point, volatility, and interest rates. Apart from the fixed exercise price, all other elements are changing constantly, so an understanding of the relationships between each element and changes in the options price is necessary for the management of options trading risk."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:502
+msgid "{JAPAN ONLY}Option prices are normally dependant on elements such as the underlying asset price, the exercise price, the length of time until the exercise point, volatility, and interest rates. However, when the remaining time to the exercise point is very short, there is no need to consider these when managing option trading risk, as all these elements are constant."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:525
+msgid "{JAPAN ONLY}Option prices depend on the spot price, the time to expiry, the volatility of the spot rate and interest rates."
 msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:12
@@ -9291,6 +11183,14 @@ msgstr ""
 msgid "{JAPAN ONLY}Options Basics"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:459
+msgid "{JAPAN ONLY}Options are said to be leveraged products because in the case of large moves in the underlying asset price, the values of the options can increase by large amounts compared to the price paid for the option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:440
+msgid "{JAPAN ONLY}Options may be European or American style of exercise, and those which can be exercised at only one expiry time are the European style options."
+msgstr ""
+
 #: ../src/templates/toolkit/japan/get_started.html.tt:112
 msgid "{JAPAN ONLY}Our Customer Support staff will contact you at each stage to guide you through the process. Please also download our full guide to opening an account:"
 msgstr ""
@@ -9301,6 +11201,10 @@ msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:103
 msgid "{JAPAN ONLY}Please click <a class=\"pjaxload\" href=\"#identification-documents\">here</a> for further information."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:509
+msgid "{JAPAN ONLY}Please complete the following questions."
 msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:183
@@ -9325,37 +11229,74 @@ msgstr ""
 msgid "{JAPAN ONLY}Pre-Contract Documents"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:472
+msgid "{JAPAN ONLY}Price of OTC currency option is the calculated value based on multiple elements and is determined by relative trading basically."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:476
+msgid "{JAPAN ONLY}Price of call option will be lower interest rates of the underlying assets is low, but the price of the put option, go up when the interest rates of the underlying assets is low."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:474
+msgid "{JAPAN ONLY}Price of the option, the price of the underlying asset, price fluctuation rate of the underlying assets, the time until the exercise date, subject to any of the impact of interest rates."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:523
+msgid "{JAPAN ONLY}Prices for currency options are calculated relative the value of theunderlying spot price, and are dependant on multiple factors which may vary."
+msgstr ""
+
 #: ../src/templates/toolkit/japan/get_started.html.tt:152
 msgid "{JAPAN ONLY}Purchase, Settlement & Resale"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:473
+msgid "{JAPAN ONLY}Regarding to the OTC price of financial instruments, in case that financial instruments business operator suggests both of  bid and ask price (or trading price and cancellation price), generally there is a difference of them. This option will be wider as the expiration approaches."
 msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:174
 msgid "{JAPAN ONLY}Regulation & Tax"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:520
+msgid "{JAPAN ONLY}SELL price  per unit"
+msgstr ""
+
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:24
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:7
+#: bin/GenerateStaticData.pm:400
 msgid "{JAPAN ONLY}Section 1: Structure"
 msgstr ""
 
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:10
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:27
+#: bin/GenerateStaticData.pm:401
 msgid "{JAPAN ONLY}Section 2: Method"
 msgstr ""
 
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:13
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:30
+#: bin/GenerateStaticData.pm:402
 msgid "{JAPAN ONLY}Section 3: Outline"
 msgstr ""
 
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:16
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:33
+#: bin/GenerateStaticData.pm:403
 msgid "{JAPAN ONLY}Section 4: Risk"
 msgstr ""
 
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:19
 #: ../src/templates/toolkit/japan/knowledge_test.html.tt:36
+#: bin/GenerateStaticData.pm:404
 msgid "{JAPAN ONLY}Section 5: Calculation"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:438
+msgid "{JAPAN ONLY}Short positions in FX Binary Options must be covered by initial margin and any further losses must be covered by further margin deposits."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:506
+msgid "{JAPAN ONLY}Sorry, you have failed the test, please try again after 24 hours."
 msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:18
@@ -9364,8 +11305,108 @@ msgstr ""
 msgid "{JAPAN ONLY}Summary of Specifications"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:397
+msgid "{JAPAN ONLY}Take knowledge test"
+msgstr ""
+
 #: ../src/templates/toolkit/japan/get_started.html.tt:98
 msgid "{JAPAN ONLY}Take our Knowledge Test to confirm your understanding of options."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:503
+msgid "{JAPAN ONLY}The Black-Scholes model is widely used to calculate theoretical option prices."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:446
+msgid "{JAPAN ONLY}The Exercise Price is the level at which the option buyer has the right to trade the underlying, and is also used for binary options to determine whether the buyer should receive a payout."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:447
+msgid "{JAPAN ONLY}The Exit Price is the price that is observed at the judgment time, and is used to determine whether a payout should be made."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:460
+msgid "{JAPAN ONLY}The buyer of a vanilla option can choose whether to exercise the option or not. His loss is limited to the price paid for the option, whereas his potential profit is unlimited."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:450
+msgid "{JAPAN ONLY}The exit price is important in binary options. In case of handling the OTC currency-related binary options trading for private individuals, the broker company must perform inspections of the exit prices which have been used for determining option payout, and must check whether there is an error in the data in cases where that the company has used rated data provided by third company."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:464
+msgid "{JAPAN ONLY}The maximum loss for the buyer of an option is the price paid, and the maximium loss for the option seller will be the payout amount minus the opion price he received."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:470
+msgid "{JAPAN ONLY}The particular details of binary options are all the same, no matter which broking company you trade with."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:448
+msgid "{JAPAN ONLY}The payout is the amount that the option seller must pay to the buyer if the buyer exercises his right when the conditions for a payout have been satisfied."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:471
+msgid "{JAPAN ONLY}The price of OTC binary options of the same conditions, (sometimes) the price varies depending on transactions dealers handling financial instruments business."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:497
+msgid "{JAPAN ONLY}The price of a binary option is affected by not only the change in the underlying asset price, but also the change in remaining time to the exercise point."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:526
+msgid "{JAPAN ONLY}The price of a vanilla call option will be lower when price of the underlying asset is low, but the price of the put option will be higher when the price of the underlying asset is low."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:475
+msgid "{JAPAN ONLY}The price of an option can be affected by the underlying asset price, by the volatility rate of the underlying asset, or by the time remaining to the exercise time."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:461
+msgid "{JAPAN ONLY}The seller of a vanilla option can not choose whether to exercise the option or not. His profit is limited to the price received for the option, whereas his potential loss is unlimited and could be substantial."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:457
+msgid "{JAPAN ONLY}The seller of an option should receive the option premium from the buyer, even if the buyer waives the right to exercise the option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:510
+msgid "{JAPAN ONLY}The test is unavailable now, test can only be taken again on next business day with respect of most recent test."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:487
+msgid "{JAPAN ONLY}The time-value of an option represents the expected value of the option at the exercise point, and may be positive, even when the intrinsic-value is zero."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:411
+msgid "{JAPAN ONLY}There are many types of Binary Option, including some such as Range Binary Options and Touch or No-Touch Binary Options which do not always require automatic payment at Exercise Time and which will be settled earlier if certain conditions have been met. However, in all cases, for a payment to be required, the option must end In The Money."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:410
+msgid "{JAPAN ONLY}There are some types of Binary Option, such as Range Binary Options, Touch or No-Touch Binary Options, that are exceptions to the general rule where payment is made at a known exercise time. For these types of option a payment is made automatically at Exit Time when certain conditions have been met."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:407
+msgid "{JAPAN ONLY}There are two types of option delivery: One requires exchanging the underlying asset, and the other requires a payment which depends on the difference between the fair market price and the exercise price. A Binary Option is the second type where if the fair market price meets certain conditions with respect to the exercise price, then an agreed fixed amount will be paid to the option buyer."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:527
+msgid "{JAPAN ONLY}This knowledge test is required by law. As we provide the test, we know customers better whether the customers are suitable investors to be carried out the binary options trading, and customers can start trading with us."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:529
+msgid "{JAPAN ONLY}This test is for the purpose of confirming if the customers have basic knowledge related to options trading ."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:421
+msgid "{JAPAN ONLY}To avoid or hedge the future price of an underlying asset which you hold, you should buy a call option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:422
+msgid "{JAPAN ONLY}To compensate for any rise in the price of an underlying asset that you intend to buy in future, you should buy a call option."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:528
+msgid "{JAPAN ONLY}To invest a binary options investment accurately, the customer are required knowledge and experience related to derivative transactions."
 msgstr ""
 
 #: ../src/templates/toolkit/japan/get_started.html.tt:164
@@ -9378,8 +11419,36 @@ msgstr ""
 msgid "{JAPAN ONLY}Trading Guide"
 msgstr ""
 
+#: bin/GenerateStaticData.pm:521
+msgid "{JAPAN ONLY}Units"
+msgstr ""
+
+#: bin/GenerateStaticData.pm:454
+msgid "{JAPAN ONLY}Unless special arrangements are made, cooling-off will not be available after OTC binary options trading contract has been made."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:491
+msgid "{JAPAN ONLY}Unlike a plain vanilla option, an in-the-money binary option will have a lower price, the further away it is from the exercise point."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:432
+msgid "{JAPAN ONLY}Using binary options for hedging a position in the underlying asset means that only part of the loss or gain can be hedged, because the payout amount is fixed."
+msgstr ""
+
 #: ../src/templates/toolkit/japan/get_started.html.tt:124
 msgid "{JAPAN ONLY}We are required to request copies of your My Number Card as well as proof of registered address. Your details will be kept secure and only used for the specific purposes of verifying your credentials, as required by law."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:430
+msgid "{JAPAN ONLY}When buying a vanilla call option, the break-even price at the exercise point is the strike price plus the option price paid in units of the underlying."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:431
+msgid "{JAPAN ONLY}When buying a vanilla put option, the break-even price at the exercise point is the strike price minus the option price paid in units of the underlying."
+msgstr ""
+
+#: bin/GenerateStaticData.pm:524
+msgid "{JAPAN ONLY}Where broking companies show bid and offer prices for purchasing and sell-back of positions, these prices may become further apart the nearer you are to the exercise time."
 msgstr ""
 
 #. (request.url_for("/", { 'l' => 'JA'  }))

@@ -748,6 +748,9 @@ sub _texts {
         push @texts, localize('If you need assistance feel free to contact our [_1]Customer Support');
         push @texts, localize('Your account is not fully authenticated. Please visit the <a href="[_1]">authentication</a> page for more information.');
 
+
+
+
 #        for (BOM::Market::Registry->instance->display_markets) {
 #            my @underlyings;
 #            if ($_->name eq 'forex' or $_->name eq 'commodities') {
