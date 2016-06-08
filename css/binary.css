@@ -2876,6 +2876,7 @@ a.close:hover {
 .inpage_popup_container_ws .inpage_popup_content_box #sell_details_table th {
   line-height: 24px;
   border-bottom-color: #c2c2c2;
+  cursor: pointer;
 }
 .inpage_popup_container_ws .inpage_popup_content_box #sell_details_table td {
   border-bottom-width: 1px;
@@ -4782,7 +4783,7 @@ a.dynamic, span.dynamic, div.dynamic, p.dynamic, button.dynamic, table.dynamic {
 #portfolio td {
   padding: 10px 10px;
 }
-#portfolio td.indicative, #portfolio td.purchase {
+#portfolio td.indicative, #portfolio td.purchase, #portfolio .payout {
   white-space: nowrap;
 }
 #portfolio td.indicative.no_resale {
@@ -4804,7 +4805,7 @@ a.dynamic, span.dynamic, div.dynamic, p.dynamic, button.dynamic, table.dynamic {
   text-align: left !important;
 }
 @media screen and (max-width: 480px) {
-  #portfolio .details {
+  #portfolio .details, #portfolio .payout {
     display: none;
   }
 }
@@ -5145,34 +5146,50 @@ div.kineticjs-content {
   float: right;
 }
 
-#androidApp {
+#app-container {
+  text-align: center;
+}
+
+#androidApp, #appstore {
   width: 100px;
   height: 30px;
   display: inline-block;
-  background: url("../images/pages/trade/google-play-badge.png") no-repeat;
-  background-size: 100px 30px;
   position: relative;
 }
 
+#appstore {
+  background: url("../images/pages/applications/appstore.svg") 0 0/100px 30px no-repeat;
+  margin-left: 10px;
+}
+
+#androidApp {
+  background: url("../images/pages/trade/google-play-badge.png") 0 0/100px 30px no-repeat;
+}
+
 /* trading page */
-#trading_socket_container #androidApp {
+#trading_socket_container #androidApp, #trading_socket_container #appstore {
   float: right;
 }
 @media (max-width: 768px) {
   #trading_socket_container #androidApp {
+    margin-left: 10px;
+  }
+  #trading_socket_container #appstore, #trading_socket_container #androidApp {
     margin: 0 auto;
     padding-bottom: 10px;
-    display: block;
     float: none;
   }
 }
 
-.open-positions .grd-grid-4:not(:first-child) {
+.open-positions .eq:not(:first-child) {
   border: 1px dashed #d9d9d9;
   border-width: 0 0 0 1px;
 }
-.open-positions .grd-grid-4:nth-child(3n+1) {
+.open-positions .eq:nth-child(3n+1) {
   border-width: 0;
+}
+.open-positions .one-line {
+  margin-bottom: 35px;
 }
 .open-positions .grd-grid-3 {
   text-align: center;
@@ -5189,15 +5206,18 @@ div.kineticjs-content {
   padding-left: 10px;
   padding-right: 10px;
 }
-.open-positions .title-section {
-  height: 2.5em;
+.open-positions .nowrap {
+  white-space: nowrap;
 }
-.open-positions .paragraph-section {
-  height: 10em;
-  overflow: visible;
+.open-positions .eq {
+  padding: 10px;
+  width: 30%;
 }
-.open-positions .top-margin {
-  margin-top: 40px;
+.open-positions .eqWrap {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 
 .job-details .grd-grid-3 .grd-grid-12 {
@@ -5213,24 +5233,27 @@ div.kineticjs-content {
   width: 80%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
+  .open-positions .eq {
+    width: 45%;
+  }
+  .open-positions .eq:nth-child(3n+1) {
+    border-width: 0 0 0 1px;
+  }
+  .open-positions .eq:nth-child(2n+1) {
+    border-width: 0;
+  }
   .open-positions .grd-grid-phablet-6 {
     border-width: 0 !important;
   }
   .open-positions .grd-grid-phablet-6:nth-child(even) {
     border-width: 0 0 0 1px !important;
   }
-  .open-positions .grd-grid-phablet-6.first, .open-positions .top-margin {
-    margin-top: 20px;
-  }
-  .open-positions .grd-grid-phablet-6.first .title-section {
-    height: 1.4em;
-  }
-  .open-positions .paragraph-section {
-    height: 9em;
-  }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 460px) {
+  .open-positions .eq {
+    width: 100%;
+  }
   .open-positions .grd-grid-mobile-12:not(:first-child) {
     padding-top: 20px;
     margin-top: auto !important;
@@ -5240,15 +5263,6 @@ div.kineticjs-content {
   }
   .open-positions img.responsive {
     width: 40%;
-  }
-  .open-positions .title-section {
-    height: 1em;
-  }
-  .open-positions .paragraph-section {
-    height: auto;
-  }
-  .open-positions .top-margin {
-    margin-top: auto;
   }
 }
 /* static pages */
@@ -5468,9 +5482,13 @@ div.kineticjs-content {
 }
 #trading_socket_container #contract_prices_container .price_container .contract_purchase {
   margin-bottom: 6px;
+  width: 90%;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
 }
 #trading_socket_container #contract_prices_container .price_container .contract_purchase .purchase_button {
   cursor: pointer;
+  width: 100%;
 }
 #trading_socket_container #contract_form_content {
   padding: 0 10px;
@@ -5628,8 +5646,8 @@ div.kineticjs-content {
 #trading_socket_container #contract_prices_container .contract_error {
   background-color: #fef1cf;
 }
-#trading_socket_container #contract_prices_container .contract_amount, #trading_socket_container #contract_prices_container .contract_description {
-  padding: 10px 10px 10px 5px;
+#trading_socket_container #contract_prices_container .contract_amount, #trading_socket_container #contract_prices_container .contract_payout, #trading_socket_container #contract_prices_container .payout, #trading_socket_container #contract_prices_container .stake {
+  padding: 3px;
   line-height: 1.5;
   font-size: 90%;
   -ms-flex: 1 0 auto;
@@ -5638,13 +5656,18 @@ div.kineticjs-content {
   display: flex;
   -ms-flex-align: center;
       align-items: center;
-  -ms-flex-pack: center;
-      justify-content: center;
 }
-#trading_socket_container #contract_prices_container .contract_amount {
+#trading_socket_container #contract_prices_container .stake, #trading_socket_container #contract_prices_container .payout {
+  padding: 0;
+  -ms-flex-pack: end;
+      justify-content: flex-end;
+}
+#trading_socket_container #contract_prices_container .contract_amount, #trading_socket_container #contract_prices_container .contract_payout {
   font-weight: bold;
   font-size: 1.1rem;
   border-radius: 5px;
+  -ms-flex-pack: center;
+      justify-content: center;
 }
 #trading_socket_container #expiry_type_duration {
   -ms-flex-wrap: wrap;
@@ -5679,7 +5702,10 @@ div.kineticjs-content {
   text-align: center;
   -ms-flex-align: center;
       align-items: center;
-  width: 230px;
+  width: 100%;
+  -ms-flex-pack: start;
+      justify-content: flex-start;
+  padding-left: 30px;
 }
 #trading_socket_container #contract_prices_container .price_container .price_wrapper.small {
   width: 95px;
@@ -5695,9 +5721,30 @@ div.kineticjs-content {
 }
 #trading_socket_container #contract_prices_container .price_container .price_wrapper .amount_wrapper {
   float: left;
+  width: 100%;
 }
-#trading_socket_container #contract_prices_container .price_container .price_wrapper .contract_amount {
+#trading_socket_container #contract_prices_container .price_container .price_wrapper .amount_wrapper .amount_wrapper_div {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  -ms-flex-align: center;
+      align-items: center;
   margin-bottom: 10px;
+}
+#trading_socket_container #contract_prices_container .price_container .price_wrapper .amount_wrapper .amount_wrapper_div div {
+  -ms-flex-positive: 1;
+      flex-grow: 1;
+}
+#trading_socket_container #contract_prices_container .price_container .price_wrapper .amount_wrapper .amount_wrapper_div .stake_wrapper {
+  margin-left: 20px;
+}
+#trading_socket_container #contract_prices_container .price_container .price_wrapper .amount_wrapper .amount_wrapper_div .payout_wrapper {
+  margin-right: 20px;
+}
+#trading_socket_container #contract_prices_container .price_container .price_wrapper .contract_amount, #trading_socket_container #contract_prices_container .price_container .price_wrapper .contract_payout, #trading_socket_container #contract_prices_container .price_container .price_wrapper .stake, #trading_socket_container #contract_prices_container .price_container .price_wrapper .payout {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
 }
 #trading_socket_container #period_row, #trading_socket_container #jbarrier_row, #trading_socket_container #jhigh_barrier_row, #trading_socket_container #jlow_barrier_row {
   display: none;
@@ -5863,6 +5910,7 @@ div.kineticjs-content {
   border-top: 1px solid #dedede;
   border-bottom: 1px solid #dedede;
   border-right: 1px solid #dedede;
+  text-align: right;
 }
 #trading_socket_container.japan .pricing_table_cell .button {
   color: white;
@@ -5944,9 +5992,6 @@ div.kineticjs-content {
   display: -ms-flexbox;
   display: flex;
 }
-#trading_socket_container.japan .price {
-  width: 50px;
-}
 
 @media all and (max-width: 480px) {
   #trading_socket_container #contract_market_form_container ul#contract_form_name_nav a.tm-a {
@@ -5957,6 +6002,9 @@ div.kineticjs-content {
   }
   #trading_socket_container #contract_form_content #duration_amount {
     margin-bottom: 5px;
+  }
+  #trading_socket_container .contract_purchase {
+    width: 70% !important;
   }
 }
 @media all and (max-width: 640px) {
@@ -6003,6 +6051,9 @@ div.kineticjs-content {
   }
   #trading_socket_container #contract_prices_container .price_wrapper.small {
     width: auto;
+  }
+  #trading_socket_container #contract_prices_container .price_wrapper .amount_wrapper {
+    width: 70%;
   }
   #trading_socket_container #contract_prices_container .row {
     -ms-flex-direction: column;
