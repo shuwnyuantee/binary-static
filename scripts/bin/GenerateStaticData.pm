@@ -7,19 +7,8 @@ use v5.10;
 use JSON qw(to_json);
 use File::Slurp;
 use YAML::XS qw(LoadFile);
-
+# our module in lib
 use BS;
-
-#use BOM::Market::Registry;
-#use BOM::Market::SubMarket::Registry;
-#use BOM::Market::UnderlyingDB;
-#use BOM::Market::Underlying;
-#use BOM::Product::Contract::Category;
-#use BOM::Product::Offerings qw(get_offerings_with_filter);
-#
-#my $contract_categories = LoadFile('/home/git/regentmarkets/bom/config/files/contract_categories.yml');
-#my $contract_type_config = LoadFile('/home/git/regentmarkets/bom/config/files/contract_types.yml');
-
 
 sub generate_data_files {
     my $js_path = shift;
@@ -747,48 +736,6 @@ sub _texts {
         push @texts, localize('There was a problem validating your personal details. Please fix the fields [_1]here');
         push @texts, localize('If you need assistance feel free to contact our [_1]Customer Support');
         push @texts, localize('Your account is not fully authenticated. Please visit the <a href="[_1]">authentication</a> page for more information.');
-
-
-
-
-#        for (BOM::Market::Registry->instance->display_markets) {
-#            my @underlyings;
-#            if ($_->name eq 'forex' or $_->name eq 'commodities') {
-#                @underlyings = map { BOM::Market::Underlying->new($_) } BOM::Market::UnderlyingDB->get_symbols_for(
-#                    market   => $_->name,
-#                    bet_type => 'ANY',
-#                );
-#            } else {
-#                @underlyings = map { BOM::Market::Underlying->new($_) } BOM::Market::UnderlyingDB->get_symbols_for(
-#                    market           => $_->name,
-#                    bet_type         => 'ANY',
-#                    exclude_disabled => 1
-#
-#                );
-#            }
-#            push @texts, localize($_->display_name);
-#            push @texts, map { localize($_->display_name) } @underlyings;
-#
-#            foreach my $submarket (BOM::Market::SubMarket::Registry->instance->find_by_market($_->name)) {
-#                push @texts, localize($submarket->display_name);
-#            }
-#        }
-#
-#        #add contract categories as well
-#        my @all_categories = map {BOM::Product::Contract::Category->new($_)} keys %{$contract_categories};
-#        foreach my $contract_category (@all_categories) {
-#            if ($contract_category->display_name) {
-#                push @texts, localize($contract_category->display_name);
-#            }
-#        }
-#
-#        #add contract type as well
-#        foreach my $contract_type (get_offerings_with_filter('contract_type')) {
-#            my $display_name = $contract_type_config->{$contract_type}->{display_name};
-#            if ($display_name) {
-#                push @texts, localize($display_name);
-#            }
-#        }
 
         my %as_hash = @texts;
         $js .= "texts_json['" . $language . "'] = " . JSON::to_json(\%as_hash) . ";\n";
