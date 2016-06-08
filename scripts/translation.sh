@@ -15,4 +15,11 @@ done
 
 msgmerge --previous --backup none --no-wrap --update ../src/config/en.po ../src/config/locales/messages.pot
 
-perl -pi -e 's/Content-Type: text\/plain; charset=CHARSET/Content-Type: text\/plain; charset=UTF-8/'  ../src/config/locales/messages.pot
+carton exec perl -pi -e 's/Content-Type: text\/plain; charset=CHARSET/Content-Type: text\/plain; charset=UTF-8/'  ../src/config/locales/messages.pot
+
+
+carton exec perl -ni -e  'print unless m/^#:.+:\d+$/'  ../src/config/en.po
+
+for i in $(ls ../src/config/locales/*.po*); do \
+    carton exec perl -ni -e  'print unless m/^#:.+:\d+$/'  $i ; \
+done
