@@ -19,8 +19,8 @@ var Price = (function() {
 
     var createProposal = function(typeOfContract) {
         var proposal = {
-          proposal: 1,
-          subscribe: 1
+            price_stream: 1,
+            subscribe: 1
         };
         var underlying = document.getElementById('underlying'),
             submarket = document.getElementById('submarket'),
