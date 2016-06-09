@@ -33,7 +33,9 @@ After HTML build, you can run `sudo grunt connect` then visits [https://localhos
 ### (2) Make translation
 
 #### Setup
-* on Mac, install `Homebrew` by `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+* on Mac, install `Homebrew`:
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 * install `GNU gettext` by `brew install gettext`
 
 #### Update translation files
