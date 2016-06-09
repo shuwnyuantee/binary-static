@@ -34,7 +34,7 @@ After HTML build, you can run `sudo grunt connect` then visits [https://localhos
 
 #### Setup
 * on Mac, install `Homebrew`:
-$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+**  $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 * install `GNU gettext` by `brew install gettext`
 
