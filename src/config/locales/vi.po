@@ -44,217 +44,165 @@ msgstr "$25,000 - $100,000"
 msgid "$250,000 - $1,000,000"
 msgstr "$250,000 - $1,000,000"
 
-#. (website, "<a href=\"https://developers.binary.com\" target=\"_blank\"> Application Program Interface</a>")
 msgid "%1 %2 (\"API\") Terms and Conditions"
 msgstr "%1 %2 (\"API\") Điều khoản và Điều kiện"
 
 msgid "%1 %2 has been credited to your Virtual money account %3"
 msgstr "%1 %2 vừa được cộng thêm vào tài khoản tiền Ảo %3 của bạn"
 
-#. (website)
 msgid "%1 Affiliate Program Terms and Conditions"
 msgstr "Điều kiện và Điều khoản của chương trình hợp tác %1"
 
 msgid "%1 Please click the link below to restart the password recovery process. If you require further assistance, please contact our Customer Support."
 msgstr "%1 Vui lòng nhấn vào đường dẫn dưới đây để bắt đầu lại quá trình khôi phục mật khẩu. Nếu bạn cần thêm trợ giúp, vui lòng liên hệ với Trung tâm hỗ trợ khách hàng của chúng tôi."
 
-#. (stash->{website_name})
 msgid "%1 affiliate partners who wish to support a big group of Clients"
 msgstr "Các đối tác %1 muốn hỗ trợ một nhóm Khách hàng"
 
-#. ('<a target="_blank" href="http://www.gambleaware.co.uk/">GambleAware</a>')
 msgid "%1 also provides links to an online quiz to assess a potential gambling problem and an online gambling calculator to see how much you can really spend."
 msgstr "%1 đồng thời cung cấp đường dẫn tới một bài kiểm tra trực tuyến để đánh giá những rủi ro có thể xảy ra khi cá cược và máy tính cá cược trực tuyến nhằm xác định mức độ thật sự bạn có thể chi."
 
-#. (website)
 msgid "%1 and the bull/bear logo are registered trademarks."
 msgstr "Logo %1 và logo bò/gấu là nhãn hiệu đã được đăng ký."
 
-#. (request.website.display_name)
 msgid "%1 does not charge any transfer fees."
 msgstr "%1 không tính bất kì phí chuyển tiền nào."
 
-#. (broker_name)
-#. (stash('website_name')
 msgid "%1 gives everyone an easy and exciting way to participate in the financial markets. Trade with as little as $1 USD on major currencies, indices and commodities."
 msgstr "%1 mang lại cho mọi người một cách gia nhập thị trường tài chính dễ dàng và sôi nổi. Bắt đầu giao dịch chỉ với $1 đô la Mỹ với nhiều loại tiền tệ, chỉ số, và hàng hóa khác."
 
-#. (stash->{website_name})
 msgid "%1 has created Volatility Indices that you can trade 24/7. You can trade these on all types of contract:"
 msgstr "%1 tạo các chỉ số Biến động cho phép bạn giao dịch 24/7. Bạn có thể giao dịch trên mọi loại hợp đồng:"
 
-#. (stash->{website_name})
 msgid "%1 has earned an enviable reputation for our commitment to high ethical standards and the quality of the trading experience we provide."
 msgstr "%1 được đánh giá cao trong việc cam kết cung cấp những giao dịch có chất lượng cao và uy tín."
 
-#. (stash->{website_name})
 msgid "%1 has several exceptional career opportunities for Customer Service Professionals."
 msgstr "%1 có nhiều cơ hội nghề nghiệp tuyệt vời cho các Chuyên Gia Chăm Sóc Khách Hàng."
 
-#. (stash->{website_name})
 msgid "%1 has thousands of clients taking a variety of positions on the financial markets at any one time, and earns a small margin on these trades."
 msgstr "%1 có hàng ngàn khách hàng đang nắm giữ nhiều vị trí khác nhau trên thị trường tài chính, và kiếm được lợi nhuận trên những giao dịch này."
 
 msgid "%1 has updated its %2. By clicking OK, you confirm that you have read and accepted the updated %2."
 msgstr "%1 vừa cập nhật %2. Bằng cách nhấn vào OK, bạn xác nhận rằng bạn đã đọc và chấp nhận bản cập nhật %2."
 
-#. (landing_company, tnc_page_url)
 msgid "%1 has updated its <a class=\"pjaxload\" href=\"%2\">Terms & Conditions</a>. By clicking OK, you confirm that you have read and accepted the updated <a class=\"pjaxload\" href=\"%2\">Terms & Conditions</a>."
 msgstr "%1 vừa cập nhật <a class=\"pjaxload\" href=\"%2\">Điều khoản & Điều kiện</a>. Bằng cách nhấn vào OK, bạn xác nhận rằng bạn đã đọc và chấp nhận bản cập nhật <a class=\"pjaxload\" href=\"%2\">Điều khoản và Điều kiện</a>."
 
-#. (stash->{website_name})
 msgid "%1 is always looking to add experienced professionals to its talented team of administrators, technical contributors, and managers. To support our continued growth, we’ve developed a number of exciting career opportunities in the following areas:"
 msgstr "%1 luôn tìm kiếm các chuyên gia có kinh nghiệm để bổ sung vào đội ngũ quản trị, kỹ thuật, và quản lý. Để hỗ trợ cho việc tăng trưởng liên tục, chúng tôi đã phát triển một số cơ hội nghề nghiệp thú vị trong các lĩnh vực sau:"
 
-#. (request.website.display_name, "//developers.binary.com")
 msgid "%1 is an active proponent of the open-source movement. Suggest enhancements, and take part in the development of our powerful applications. You can find more information on our <a href=\"%2\" target=\"_blank\">Developers Portal</a>."
 msgstr "%1 là một người khởi xướng nhiệt tình phong trào nguồn mở. Để gợi ý những cải tiến và góp phần vào sự phát triển những ứng dụng mạnh mẽ của chúng tôi. Bạn có thể tìm thấy nhiều thông tin hơn trên <a href=\"%2\" target=\"_blank\">Cổng thông tin phát triển</a> của chúng tôi."
 
-#. (stash->{website_name})
 msgid "%1 is entirely web-based and requires no software installation."
 msgstr "%1 hoàn toàn dựa trên nền tảng web, không yêu cầu cài đặt bất kỳ phần mềm nào."
 
-#. (stash->{website_name})
 msgid "%1 is looking to recruit highly skilled, experienced designers who are passionate about developing attractive visuals for both online and offline applications."
 msgstr "%1 đang mong muốn tuyển dụng những nhà thiết kế có tay nghề cao và có kinh nghiệm, những người luôn đam mê phát triển những hình ảnh bắt mắt cho các ứng dụng trực tuyến và ngoại tuyến."
 
-#. (stash->{website_name})
 msgid "%1 is one of the oldest and most respected names in online binary trading."
 msgstr "%1 là một trong những tên tuổi lâu đời nhất và được đánh giá cao trong lĩnh vực giao dịch nhị phân trực tuyến."
 
-#. (stash->{website_name}, url_for('/group-history')
 msgid "%1 is owned and operated by the Binary Ltd. group of companies. For more information, <a href=\"%2\">visit our history page</a>."
 msgstr "%1 thuộc quyền sở hữu và được điều hành bởi tập đoàn Binary Ltd. Để biết thêm thông tin, <a href=\"%2\">ghé thăm trang lịch sử của chúng tôi</a>."
 
-#. (stash->{website_name})
 msgid "%1 is seeking a junior to mid-career professional with exceptional administrative and organization skills to join its General Affairs Team."
 msgstr "%1 đang tìm kiếm một sinh viên năm cuối hoặc người có kinh nghiệm với kỹ năng hành chính và tổ chức xuất sắc để tham gia Phòng Hành Chính."
 
-#. (stash->{website_name})
 msgid "%1 is seeking a qualified proofreader with a flair for language and a meticulous eye for detail. You must be able to interact with our staff using a web-based translator interface. You’ll work with colleagues in IT, Customer Support and Marketing to provide localised text and translation services."
 msgstr "%1 đang tìm kiếm một nhân viên hiệu chỉnh có khả năng ngoại ngữ thông thạo, cẩn thận và tỉ mỉ. Bạn phải có khả năng giao tiếp với các nhân viên của chúng tôi bằng cách sử dụng một giao diện dựa trên web dịch. Bạn sẽ làm việc với các đồng nghiệp tại bộ phận Công nghệ thông tin, Hỗ Trợ Khách Hàng và Marketing để cung cấp những văn bản đã được địa phương hoá và dịch vụ dịch thuật."
 
-#. (stash->{website_name})
 msgid "%1 is seeking qualified translation professionals familiar with specific target markets, languages, and cultures. By delivering high-quality translation to support our customers in a particular language, you will serve as the company’s voice to clients in certain key areas of the world. You’ll work with colleagues in IT, Customer Support, and Marketing to provide localised text and translation services through a web-based tool. This position will report to our Translation Project Manager."
 msgstr "%1 đang tìm kiếm các chuyên gia về dịch thuật, có kinh nghiệm dịch trong từng thị trường, ngôn ngữ hay các nền văn hóa cụ thể. Với việc cung cấp một bản dịch chính xác và hỗ trợ khách hàng, bạn sẽ là tiếng nói của công ty với khách hàng tại những khu vực trọng yếu cụ thể trên thế giới. Bạn sẽ làm việc với các đồng nghiệp của bộ phận IT, Hỗ Trợ Khách Hàng và Tiếp Thị để cung cấp các văn bản đã được địa phương hoá và các dịch vụ dịch thuật thông qua một công cụ dựa trên trang web. Nhân viên ở vị trí này sẽ báo cáo tới Trưởng Phòng Dự Án Dịch Thuật."
 
-#. (stash->{website_name})
 msgid "%1 is seeking several highly skilled Marketing Executives, eager to contribute their energy, passion, and specialised strengths in connecting with prospects and clients based throughout the globe."
 msgstr "%1 đang tìm kiếm những người điều hành quảng cáo có kỹ năng giỏi, luôn mong muốn đóng góp sức lực, đam mê, và có thế mạnh đặc biệt trong việc kết nối với khách hàng và những khách hàng có tiềm năng trên toàn thế giới."
 
-#. (stash->{website_name})
 msgid "%1 is tailored to traders of all levels."
 msgstr "%1 phù hợp cho nhà giao dịch ở mọi cấp độ."
 
-#. (stash->{website_name})
 msgid "%1 is the award-winning industry pioneer in online options trading. We boast:"
 msgstr "%1 là đơn vị hàng đầu với những giải thưởng danh dự trong lĩnh vực giao dịch trực tuyến. Chúng tôi tự hào:"
 
-#. (website)
 msgid "%1 makes efforts that the quoted prices of each underlying asset that a Binary Option refers to will be reasonably related to the actual prices of such asset available in the market. %1 makes no warranty, expressed or implied, that the quoted prices represent prevailing market prices."
 msgstr "%1 sẽ nỗ lực làm cho giá niêm yết của mỗi tài sản của quyền chọn \"Nhị phân\" hợp lý với giá thực tế của tài sản này trên thị trường. %1 không đảm bảo, niêm yết hay thể hiện rằng giá được đưa ra thể hiện giá thị trường tại thời điểm đó."
 
-#. (website)
 msgid "%1 may have access to information that is not available to you, may have acquired trading positions at prices that are not available to you, and may have interests different from your interests. %1 does not undertake any obligation to provide you with market or other information we possess, nor to alter or refrain from our own trading."
 msgstr "%1 có thể truy cập được thông tin mà bạn không tiếp cận được, cũng có thể có vị thế giao dịch được yêu cầu tại giá mà không có sẵn với bạn, và cũng có thể có lợi nhuận khác với lợi nhuận của bạn. %1 không có nghĩa vụ cung cấp cho bạn thông tin thị trường hoặc thông tin khác mà chúng tôi có, hoặc không được thay đổi hay từ chối từ giao dịch cá nhân của chúng tôi."
 
-#. (stash->{website_name})
 msgid "%1 now seeks Affiliate Managers to drive rapid growth and business development in key areas of the world. Successful recruits for this telecommuting role will actively increase %1’s market presence, expanding its network of affiliate partners from particular countries, geographic regions, and / or languages as needed."
 msgstr "%1 đang tìm kiếm những nhà quản lý Chi nhánh có thể tạo nên sự tăng trưởng nhanh chóng và phát triển kinh doanh ở những khu vực trọng yếu của thế giới. Việc tuyển dụng thành công vị trí từ xa này sẽ gia tăng tích cực sự xuất hiện trên thị trường của %1, mở rộng mạng lưới với các đối tác liên kết từ những quốc gia nhất, vùng địa lý và/ hoặc những ngôn ngữ khác."
 
-#. (stash->{website_name})
 msgid "%1 offers a range of common deposit and withdrawal methods, from credit and debit cards to bank wires, e-cash and e-wallets."
 msgstr "%1 cung cấp nhiều phương thức rút tiền và gửi tiền phổ biến, từ thẻ tín dụng, thẻ ghi nợ, tới chuyển khoản ngân hàng, thẻ điện tử và ví điện tử."
 
-#. (stash->{website_name})
 msgid "%1 offers five ways to trade your chosen asset:"
 msgstr "%1 cung cấp 5 cách để  giao dịch tài sản mà bạn đã chọn:"
 
-#. (stash->{website_name})
 msgid "%1 offers the world's financial markets in a simple, user-friendly platform."
 msgstr "%1 cung cấp giao diện thị trường tài chính thế giới đơn giản, thân thiện và dễ sử dụng."
 
-#. (stash->{website_name})
 msgid "%1 prices are benchmarked against the interbank options market, so you always get best-in-class prices for your trades."
 msgstr "Giá %1 được quy chuẩn so với thị trường liên ngân hàng tùy chọn, vì thế bạn luôn có được giá tốt nhất cho giao dịch của mình."
 
-#. (request.website.display_name)
 msgid "%1 provides a variety of applications to help you trade efficiently."
 msgstr "%1 cung cấp nhiều ứng dụng đa dạng để giúp bạn giao dịch hiệu quả."
 
-#. (stash->{website_name})
 msgid "%1 provides business partnership services via the following programs."
 msgstr "%1 cung cấp dịch vụ hợp tác kinh doanh thông qua các chương trình sau."
 
-#. (stash->{website_name}, url_for('/user/settings/self_exclusionws')
 msgid "%1 provides you with the opportunity to either self-exclude or <a href=\"%2\">set limits on your trading activities</a> on this website. You may also <a href=\"%3\">contact us</a> to state the limits you wish to set via live chat, email or phone. Available limits are:"
 msgstr "%1 mang cho bạn cơ hội tự loại trừ hoặc <a href=\"%2\">đặt hạn mức cho giao dịch</a> trên trang web này. Bạn cũng có thể <a href=\"%3\">liên hệ với chúng tôi</a> để thông báo giới hạn mà bạn mong muốn thông qua chat trực tiếp, email hoặc điện thoại. Những giới hạn có sẵn:"
 
-#. (stash->{website_name})
 msgid "%1 seeks a Project Coordinator to help drive the production of promotional content and rollout of marketing campaigns, designed to engage new prospects and current customers based throughout the globe."
 msgstr "%1 đang tìm kiếm một Phối viên Dự án để hỗ trợ sản xuất nội dung quảng cáo và triển khai những chiến dịch tiếp thị được thiết kế để thu hút khách hàng tiềm năng mới, cũng như những khách hàng hiện tại trên toàn cầu."
 
-#. (stash->{website_name})
 msgid "%1 seeks a Social Media Executive to enhance and proactively manage the company's social-media efforts. This role requires effective utilisation of a variety of social media channels to attract and nurture prospects, clients, partners, and recruits based throughout the world."
 msgstr "%1 đang tìm kiếm một nhà Điều hành phương tiện truyền thông xã hội để nâng cao và chủ động quản lý những hoạt động truyền thông xã hội của công ty. Vị trí này đòi hỏi phải sử dụng hiệu quả nhiều kênh truyền thông khác nhau để thu hút và nuôi dưỡng những khách hàng tiềm năng, khách hàng hiện tại, những đối tác và những nhà tuyển dụng trên khắp thế giới."
 
-#. (stash->{website_name})
 msgid "%1 seeks a sharp Copywriter to produce content that actively engages new prospects and current customers based throughout the world."
 msgstr "%1 đang tìm kiếm một người viết lời quảng cáo sắc sảo để mang đến những nội dung thật thu hút khách hàng tiềm năng và những khách hàng hiện tại trên khắp thế giới."
 
-#. (stash->{website_name})
 msgid "%1 would like to team up with potential payment agents worldwide so we can offer local payment processing services to our clients in their respective regions."
 msgstr "%1 muốn hợp tác với các đại lý thanh toán tiềm năng trên toàn thế giới để chúng tôi có thể cung cấp những dịch vụ thanh toán nội địa cho những khách hàng đang sống tại nơi tương ứng."
 
-#. (stash->{website_name})
 msgid "%1's Continuous Indices are the Volatility 25 Index, Volatility 50 Index, Volatility 75 Index and Volatility 100 Index. These indices correspond to simulated markets with constant volatilities of 25%, 50%, 75% and 100%."
 msgstr "Các Chỉ số Liên tiếp của %1 chính là Chỉ số Độ dao động 25, Chỉ số Độ dao động 50, Chỉ số Độ dao động 75 và Chỉ số Độ dao động 100. Những chỉ số này mô phỏng thị trường tương đương với mức độ thay đổi cố định của 25%, 50%, 75% và 100%."
 
-#. (stash->{website_name})
 msgid "%1's OTC Indices and stocks are sourced from the over-the-counter market and provide you with an alternative means of trading stock indices and stocks - available from sources outside of the centralised exchanges."
 msgstr "Các chứng khoán và cổ phiếu phi tập trung của %1 bắt nguồn từ sàn chứng khoán phi tập trung và cung cấp cho bạn các phương thức có thể thay đổi lẫn nhau trong giao dịch các chứng khoán và cổ phiếu có sẵn từ thị trường tập trung bên ngoài."
 
-#. (stash->{website_name})
 msgid "%1's OTC Indices and stocks offer the benefit of real-time charts and pricing. Enjoy even more exciting opportunities to trade our featured market indices and stocks through this new real-time offering."
 msgstr "Các chứng khoán và cổ phiếu phi tập trung của %1 mang đến những lợi ích về mặt thời gian thực và việc định giá. Hãy trải nghiệm những cơ hội thú vị hơn thế khi giao dịch những mã chứng khoán và cổ phiếu trên thị trường nổi bật của chúng tôi thông qua sự cung cấp mới với thời gian thực này."
 
-#. (stash->{website_name})
 msgid "%1's Spread Contracts are leveraged derivative contracts, the value of which is directly tied to the underlying market movements.  Clients who 'Long' a rising market (and those who 'Short' a falling market) profit from those movements with much less investment than would be required in the live market."
 msgstr "Hợp đồng Chênh lệch của %1 được sinh ra từ hợp đồng phát sinh, giá trị của hàng hóa có liên quan trực tiếp đến biến động của thị trường. Khách hàng, người đang ở vị thế \"Mua\" trên thị trường đang tăng (và những người đang giữ vị thế \"Bán\"  của thị trường giảm) thu lợi nhuận từ những biến động này với khoản đầu tư ít hơn được yêu cầu trên thị trường thực tế."
 
-#. (stash->{website_name})
 msgid "%1's Spread Contracts require a 'stop loss' which limits the maximum losses incurred by a client. This 'stop loss' amount will act as a deposit and may not be used for further trading until that Spread Contract is closed. Spread Contracts are closed when sold by the client, upon hitting the 'stop loss' or 'stop profit' level."
 msgstr "Hợp đồng Chênh lệch của %1 yêu cầu một mức 'điểm dừng lỗ' giới hạn mức lỗ cao nhất của khách hàng. Số tiền ở mức 'giới hạn lỗ' này sẽ là số tiền gửi trước và không được sử dụng cho giao dịch trong tương lai cho tới khi Hợp đồng Chênh lệch hết hiệu lực. Hợp đồng này không có giá trị khi khách hàng chạm tới mức 'điểm dừng lỗ' hoặc 'điểm dừng lợi nhuận'."
 
-#. (stash->{website_name})
 msgid "%1's patented pricing technology allows you to benefit from the same rates of return as traders in the interbank market."
 msgstr "Tính năng định giá đã có bằng sáng chế của %1 cho phép bạn nhận lãi bằng với tỉ suất lợi nhuận của các nhà giao dịch trên thị trường liên ngân hàng."
 
-#. (stash->{website_name})
 msgid "%1's systems are now processing in excess of 1 million transactions/day (including virtual accounts)."
 msgstr "Hệ thống của %1 hiện tại đang vượt quá 1 triệu giao dịch một ngày ( bao gồm tài khoản ảo)."
 
-#. (stash('broker_name')
 msgid "%1: Online Trading platform for binary options on Forex, Indices, Commodities and Smart Indices"
 msgstr "%1: Sàn Giao dịch Trực tuyến dành cho quyền chọn nhị phân trên thị trường Ngoại hối, Chỉ số, Hàng hóa và Chỉ số thông minh"
 
-#. (stash->{website_name})
 msgid "%1’s IT Operations Group is responsible for the design, development and operation of the company’s high-traffic networks. Its responsibilities include hardware and software deployment, up-time and reliability testing, incident response reporting, network security, intrusion detection, and load balancing."
 msgstr "Nhóm IT của %1 chịu trách nhiệm thiết kế, phát triển và quản lý hoạt động của lưu lượng truy cập mạng của công ty. Trách nhiệm của họ bao gồm sự triển khai phần cứng và phần mềm, lên lịch và các thử nghiệm tin cậy hay phản ứng và báo cáo khi gặp sự cố, an ninh mạng, phát hiện xâm nhập, và cân bằng tải."
 
-#. (stash->{website_name})
 msgid "%1’s Quantitative Analytics group is responsible for the pricing of binary options offered on its website, as well as the risk management and profitability of its options book. Since all dealing on the company’s website is fully automated, our pricing and risk management algorithms must take full account of real-time pricing parameters, data feeds irregularities and latencies."
 msgstr "Nhóm Phân Tích Định Lượng của %1 có trách nhiệm định giá của các tùy chọn nhị phân được cung cấp trên trang web của mình, cũng như quản lý rủi ro và lợi nhuận của những tùy chọn này. Kể từ khi tất cả các giao dịch trên website của công ty hoàn toàn tự động, thuật toán quản lý giá cả và rủi ro phải bao gồm các bản kê khai có đầy đủ các thông số định giá thời gian thực, dữ liệu nguồn cấp dữ liệu bất thường và dữ liệu ngầm."
 
-#. (stash->{website_name})
 msgid "%1’s Smart FX are smart markets that measure the value of a currency against a basket of major currencies."
 msgstr "Chỉ số Thông minh FX của %1 đo lường giá trị của một đồng tiền so với những đồng tiền lớn khác."
 
-#. (stash->{website_name})
 msgid "%1’s principal Anti-Fraud Officer is responsible for the exercise of exceptional client relationship management skills applied to the prevention of fraudulent activities in payments processing and business transactions. He or she will be expected to partner with our payments and compliance teams in resolving payment queries; administering chargebacks; conducting anti-money laundering audits, and implement a broad array of fraud prevention measures."
 msgstr "Nhân Viên Chống Gian Lận của %1 có trách nhiệm rèn luyện kỹ năng quản lý quan hệ khách hàng đặc biệt được áp dụng cho công tác phòng chống các hoạt động gian lận trong xử lý các khoản thanh toán và giao dịch kinh doanh. Họ sẽ làm việc với các đối tác về các khoản thanh toán của chúng tôi và tuân thủ các quy định trong việc giải quyết các truy vấn thanh toán; quản lý sự hoàn trả; tiến hành kiểm tra chống rửa tiền, và các biện pháp phòng chống gian lận một cách rộng rãi."
 
-#. (url_for('/')
 msgid "%2 offers a virtual-money account so you can get the hang of trading binaries. Why not <a class=\"pjaxload\" href=\"%1\">open a free $10k fully-functional virtual-money account</a>, and start learning how to trade."
 msgstr "%2 hỗ trợ tài khoản tiền ảo từ đó bạn có thể xem được các nhị phân đang giao dịch. Tại sao không <a class=\"pjaxload\" href=\"%1\">mở một tài khoản tiền ảo $10k miễn phí với đầy đủ tính năng</a>, và bắt đầu học cách giao dịch."
 
@@ -366,11 +314,9 @@ msgstr "Giới hạn doanh thu 7 ngày"
 msgid "<< Back to Job Descriptions"
 msgstr "<< Quay lại Mô Tả Công Việc"
 
-#. (url_for('/group-history')
 msgid "<a href=\"%1\">Founded</a> October 1999"
 msgstr "<a href=\"%1\">Được thành lập</a> vào tháng Mười năm 1999"
 
-#. (url_for('/contact')
 msgid "<a href=\"%1\">Offices</a> in Malta, Malaysia and Japan"
 msgstr "<a href=\"%1\">Văn phòng</a> ở Malta, Malaysia và Nhật"
 
@@ -383,7 +329,6 @@ msgstr ""
 "<p><strong>báo cáo người chơi</strong>: Báo cáo người chơi chỉ ra thông số của từng người chơi. Dùng bộ lọc để xem báo cáo.</p>\n"
 "<p><strong>Thu nhập hàng ngày</strong>: Báo cáo hoa hồng hiển thị hoa hồng thu thập mỗi ngày, tính theo trang/ sản phẩm.</p>"
 
-#. (broker_name)
 msgid ""
 "<p>A client is someone who has been referred through one of your marketing tools and who has deposited money into their %1 account. They must fulfill the following criteria: </p>\n"
 "\n"
@@ -435,7 +380,6 @@ msgstr "<span>Tất cả các thị trường:</span> tiền tệ, chỉ số, 
 msgid "<span>All payouts:</span> from $1 to $50,000."
 msgstr "<span>Tất cả tiền thưởng:</span> từ $1 đến $50,000."
 
-#. (stash->{website_name})
 msgid "<strong>2-way pricing</strong> - %1 quotes a trade and the counter-trade, so you always get unbiased, transparent prices."
 msgstr "<strong>định giá 2 chiều</strong> - %1 định giá giao dịch và giao dịch ngược, vì thế bạn luôn được hỗ trợ giá minh bạch và công bằng."
 
@@ -460,7 +404,6 @@ msgstr "<strong>Tất cả tiền thưởng</strong> - từ $1 đến $50,000."
 msgid "<strong>Appropriateness Test: WARNING:</strong> In providing our services to you, we are required to obtain information from you in order to assess whether a given product or service is appropriate for you (that is, whether you possess the experience and knowledge to understand the risks involved)."
 msgstr "<strong>Kiểm tra Tính tương thích: CẢNH BÁO:</strong> Trong việc cung cấp dịch vụ đến bạn, chúng tôi bắt buộc lấy thông tin từ bạn để đánh giá sản phẩm và dịch vụ được đựa ra thích hợp với bạn ( đó là, kinh nghiệm hoặc sự hiểu biết của bạn về những rủi ro có liên quan)."
 
-#. (stash->{website_name})
 msgid "<strong>Benchmarked prices</strong> - %1 benchmarks its prices daily against inter-bank derivatives markets."
 msgstr "<strong>Giá Chuẩn</strong> - %1 định giá hàng ngày với thị trường phái sinh liên ngân hàng."
 
@@ -494,11 +437,9 @@ msgstr "<strong>Cao hơn/Thấp hơn</strong> - dự đoán xem thị trường 
 msgid "<strong>Higher/Lower</strong> - where you can profit from the market ending higher or lower than a target price."
 msgstr "<strong>Cao hơn/Thấp hơn</strong> - nơi bạn có thể có lãi khi thị trường kết thúc thấp hoặc cao hơn giá mục tiêu."
 
-#. (request.website.display_name)
 msgid "<strong>IMPORTANT DISCLAIMER</strong> - %1 is not affiliated with any of the Payment Agents listed above. Each Payment Agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by %1. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of Payment Agents before sending them any money. %1 shall not in any circumstance be held responsible for transactions made between customers and Payment Agents."
 msgstr "<strong>TIẾT LỘ QUAN TRỌNG</strong> - %1 không liên kết với bất kỳ Đại lý Thanh toán nào nêu trên. Từng Đại lý thanh toán hoạt động với vai trò một nhà cung cấp dịch vụ độc lập và chưa được chứng thực, bảo đảm và chấp thuận bởi %1. KHÁCH HÀNG TỰ GIAO DỊCH VỚI CÁC ĐẠI LÝ THANH TOÁN VÀ CHỊU MỌI RỦI RO PHÁT SINH. Chúng tôi khuyên khách hàng nên tìm hiểu kỹ lịch sử hoạt động của các Đại lý Thanh toán trước khi gửi tiền cho họ. Dưới bất kỳ tình huống nào, %1 đều không chịu trách nhiệm cho những giao dịch giữa khách với các Đại lý Thanh toán nêu trên."
 
-#. (website)
 msgid "<strong>IMPORTANT DISCLAIMER</strong> - %1 is not affiliated with any of the payment agents listed above. Each payment agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by %1. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of payment agents before sending them any money. %1 shall not in any circumstance be held responsible for transactions made between customers and payment agents."
 msgstr "<strong>TIẾT LỘ QUAN TRỌNG</strong> - %1 không liên kết với bất kỳ Đại lý Thanh toán nào nêu trên. Từng Đại lý Thanh toán hoạt động với vai trò một nhà cung cấp dịch vụ độc lập và chưa được chứng thực, bảo đảm và chấp thuận bởi %1. KHÁCH HÀNG TỰ GIAO DỊCH VỚI CÁC ĐẠI LÝ THANH TOÁN VÀ CHỊU MỌI RỦI RO PHÁT SINH. Chúng tôi khuyên khách hàng nên tìm hiểu kỹ lịch sử hoạt động của các Đại lý Thanh toán trước khi gửi tiền cho họ. Dưới bất kỳ tình huống nào, %1 đều không chịu trách nhiệm cho những giao dịch giữa khách với các Đại lý Thanh toán nêu trên."
 
@@ -520,7 +461,6 @@ msgstr "<strong>Rủi ro biết trước</strong> - bạn biết ngay từ đầ
 msgid "<strong>Long-term action</strong> - choose trades with durations of up to 365 days."
 msgstr "<strong>Hoạt động lâu dài</strong> - chọn giao dịch với thời hạn lên đến 365 ngày."
 
-#. (stash->{website_name})
 msgid "<strong>Long-term partnership:</strong> Your partnership with %1 could be a means to promote your product or services for FREE to our 1,000,000+ registered clients, worldwide."
 msgstr "<strong>Hợp tác lâu dài:</strong> Hợp tác với %1 có thể là phương tiện để quảng bá sản phẩm hoặc dịch vụ của bạn MIỄN PHÍ tới 1,000,000+ khách hàng đã đăng kí với chúng tôi trên toàn thế giới."
 
@@ -536,11 +476,9 @@ msgstr "<strong>Không bất ngờ</strong> - bạn sẽ không bao giờ gặp
 msgid "<strong>Other Risks</strong>: There are other risks that relate to trading investment products and trading foreign currencies that cannot be described in detail in this document. Generally, however, securities, options and currency transactions involve exposure to a combination of the following risk factors: market risk, credit risk, settlement risk, liquidity risk, operational risk and legal risk. For example, there can be serious market disruptions if economic or political or other unforeseen events locally or overseas affect the market. In addition to these types of risk there may be other factors such as accounting and tax treatment issues that you should consider."
 msgstr "<strong>Rủi ro Khác</strong>: Có những rủi ro khác liên quan tới việc giao dịch sản phẩm đầu tư và giao dịch ngoại tệ không thể mô tả chi tiết  trong văn bản này. Tuy nhiên, nhìn chung, chứng khoán, quyền chọn và giao dịch tiền tệ có liên quan sẽ bị ảnh hưởng bởi những nhân tố rủi ro sau: rủi ro thị trường, rủi ro tín dụng, rủi ro đặt lệnh, rủi ro thanh khoản, rủi ro hoạt động và rủi ro pháp lý. VÍ dụ, có thể có gián đoạn thị trường nghiêm trọng nếu có những sự kiện kinh tế, chính trị trong nước hoặc quốc tế không được dự báo trước làm ảnh hưởng tới thị trường. Thêm nữa, còn có những loại rủi ro khác nữa đó là các vấn đề thuế và kế toán bạn nên cân nhắc."
 
-#. (stash->{website_name})
 msgid "<strong>Patented technology</strong> - %1 is the industry pioneer and holds patented pricing technology."
 msgstr "<strong>Công nghệ đã được cấp bằng sáng chế</strong> - %1 là cánh chim đầu đàn trong ngành và có công nghệ định giá được cấp bằng sáng chế."
 
-#. (stash->{website_name})
 msgid "<strong>Payment options</strong> - %1 offers many payment methods, such as credit/debit cards, bank wires, e-cash and e-wallets."
 msgstr "<strong>Phương thức thanh toán</strong> - %1 cung cấp nhiều phương thức thanh toán, ví dụ như thẻ tín dụng/ghi nợ, chuyển khoản ngân hàng, thẻ điện tử và ví điện tử."
 
@@ -565,7 +503,6 @@ msgstr "<strong>Thị trường tăng</strong> - chọn giao dịch tăng, giao 
 msgid "<strong>Scalable trading</strong> - win the same proportional return on stakes of all values."
 msgstr "<strong>Giao dịch leo thang</strong> - sẽ dành được lợi nhuận theo tỉ giá giống nhau trên tiền vốn của tất cả các giá trị."
 
-#. (stash->{website_name})
 msgid "<strong>Security</strong> - %1 ensures your personal data and transactions are always secure."
 msgstr "<strong>Bảo mật</strong> - %1 đảm bảo dữ liệu cá nhân và giao dịch của bạn luôn được an toàn."
 
@@ -617,11 +554,9 @@ msgstr "<strong>Mức lợi nhuận lên đến 100% đối với giao dịch 
 msgid "<strong>Volatile markets</strong> - choose the one-touch trade, the goes-outside trade, or the ends outside trade."
 msgstr "<strong>Thị trường biến động</strong> - chọn giao dịch một chạm, giao dịch ra-ngoài, hoặc giao dịch kết thúc bên ngoài."
 
-#. (stash->{website_name})
 msgid "<strong>Volatility Indices</strong> - trade %1's proprietary volatility indices."
 msgstr "<strong>Chỉ số Biến động</strong> - giao dịch chỉ số biến động tài sản của %1."
 
-#. (stash->{website_name})
 msgid "<strong>Volatility indices</strong> - trade %1's own volatility indices, 24/7."
 msgstr "<strong>Chỉ số Biến động</strong> - giao dịch chỉ số biến động cá nhân của %1, 24/7."
 
@@ -652,7 +587,6 @@ msgstr "Cử nhân Khoa Học Máy Tính, hoặc một sự kết hợp tương 
 msgid "A Bachelor’s degree in Marketing, Business Administration, or related discipline"
 msgstr "Bằng cử nhận chuyên ngành Marketing, Quản trị kinh doanh hoặc chuyên ngành liên quan"
 
-#. (stash->{website_name})
 msgid "A Payment Agent acts like an exchange between the Client (that is, our customer) and %1. The Payment Agent processes deposits and withdrawals for Clients who wish to use a specific e-cash method or local currency that is not offered by %1. The transfer fees are borne by the Client."
 msgstr "Đại lý Thanh toán làm việc giống như hoạt động trao đổi giữa các Khách hàng (đó là khách hàng của chúng tôi) và %1. Đại lý Thanh toán tiến hành thực hiện hoạt động rút tiền và gửi tiền cho Khách hàng muốn sử dụng phương thức thanh toán thẻ điện tử hoặc bằng tiền nội tệ mà không được %1 cung cấp. Phí giao dịch Khách hàng sẽ chịu."
 
@@ -797,7 +731,6 @@ msgstr "Mở tài khoản"
 msgid "Account Transfer"
 msgstr "Chuyển Tài khoản"
 
-#. ("", "")
 msgid "Account balance : %1 %2"
 msgstr "Số dư tài khoản : %1 %2"
 
@@ -895,7 +828,6 @@ msgstr "Mọi chi tiết thẻ tín dụng được chuyển trực tiếp đế
 msgid "All markets are closed now. Please try again later."
 msgstr "Tất cả các thị trường đều đã đóng cửa. Vui lòng thử lại sau."
 
-#. (website)
 msgid "All opinions, news, research, analysis, prices or other information contained on this website are provided as general market commentary and do not constitute investment advice. %1 will not accept liability for any loss or damage, including but without limitation to, any loss of profit that may arise directly or indirectly from use of or reliance on such information."
 msgstr "Mọi quan điểm, tin tức, nghiên cứu, phân tích, giá hoặc thông tin khác trên trang này đều được cung cấp dưới dạng thông tin thị trường phổ biến đều không phải lời khuyên hay gợi ý giao dịch. %1 sẽ không chịu trách nhiệm với bấy kỳ thua lỗ, mất mát nào phát sinh trực tiếp hoặc gián tiếp từ việc sử dụng những thông tin này."
 
@@ -905,7 +837,6 @@ msgstr "Thời gian đều tính theo GMT (Giờ trung bình tại Greenwich)."
 msgid "Allow Clients to deposit with lower amounts (via local currency)"
 msgstr "Cho phép Khách hàng gửi tiền với số lượng ít hơn (bằng tiền nội tệ)"
 
-#. (stash->{website_name})
 msgid "Allow Clients to use e-wallets, which are not available directly on %1"
 msgstr "Cho phép Khách hàng sử dụng ví điện tử, mà không có trực tiếp trên %1"
 
@@ -975,25 +906,21 @@ msgstr "Bất kỳ tranh chấp, tranh cãi hoặc tuyên bố nào được đ�
 msgid "Any failure on your part to maintain the security of any security devices or procedures used in or in association with the Binary.com API;"
 msgstr "Bất kỳ sự thất bại về phía bạn trong việc duy trì sự an toàn của các thiết bị an toàn hay các quy trình được sử dụng hay được liên kết với Binary.com API;"
 
-#. (website)
 msgid "Any form of Spam will result in your account being placed under review and all funds due being withheld pending an investigation into your account. You need to be aware that %1 is liable to incur expenses in dealing with Spam generated mail and these same expenses will be deducted from your account. In this instance the amount determined will be fair and deemed final and acceptable based on good faith and such amount will be collectable by law and deemed to have been accepted by yourself as fair and reasonable and as agreed to by registration as an affiliate of %1."
 msgstr "Bất cứ dạng thư rác nào đều dẫn tới tài khoản của bạn bị đánh dấu Cần xem xét và tất cả tiền sẽ bị hoãn lại nếu bạn muốn rút để chúng tôi điều tra tài khoản của bạn. Bạn cần nhớ rằng %1 chịu trách nhiệm cho những chi phí phát sinh do thư rác và những chi phí này cũng sẽ khấu trừ vào tài khoản của bạn. Theo đó mức tiền sẽ được xác định một cách công bằng và có thể chấp nhận được dựa trên niềm tin sẵn có ngoài ra mức tiền này sẽ được pháp luật thu và sẽ thông qua sự chấp thuận của bạn như những thỏa thuận ban đầu khi bạn đăng ký làm liên kết của %1."
 
 msgid "Any information given on these pages and/or emails or newsletters sent by the company related thereto, is not intended as financial or investment advice and the Company will not accept any liability in this respect, nor will the Company accept any responsibility for the accuracy or comprehensiveness of the information provided on this site."
 msgstr "Bất cứ thông tin nào trong những trang này và/hoặc email hoặc thư tin tức gửi từ công ty hoặc những đối tượng liên quan khác, không được xem như lời khuyên đầu tư và tài chính và Công ty sẽ có bất kì bổn phận và trách nhiệm nào cho mức độ chính xác hay độ bao hàm của thông tin trên trang này."
 
-#. (affiliate_email)
 msgid "Any notice given or made under this Agreement to the Company shall be by email to %1. The Company shall send you any notices given or made under this Agreement to the email address supplied on your application form or such other email address as notified by you to the Company."
 msgstr "Bất cứ thông báo nào được đưa ra theo Thỏa thuận này gửi đến Công ty sẽ được email tới %1. Công ty sẽ gửi cho bạn những thông báo được đưa ra theo Thỏa thuận này thông qua địa chỉ email bạn cung cấp trên mẫu đăng ký hoặc địa chỉ email khác do bạn thông báo với Công ty."
 
 msgid "Any third party claims arising out of, or relating to, your use of, or inability to use, the Binary.com API."
 msgstr "Bất kỳ phàn nàn nào của bên thứ ba phát sinh, hay liên quan tới, sự sử dụng của bạn, hay sự không khả dụng, hệ thống Binary.com API."
 
-#. (broker_name)
 msgid "Anyone over the age of 18 [who has read and agreed to the %1 terms and conditions], and who is not resident in one of the 'closed countries' can trade on the %1 platform."
 msgstr "Bất kỳ ai trên 18 tuổi [đã đọc và đồng ý với những điều kiện và điều khoản %1], và những ai không cư ngụ tại một trong những 'quốc gia bị đóng cửa' đều có thể giao dịch trên sàn giao dịch %1."
 
-#. (stash->{website_name})
 msgid "Anyone who has potential to grow or increase traffic to %1"
 msgstr "Bất kì ai người mà có tiềm năng lớn mạnh và phát triển mạng lưới với %1"
 
@@ -1003,7 +930,6 @@ msgstr "Các ứng dụng"
 msgid "Apply a meticulous eye for detail in proofreading the content that appears on the company’s website, blog, social media outlets, and marketing materials."
 msgstr "Sử dụng đôi mắt cẩn thận, tỉ mỉ để phát hiện lỗi và sửa nội dung thử nghiệm trên trang web, blog, phương tiện truyền thông xã hội và tài liệu tiếp thị của công ty."
 
-#. (website, request.url_for("/payment-agent"))
 msgid "Apply to become a %1 <a class=\"pjaxload\" href=\"%2\">payment agent</a>."
 msgstr "Đăng ký để trở thành %1 <a class=\"pjaxload\" href=\"%2\">đại lý thanh toán</a>."
 
@@ -1052,7 +978,6 @@ msgstr "Nhân viên Phát Triển Ngoại Vi, bạn sẽ được giao nhiệm v
 msgid "As a Senior Perl Developer, you’ll be tasked with writing robust, high-quality, production-ready code and contributing to the architecture that drives our high-traffic global website."
 msgstr "Như là một nhà phát triển Perl cao cấp, bạn sẽ được giao nhiệm vụ viết mã mạnh mẽ, mã chất lượng cao, mã sản xuất-sẵn sàng và đóng góp cho cấu trúc hướng tới trang web toàn cầu lưu lượng cao."
 
-#. (stash->{website_name})
 msgid "As a developer in the %1 Quant Group, you will be responsible for the implementation and maintenance of the company's risk management and derivatives pricing software. You and the members of your team will develop software designed to study the market micro-structure, optimize existing code, manage financial data feeds and ensure the continuous running of our automated trading platform."
 msgstr "Giống như một nhà phát triển trong nhóm Quant %1, bạn sẽ chịu trách nhiệm về việc thực hiện và bảo trì quản lý rủi ro của công ty và các dẫn xuất bảng giá phần mềm. Bạn và các thành viên trong nhóm của bạn sẽ phát triển phần mềm được thiết kế để nghiên cứu thị trường vi-cấu trúc, tối ưu hóa mã hiện tại, quản lý các nguồn cấp dữ liệu tài chính và đảm bảo các hoạt động liên tục của hệ thống giao dịch tự động của chúng tôi."
 
@@ -1107,7 +1032,6 @@ msgstr "Hỗ trợ Pháp Chế áp dụng cho các giấy phép cần thiết ch
 msgid "Assisting with the regulatory and statutory audit of Binary Group companies worldwide"
 msgstr "Hỗ trợ với kiểm toán theo luật định và theo quy định của nhà nước của Tập đoàn Binary trên toàn cầu"
 
-#. (stash->{website_name})
 msgid "At %1, we consider the strength and security of our trading platform to be critically important."
 msgstr "Tại %1, chúng tôi xem xét sức mạnh và an toàn của nền tảng giao dịch của chúng tôi là cực kỳ quan trọng."
 
@@ -1162,7 +1086,6 @@ msgstr "QUAY VỀ TRANG CHỦ"
 msgid "BIEL Terms"
 msgstr "Điều khoản BIEL"
 
-#. ("http://www.compensationschemes.org.mt")
 msgid "BIEL forms part of <a href=\"%1\" target=\"_blank\">the Investor Compensation Scheme</a> (the \"Scheme\") which is a rescue fund for investors that are clients of failed investment firms licensed by the MFSA. The Scheme covers 90% of the Company's net liability to a client in respect of investments which qualify for compensation under the Investment Services Act subject to a maximum payment to any one person of €20,000. The Scheme is based on EC Directive 97/9."
 msgstr "BIEL là một phần của <a href=\"%1\" target=\"_blank\">Đề án Bồi thường cho Nhà đầu tư</a> (\"Đề án\") là quỹ cứu trợ cho các nhà đầu tư, là khách hàng của công ty đầu tư bị thất bại được cấp phép bởi MFSA. Quỹ bao gồm 90% nợ phải trả thuần của Công ty cho khách hàng đối với đầu tư đủ điều kiện được bồi thường theo Luật đầu tư, chi trả tối đa €20,000 cho mỗi người. Đề án này được dựa trên Chỉ thị EC 97/9."
 
@@ -1187,7 +1110,6 @@ msgstr "Chuyển khoản ngân hàng, thẻ tín dụng, ví điện tử"
 msgid "Banking"
 msgstr "Giao dịch Ngân hàng"
 
-#. (stash->{website_name})
 msgid "Banks, hedge funds and professional investors routinely trade binary options in over-the-counter derivatives markets. Many market professionals use and trust the %1 platform for high-volume flexible trades."
 msgstr "Ngân hàng, quỹ đầu tư và những nhà đầu tư chuyên nghiệp thường chọn giao dịch nhị phân trên thị trường chứng khoán phi tập trung. Nhiều chuyên gia tin dùng giao diện %1 vì khả năng giao dịch linh hoạt, có tần suất cao."
 
@@ -1250,14 +1172,12 @@ msgstr "Binary (C.R.) S.A., được đăng ký tại Costa Rica."
 msgid "Binary (Europe) Ltd, Mompalao Building, Suite 2, Tower Road, Msida MSD1825"
 msgstr "Công ty TNHH Binary (châu Âu), Tòa nhà Mompalao, Khu 2, ĐườngTower, Msida MSD1825"
 
-#. (('https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39495')
 msgid "Binary (Europe) Ltd, Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta. Licenced and regulated (for gambling products only) by the Malta Gaming Authority in Malta (licence no MGA/CL2/118/2000) and for UK clients by the UK Gambling Commission - <a href=\"%1\" target=\"_blank\\\">view license</a>."
 msgstr "Công ty TNHH Binary (châu Âu), Tòa nhà Mompalao, Khu 2, Đường Tower, Msida MSD1825, Malta. Được cấp giấy phép và quy định (chỉ đối với các sản phẩm cá cược) bởi Ủy ban Cá cược Malta tại Malta (giấy phép số MGA/CL2/118/2000) và đối với khách hàng Anh được quy định và cấp phép bởi Ủy ban Cá cược Anh - <a href=\"%1\" target=\"_blank\\\">xem giấy phép</a>."
 
 msgid "Binary (IOM) Ltd, First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW"
 msgstr "Công ty TNHH Binary (IOM), Tầng 1, Nhà Millennium, Đường Victoria, Douglas, IM2 4RW"
 
-#. (('https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39172')
 msgid "Binary (IOM) Ltd, First Floor, Millennium House, Victoria Road, Douglas, Isle of Man, IM2 4RW. Licenced and regulated by the Gambling Supervision Commission in the Isle of Man (current online gambling licence granted on the 31 August 2012) and for UK clients by the UK Gambling Commission - <a href=\"%1\" target=\"_blank\">view license</a>."
 msgstr "Công ty TNHH Binary (IOM), Tầng 1, Nhà Millennium, Đường Victoria, Douglas, Isle of Man, IM2 4RW. Được cấp giấy phép và quy định bởi Ủy ban giám sát Cá cược tại Đảo Man (giấy phép cá cược trực tuyến hiện hành được cấp ngày 31 tháng 8 năm 2012) và đối với khách hàng Anh được cấp phép và quy định bởi Ủy ban Cá cược Anh - <a href=\"%1\" target=\"_blank\">xem giấy phép</a>."
 
@@ -1270,7 +1190,6 @@ msgstr "Binary Group Services đang tìm kiếm những nhân viên tài năng v
 msgid "Binary Group Services is searching for talented and motivated front-end developers who are looking for a chance to excel."
 msgstr "Binary Group Services đang tìm kiếm những nhà phát triển ngoại vi tài năng và nhiệt tình những người đang tìm kiếm một cơ hội để khẳng định mình."
 
-#. (website)
 msgid "Binary Investments (Europe) Ltd, Binary (Europe) Ltd, Binary (IOM) Ltd, Binary (CR) SA and all other Binary Group members are sometimes referred to collectively as \"%1\", \"us\" or \"we\"."
 msgstr "Binary Investments (Europe) Ltd, Binary (Europe) Ltd, Binary (IOM) Ltd, Binary (CR) SA và tất cả các thành viên khác trong Tập đoàn Binary đôi lúc được dùng với danh từ tập hợp như \"%1\", \"chúng tôi\" hoặc \"chúng tôi\"."
 
@@ -1352,7 +1271,6 @@ msgstr "Binary.com đạt 1 triệu người dùng, chạm mốc lịch sử. 
 msgid "Binary.com is a flexible place. As well as our offices, we have staff who choose to telecommute from their home offices in countries around the world. If that suits you, we’re open to it."
 msgstr "Binary.com là một nơi rất linh hoạt. Cũng như các văn phòng, chúng tôi có đội ngũ nhân viên lựa chọn làm việc tại nhà trên toàn thế giới. Nếu điều này thích hợp với bạn, chúng tôi rất sẵn lòng."
 
-#. ('http://search.cpan.org/~binary/', 'https://github.com/binary-com')
 msgid "Binary.com is an active member of the Perl community and is in the process of uploading a number of its internal utility modules to <a target=\"_blank\" href=\"%1\">CPAN</a>. If you are a Perl enthusiast, contribute by reviewing these modules, and submitting pull-requests on <a target=\"_blank\" href=\"%2\">github</a>."
 msgstr "Binary.com là thành viên năng động trong cộng đồng Perl và đang trong quá trình tải lên hàng loạt chương trình hữu dụng nội bộ <a target=\"_blank\" href=\"%1\">CPAN</a>. Nếu bạn quan tâm Perl, hãy đóng góp cho những chương trình này, và nộp yêu cầu kéo tại <a target=\"_blank\" href=\"%2\">github</a>."
 
@@ -1614,14 +1532,12 @@ msgstr "Khách hàng cần phải đăng kí cá nhân."
 msgid "Clients registered with Binary (C.R.) S.A. can raise their unresolved disputes with management by submitting an email to complaints@binary.com."
 msgstr "Khách hàng đã đăng kí với Binary (C.R.) S.A.có thể trình các vấn đề tranh chấp chưa được giải quyết lên ban quản lý bằng cách gửi qua địa chỉ email complaints@binary.com."
 
-#. ("<a href=\"http://www.mga.org.mt/\" target=\"_blank\">(www.mga.org.mt)</a>")
 msgid "Clients registered with Binary (Europe) Ltd can raise their unresolved disputes with the Malta Gaming Authority %1 at"
 msgstr "Khách hàng đã đăng kí với Công ty TNHH Binary (Châu Âu) có thể trình các vấn đề tranh chấp chưa được giải quyết với Cơ quan Giám sát Cá cược Malta %1 tại"
 
 msgid "Clients registered with Binary (IOM) Ltd can raise their unresolved disputes with the alternative dispute resolution entity IBAS by filling the adjudication form on the ADR entity’s"
 msgstr "Khách hàng đã đăng ký với công ty TNHH Binary (IOM) Ltd có thể đệ trình các tranh chấp chưa được xử lý với các tổ chức giải quyết tranh chấp thay thế IBAS bằng cách điền vào biểu mẫu phân xử trên thực thể ADR"
 
-#. ("<a href='http://mymoneybox.mfsa.com.mt' target='_blank'>http://mymoneybox.mfsa.com.mt</a>")
 msgid "Clients registered with Binary Investments (Europe) Ltd can raise their unresolved disputes with the MFSA's Consumer Complaints Manager. Details on making a complaint with the MFSA's Consumer Complaints Manager as well as their contact details can be found here: %1. Complaints to the MFSA's Consumer Complaints Manager should always be made in writing."
 msgstr "Khách hàng đã đăng kí tài khoản với Công ty TNHH  Binary Investments (Châu Âu) có thể đệ trình các tranh chấp chưa được giải quyết với Quản lý khiếu nại khách hàng của MFSA. Chi tiết về làm đơn khiếu nại phản ánh với Quản lý và địa chỉ liên hệ của họ có thể được tìm thấy ở đây: %1. Các khiếu nại gửi tới Quản lý khiếu nại khách hàng phải được viết bằng tay."
 
@@ -1661,7 +1577,6 @@ msgstr "Chỉ cần Chi nhánh vẫn coi bạn là một thành viên của chư
 msgid "Commodities"
 msgstr "Hàng hóa"
 
-#. (stash->{website_name})
 msgid "Commodities are resources that are grown or extracted from the ground, such as silver, gold and oil. On %1, they are priced in US dollars."
 msgstr "Hàng hóa là nguồn tài nguyên được hình thành hoặc chiết xuất từ lòng đất như bạc, vàng và dầu. Trên %1, Chúng đều được định giá bằng Đô la Mỹ."
 
@@ -1812,7 +1727,6 @@ msgstr "Hợp đồng thường sẽ không được chào bán trong khoa�
 msgid "Contracts will not usually be offered when the underlying market is at its intraday high or intraday low."
 msgstr "Hợp đồng sẽ không được chào bán khi giá thị trường tài sản cơ sở đang ở mức cao trong ngày hoặc thấp trong ngày giao dịch."
 
-#. (stash->{website_name})
 msgid "Contribute to %1's open-source projects."
 msgstr "Đóng góp vào các dự án nguồn mở của %1."
 
@@ -1956,7 +1870,6 @@ msgstr "Ngày sinh"
 msgid "Day"
 msgstr "Ngày"
 
-#. (link)
 msgid ""
 "Dear Valued Customer,\n"
 "\n"
@@ -2027,12 +1940,9 @@ msgstr "Tiền gửi của"
 msgid "Deposit or withdraw to your account via bank-wire, credit card, or e-cash wallet."
 msgstr "Gửi hay rút tiền qua tài khoản của bạn bằng điện chuyển khoản ngân hàng, thẻ tín dụng hay ví thẻ điện tử."
 
-#. (1)
 msgid "Deposit: %1 working day"
 msgstr "Gửi tiền: %1 ngày làm việc"
 
-#. (5)
-#. (1)
 msgid "Deposit: %1 working days"
 msgstr "Gửi tiền: %1 ngày làm việc"
 
@@ -2045,7 +1955,6 @@ msgstr "Gửi tiền và rút tiền"
 msgid "Derivative"
 msgstr "Phái sinh"
 
-#. (website)
 msgid "Derivative investment instruments such as Binary Options and related markets can be highly volatile. The prices of the underlying instrument which a Binary Options refers to may fluctuate rapidly and over wide ranges and may reflect unforeseeable events or changes in conditions, none of which can be controlled by you or %1."
 msgstr "Công cụ Đầu tư phái sinh như Quyền chọn Nhị phân và thị trường liên quan có thể biến động mạnh. Giá của công cụ tài sản cơ sở mà Quyền chọn Nhị phân thay thế cho có thể thay đổi nhanh chóng và vượt quá biên độ rộng và có thể phản ánh cho các sự kiện không thể thấy trước hoặc những thay đổi trong điều kiện mà bạn hoặc %1 không thể kiểm soát được."
 
@@ -2196,7 +2105,6 @@ msgstr "EGR Operator Award "
 msgid "EUR"
 msgstr "EUR"
 
-#. (stash->{website_name})
 msgid "Each binary option contract runs for a set time – with %1 you can choose a contract that runs between 10 seconds and 365 days."
 msgstr "Mỗi hợp đồng quyền chọn đều hoạt động trong khoảng thời gian được thiết lập- với %1 bạn có thể chọn một hợp đồng hoạt động từ 10 giây đến 365 ngày."
 
@@ -2212,7 +2120,6 @@ msgstr "Each option transaction has a specified expiry time and date, known as t
 msgid "Each party to this Agreement represents and warrants to the other that it has, and will retain throughout the term of this Agreement all right, title, and authority to enter into this Agreement, to grant to the other party the rights and licences granted in this Agreement, and to perform all of its obligations under this Agreement."
 msgstr "Mỗi bên liên quan tới Hiệp định này đều đại diện và bảo đảm cho bên kia, và sẽ có tất cả các quyền, danh hiệu và quyền hạn để cấp cho bên kia các quyền và giấy phép đã cấp trong Hiệp định này cũng như thực hiện mọi nghĩa vụ theo Hiệp định trong suốt kì hạn để truy cập vào Hiệp định này."
 
-#. (stash->{website_name})
 msgid "Earn commissions by introducing new customers to %1."
 msgstr "Kiếm hoa hồng bằng cách giới thiệu khách hàng mới cho %1."
 
@@ -2228,7 +2135,6 @@ msgstr "Kiếm nguồn thu nhập thứ hai trong thời gian rảnh rỗi
 msgid "Earning tax free trading profits*?"
 msgstr "Kiếm lợi nhuận giao dịch miễn thuế*?"
 
-#. (stash->{website_name})
 msgid "Educate prospects, clients, and partners regarding the benefits of %1’s innovative online trading platform"
 msgstr "Phát triển khách hàng có triển vọng và các đối tác với những lợi ích của nền tảng giao dịch trực tuyến sáng tạo của %1"
 
@@ -2304,7 +2210,6 @@ msgstr "Tuân thủ các tiêu chuẩn quản lý chất lượng áp dụng cho
 msgid "Ensure compliance with the quality standards that govern our website content"
 msgstr "Tuân thủ các tiêu chuẩn chất lượng quản lý nội dung trang web của chúng tôi"
 
-#. (website)
 msgid "Ensure that any historical trading records and performance figures presented to your referrals related to trading on the website %1 are accurate and not misleading."
 msgstr "Bảm đảm rằng bất kì ghi nhận giao dịch lịch sử nào và những dữ liệu giao dịch nào được đưa ra cho người bạn giới thiệu xem liên quan đến giao dịch trên trang web %1 đều phải chính xách và không được lệch lạc."
 
@@ -2614,7 +2519,6 @@ msgstr "Theo dõi các khoản tiền gửi bị từ chối"
 msgid "For added security, please check your email to retrieve the verification token."
 msgstr "Để tăng cường độ bảo mật. vui lòng kiểm tra hòm thư của bạn để nhận cuỗi xác nhận."
 
-#. (stash->{website_name})
 msgid "For e-cash methods or local currencies not supported by %1."
 msgstr "Đối với thẻ E-cash hoặc bản tệ không được hỗ trợ bởi %1."
 
@@ -2696,7 +2600,6 @@ msgstr "GBP"
 msgid "GMT"
 msgstr "Múi giờ"
 
-#. (stash->{website_name})
 msgid "GMT stands for Greenwich Mean Time, the official time used in the UK during winter. In summer, the UK changes to British Summer Time, which is GMT + 1 hour. All times on the Binary.com site use GMT all year round."
 msgstr "GMT là viết tắt của Greenwich Mean Time, thời gian chính thức được sử dụng ở Vương quốc Anh trong suốt mùa đông. Vào mùa hè, Vương quốc Anh lại chuyển sang Thời gian Mùa hè Anh, đó là GMT + 1 giờ. Tất cả thời gian trên trang Binary.com đều sử dụng GMT trong cả năm."
 
@@ -2757,7 +2660,6 @@ msgstr "Thuật ngữ"
 msgid "Go to the <a href=\"https://login.binary.com/password-retrieve.php\">password retrieval page</a>, and enter your username and e-mail address in the form fields provided to have your password e-mailed to you."
 msgstr "Đi tới <a href=\"https://login.binary.com/password-retrieve.php\">trang khôi phục mật khẩu</a>, và nhập tên tài khoản và địa chỉ email vào mẫu được cung cấp để chúng tôi có thể gửi mail khôi phục mật khẩu cho bạn."
 
-#. (broker_name)
 msgid "Go to the <a href=\"https://login.binary.com/signup.php\">sign up page</a> to register as an affiliate today."
 msgstr "Tới <a href=\"https://login.binary.com/signup.php\">trang đăng kí</a> để đăng kí trở thành một chi nhánh."
 
@@ -2839,14 +2741,12 @@ msgstr "Làm thế nào để nạp tiền vào tài khoản của tôi?"
 msgid "How do I know how much I have earned?"
 msgstr "Làm sao để biết tôi đã kiếm được bao nhiều tiền?"
 
-#. (stash->{website_name})
 msgid "How does %1 make money?"
 msgstr "%1 kiếm tiền như thế nào?"
 
 msgid "How does it work?"
 msgstr "Nó hoạt động như thế nào?"
 
-#. (stash->{website_name})
 msgid "How safe is my money with %1?"
 msgstr "Tiền của tôi an toàn như thế nào với %1?"
 
@@ -2966,7 +2866,6 @@ msgstr "Nếu bạn không nhận được email trong vòng vài phút t�
 msgid "If you have the skill set we seek, you’ll become a valued member of a highly competent front end development team engaged in driving our binary options trading systems to new heights."
 msgstr "Nếu bạn có những kĩ năng mà chúng tôi cần, bạn sẽ trở thành một thành viên chủ chốt trong đội phát triển front-end để góp phần đưa hệ thống giao dịch quyền chọn nhị phân của chúng ta lên một tầm cao mới."
 
-#. (broker_name)
 msgid "If you introduce our website to potential clients, you will eventually start earning passive income, just as soon as one of them opens a real account with %1. And you will continue making money for as long as the client uses our services. Simply put, you will start earning a commission which in actual fact, requires very little effort to maintain."
 msgstr "Nếu bạn giới thiệu trang web của chúng tôi cho khách hàng tiềm năng, bạn sẽ có thể bắt đầu có khoản thu nhập thụ động, chỉ khi một trong số họ mở tài khoản thực với %1. Và bạn sẽ tiếp tục kiếm tiền cho tới khi khách hàng sử dụng dịch vụ của chúng tôi. Bạn sẽ bắt đầu kiếm được tiền hoa hồng khi tài khoản hoạt động thực, và yêu cầu phải duy trì tài khoản đó."
 
@@ -3054,11 +2953,9 @@ msgstr "Nếu bạn chọn <strong>thời gian bắt đầu là </strong> \"
 msgid "If you select a specific <strong>end time</strong>, the <strong>end time</strong> is the selected time."
 msgstr "Nếu bạn chọn <strong>thời gian kết thúc cụ thể</strong>, <strong>thời gian kết thúc</strong> là thời gian đã được lựa chọn."
 
-#. (broker_name)
 msgid "If you want to profit from this high demand product then your best option is to partner with the market leader. %1 has been in the business for over 15 years, and has been successful ever since."
 msgstr "Nếu bạn muốn có lợi nhuận từ sản phẩm có nhu cầu cao này thì lựa chọn tốt nhất của bạn là trở thành đối tác với người dẫn đầu thị trường. %1 đã đi vào hoạt động kinh doanh trên 15 năm, và đã thành công từ đó."
 
-#. (stash->{affiliate_email})
 #, fuzzy
 #| msgid "If you would like more information on becoming a Payment Agent, please contact us at <a href='mailto:affiliates@binary.com'>affiliates@binary.com</a>"
 msgid "If you would like more information on becoming a Payment Agent, please contact us at <a href='mailto:%1'>%1</a>"
@@ -3067,14 +2964,12 @@ msgstr "Nếu bạn muốn biết thêm thông tin để trở thành Đa�
 msgid "If you would like to file a complaint with regards to our service, kindly contact us providing any relevant details relating to your complaint. We shall investigate your enquiry and a response will be given to your enquiry. We will usually provide a final response within 1-2 weeks (and at most within 2 months) from receipt of all relevant details."
 msgstr "Nếu bạn muốn khiếu nại liên quan đến dịch vụ của chúng tôi, vui lòng liên hệ với chúng tôi và cung cấp chi tiết các vấn đề mà bạn muốn khiếu nại. Chúng tôi sẽ tìm hiểu và sẽ phản hồi cho bạn sớm nhất. Chúng tôi thường cung cấp câu trả lời cuối cùng trong khoảng thời gian từ 1 đến 2 tuần (và hầu hết trong vòng 2 tháng) từ khi nhận được chi tiết nội dung yêu cầu."
 
-#. (broker_name)
 msgid "If you're a broker we'd like to work with you. You will be introducing your clients to a unique and innovative product - the %1 trading platform."
 msgstr "Nếu bạn là nhà môi giới, chúng tôi muốn làm việc với bạn. Bạn sẽ giới thiệu cho khách hàng của mình sản phẩm độc đáo và sáng tạo này- sàn giao dịch %1."
 
 msgid "If your complaint relates to an outcome of a trade or a transaction and remains unresolved, it will turn into a dispute. Should you be unsatisfied with our response, you can choose to escalate your complaint to the regulator or to an alternative dispute resolution entity."
 msgstr "Nếu khiếu kiện của bạn liên quan tới kết quả giao dịch hoặc giao dịch vẫn chưa được giải quyết, nó sẽ chuyển sang tranh chấp. Bạn có thể sẽ không hài lòng với phản hồi của chúng tôi, bạn có thể kéo dài khiếu kiện hoặc thay thế người giải quyết tranh chấp."
 
-#. (stash->{website_name}, url_for('contact')
 msgid "If you’re an individual trader, you’ll appreciate the simplicity, flexibility, and limited risk of binary trading. With %1’s low minimum stakes, you’ll soon learn how to trade with skill and confidence. And if you have any questions, you’re free to access <a class=\"pjaxload\" href=\"%2\">our helpful support desk</a>."
 msgstr "Nếu bạn là người giao dịch cá thể, bạn sẽ đánh giá cao tính đơn giản, linh hoạt và hạn chế rủi ro của giao dịch nhị phân. Với điểm thấp tối thiểu của %1, bạn sẽ sớm biết giao dịch khéo léo và tự tin. Và nếu bạn có thêm bất cứ câu hỏi nào, hãy truy cập vào <a class=\"pjaxload\" href=\"%2\">đội ngũ hỗ trợ hữu ích của chúng tôi</a>."
 
@@ -3129,7 +3024,6 @@ msgstr "Để truy cập vào các ứng dụng di động của chúng tôi và
 msgid "In order to support its continued growth, %1 is seeking to recruit and place a qualified Compliance Executive. In this newly created role, to be based in Malta, the incumbent will report to our Head of Regulatory and Legal Compliance"
 msgstr "Để mở rộng kinh doanh, %1 đang tuyển dụng thêm một Ban quản trị Thực thi đủ khả năng. Trong vai trò mới dựa trên nhiệm vụ ở Malta, người đương nhiệm sẽ báo cáo tới Cơ quan đầu não Thực thi pháp luật và Quy định"
 
-#. (stash->{website_name})
 msgid "In order to support its continued growth, the Human Resources Group at %1 is seeking to place a highly competent administrator in a senior recruitment role. Please note that this is not a position suitable for an HR generalist, but should be of keen interest to a high level administrator with extensive experience in the global recruitment of managers and single technical contributors. A background in financial services and experience in the recruitment of senior professionals in IT and Quantitative Analytics would be ideal."
 msgstr "Nhằm hỗ trợ cho sự tăng trưởng của công ty, phòng Nhân Sự của %1 đang tìm kiếm một chuyên viên tuyển dụng nhân sự. Xin lưu ý rằng vị trí này không bao gồm tất cả các công việc liên quan đến nhân sự, hành chính, mà yêu cầu kĩ năng tuyển dụng tốt đã từng có kinh nghiệm của nhà quản lý tuyển dụng toàn cầu. Có kinh nghiệm trong lĩnh vực dịch vụ tài chính và kinh nghiệm tuyển dụng của một chuyên gia cao cấp cho ngành IT và Phân Tích Định Lượng là một lợi thế."
 
@@ -3226,7 +3120,6 @@ msgstr "Tức thì"
 msgid "Insufficient balance"
 msgstr "Số dư tài khoản không đủ"
 
-#. (stash->{website_name})
 msgid "Interested, so what’s next? If you can offer our Clients a specific e-cash method or a local payment option that is not already provided by %1, and you have a good track record in the market, then we would love to <a href='mailto:affiliates@binary.com'>hear from you!</a>"
 msgstr "Bạn đã thấy hứng thú, vậy điều gì tiếp theo? Nếu bạn có thể cung cấp cho Khách hàng của chúng tôi sử dụng phương thức thẻ điện tử hoặc phương thức thanh toán nội tệ mà chưa được %1 cung cấp, và bạn có có hồ sơ ghi nhận theo dõi tốt trên thị trường, chúng tôi muốn <a href='mailto:affiliates@binary.com'>nhận được thông tin từ bạn!</a>"
 
@@ -3962,15 +3855,12 @@ msgstr "Đăng nhập"
 msgid "Log out"
 msgstr "Đăng xuất"
 
-#. (broker_name)
 msgid "Log-in to your %1 affiliate account and click on: Finances &rarr; Payment instructions."
 msgstr "Đăng nhập vào tài khoản liên kết %1 của bạn và nhấp chuột vào: Tài chính, chỉ dẫn Thanh toán."
 
-#. (broker_name)
 msgid "Log-in to your %1 affiliate account and click on: Marketing &rarr; All Media."
 msgstr "Đăng nhập vào tài khoản liên kết %1 của bạn và nhấp chuột vào: Quảng cáo trên Tất cả các Phương tiện."
 
-#. (broker_name)
 msgid "Log-in to your %1 affiliate account and click on: Reports &rarr; Traffic Report."
 msgstr "Đăng nhập vào tài khoản liên kết %1 của bạn và nhấp chuột vào: Báo cáo; Báo cáo Lượng người truy cập."
 
@@ -4517,7 +4407,6 @@ msgstr "Chúng tôi cam kết cung cấp cho bạn 'sự thực hiện tô�
 msgid "Our company continues to thrive and obtains a license in the Isle of Man to better service our UK clients."
 msgstr "Công ty chúng tôi tiếp tục lớn mạnh và giành được giấy phép ở đảo Man để cung cấp dịch vụ tốt hơn cho các khách hàng Anh."
 
-#. (request.url_for("cashier/payment_methods"))
 msgid "Our costs and charges for depositing and withdrawing money are set out <a href=\"%1\" class=\"pjaxload\">here</a>. Please be aware of all costs and charges that apply to you because they will affect your profitability."
 msgstr "Phí và lệ phí rút và gửi tiền được thiết lập <a href=\"%1\" class=\"pjaxload\">ở đây</a>. Vui lòng nhớ rằng tất cả các chi phí và lệ phí đều được tính cho bạn vì chúng có ảnh hưởng tới lợi nhuận của bạn."
 
@@ -4563,7 +4452,6 @@ msgstr "Trên 3 năm"
 msgid "Over 5 years"
 msgstr "Over 5 years"
 
-#. (url_for('/careers')
 msgid "Over 90 <a href=\"%1\">staff</a> and contractors worldwide"
 msgstr "Trên 90 <a href=\"%1\">nhân viên</a> và nhà thầu trên toàn thế giới"
 
@@ -4582,7 +4470,6 @@ msgstr "Giám sát sự cố liên quan tới production servers và đưa ra c�
 msgid "Ownership"
 msgstr "Quyền sở hữu"
 
-#. (website)
 msgid "Ownership and content of the %1 website remains our respective properties and shall not be deemed to have been transferred to you through any act or omission in respect of this Agreement."
 msgstr "Quyền sở hữu và nội dung của trang web %1 vẫn là tài sản của chúng tôi và sẽ không được coi là đã chuyển giao cho bạn thông qua bất cứ hoạt động nào hoặc thiếu sót nào của Thỏa thuận này."
 
@@ -4715,7 +4602,6 @@ msgstr "Xin vui lòng xác nhận nội dung giao dịch của bạn trươ�
 msgid "Please confirm the transaction details in order to complete the transfer:"
 msgstr "Xin vui lòng xác nhận chi tiết giao dịch để hoàn thành việc chuyển tiền:"
 
-#. (affiliate_email)
 msgid "Please contact us with whatever is on your mind at <a href=\"mailto:%1\">%1</a>. We’d be happy to hear from you and willing to assist you. So, feel free to share your ideas and suggestions with us."
 msgstr "Vui lòng liên hệ với chúng tôi bất cứ điều gì bạn muốn tại <a href=\"mailto:%1\">%1</a>. Chúng tôi luôn lắng nghe và sẵn sàng hỗ trợ bạn. Vì thế, đừng ngần ngại hãy chia sẻ ý kiến và yêu cầu của bạn với chúng tôi."
 
@@ -4770,11 +4656,9 @@ msgstr "Vui lòng lưu ý rằng do tính chất của thị trường phi tập
 msgid "Please note that our website generates log files that record the IP addresses of accesses to your account. This information is gathered with the sole purpose of assisting in the unlikely event of a need to investigate accesses to your account by unauthorised users. Additionally we may verify certain of the information you supply in the account opening form, or otherwise, with third-party information providers."
 msgstr "Vui lòng chú ý rằng trang web của chúng tôi có tệp tin mà có thể ghi lại địa chỉ máy tính cá nhân khi đăng nhập vào tài khoản của bạn. Những thông tin này được tập hợp lại với mục đích duy nhất là hỗ trợ điều tra việc truy cập vào tài khoản của bạn bởi người dùng không có quyền. Thêm nữa, chúng tôi có thể xác minh một số thông tin nhất định mà bạn đã khai trong bản mẫu đăng kí mở tài khoản, hoặc với người cung cấp thông tin bên thứ ba."
 
-#. (broker_name)
 msgid "Please note that weekend quotes are ignored for the purpose of contract settlement. During weekends, the forex markets may occasionally generate prices, however these prices are often artificial (traders sometimes take advantage of the illiquidity of the markets during weekends to push up or down prices). To avoid settling prices based on such artificial prices, it is %1's policy not to count weekend prices towards contract settlement values (except for the volatility indices, which are open during weekends)."
 msgstr "Vui lòng chú ý rằng yết giá cuối tuần bị bỏ qua với mục đích quyết toán hợp đồng. Cuối tuần, thị trường ngoại hối thi thoảng vẫn đưa ra giá, tuy nhiên những giá này thường mang tính nhân tạo (đôi khi các nhà giao dịch lợi dụng tính thanh khoản kém của thị trường vào dịp cuối tuần để đẩy giá lên hoặc giảm giá xuống). Để tránh quyết toán giá dựa trên giá nhân tạo này, %1 đưa ra chính sách không tính giá cuối tuần vào giá trị quyết toán của hợp đồng (ngoại trừ chỉ số biến động, được mở suốt cuối tuần)."
 
-#. (website)
 msgid "Please note that you may update your personal information at any time by logging into the \"Settings\" section of your account. It is your responsibility to ensure that %1 is promptly and continually informed of any change in your personal information."
 msgstr "Vui lòng chú ý rằng bạn có thể cập nhật thông tin cá nhân của mình bất kì lúc nào bằng cách đăng nhập vào khu vực \"Cài đặt\" trong tài khoản của bạn. Bạn phải có trách nhiệm đảm bảo rằng %1 sẽ được thông báo liên tục và kịp thời nếu có bất cứ sự thay đổi nào về thông tin cá nhân của bạn."
 
@@ -4808,7 +4692,6 @@ msgstr "Hãy chỉ rõ khoảng thời gian kiểm tra thực tế ưa thích c�
 msgid "Please submit a valid %1."
 msgstr "Vui lòng nhập một tài khoản %1 hợp lệ."
 
-#. (stash->{affiliate_email})
 #, fuzzy
 #| msgid "Please submit the above information to <a href='mailto:affiliates@binary.com'>affiliates@binary.com</a>."
 msgid "Please submit the above information to <a href='mailto:%1'>%1</a>."
@@ -5039,7 +4922,6 @@ msgstr "Nhập lại mật khẩu của bạn"
 msgid "Read"
 msgstr "Đọc"
 
-#. (stash->{website_name})
 msgid "Read about the five types of trade offered by %1."
 msgstr "Đọc về năm loại giao dịch được giới thiệu bởi %1."
 
@@ -5103,7 +4985,6 @@ msgstr "Regent Markets nhận tiền để cung cấp các dịch vụ cá 
 msgid "Regent Markets sets up a programming centre in Cyberjaya, Malaysia"
 msgstr "Regent Markets thiết lập trung tâm lập trình ở Cyberjaya, Malaysia"
 
-#. (('http://www.regentpac.com/ICMServlet/download/13-1907-3066/EAnnt-ThirdPartiesSale(04Mar2015)
 msgid "Regent Pacific Group Ltd., the Hong Kong-listed founding shareholder of Binary.com, <a href=\"%1\" target=\"_blank\">disposes of its stake</a> at a valuation of US$ 50.5 million."
 msgstr "Công ty TNHH Regent Pacific Group, cổ đông sáng lập Binary. com tại Hồng Kong, <a href=\"%1\" target=\"_blank\">có vốn góp</a> trị giá  50.5 triệu Đô la Mỹ."
 
@@ -5188,11 +5069,9 @@ msgstr "Khách hàng Bán lẻ"
 msgid "Return"
 msgstr "Lợi nhuận"
 
-#. (url_for('trading?market=forex&formname=risefall')
 msgid "Returns above 100% on simple <a href='%1' class='pjaxload'>rise/fall</a> contracts."
 msgstr "Doanh thu trên 100% dựa trên hợp đồng <a href='%1' class='pjaxload'>tăng/giảm</a> đơn giản."
 
-#. (url_for('trading?market=forex&formname=higherlower')
 msgid "Returns above 1000% on <a href='%1' class='pjaxload'>higher/lower</a> and <a href='%2' class='pjaxload'>touch/no-touch</a> trades."
 msgstr "Doanh thu trên 1000% dựa trên <a href='%1' class='pjaxload'>giao dịch</a> cao hơn/thấp hơn và <a href='%2' class='pjaxload'>chạm/không chạm</a> ."
 
@@ -5280,7 +5159,6 @@ msgstr "Phạm vi và Mục đích"
 msgid "Score"
 msgstr "Điểm số"
 
-#. (broker_name)
 msgid "Seasoned traders can use the %1 platform for the full advantage of the wide range of trading and analysis tools we have on offer."
 msgstr "Người giao dịch dày dặn có thể sử dụng sàn giao dịch %1 để tận dụng triệt để hàng loạt các công cụ phân tích và giao dịch mà chúng tôi cung cấp."
 
@@ -5404,7 +5282,6 @@ msgstr "Nếu khách hàng nào nhận được giao dịch đòi bồi 
 msgid "Should these expenses not be covered by funds in your account we reserve the right to investigate other alternative means for obtaining payment, for example: should your account have generated purchasing accounts, we will hold payment of commission for these accounts until such a time as the account for damages has been cleared."
 msgstr "Nếu tiền của bạn gửi vào tài khoản không đủ bù đắp những khoản chi phí này chúng tôi có quyền điều tra những phương tiện thay thế khác để có được khoản thanh toán này, ví dụ: nếu tài khoản của bạn vừa tạo tài khoản mua, chúng tôi sẽ giữ lại tiền thanh toán hoa hồng của những tài khoản này tới khi trả hết khoản nợ trong tài khoản."
 
-#. (url_for('contact')
 msgid "Should you need help or support, please contact our <a href=\"%1\">Customer Service department</a> and one of our representatives will assist you as soon as possible."
 msgstr "Nếu bạn cần giúp đỡ hoặc hỗ trợ, vui lòng liên hệ với <a href=\"%1\">phòng Chăm sóc Khách hàng</a> và một trong những đại diện của chúng tôi sẽ hỗ trợ bạn sớm ngay khi có thể."
 
@@ -5423,14 +5300,12 @@ msgstr "Kinh nghiệm nổi bật trong lĩnh vực Truyền thông Xã hội, M
 msgid "Simplicity"
 msgstr "Đơn giản"
 
-#. (stash->{website_name})
 msgid "Simply change any of your parameters and the trade price instantly changes, giving you real-time knowledge of your stake. %1 ensures fair and transparent pricing by showing you both sides of the trade."
 msgstr "Đơn giản thay đổi bất kì thông số nào và giá giao dịch lập tức thay đổi, cho bạn biết về cổ phiếu của bạn trong thời gian thực. %1 bảo đảm rằng giá hiển thị cho bạn là hoàn toàn minh bạch và công bằng ở cả hai phía giao dịch."
 
 msgid "Simply click on \"Create\" to generate your token; then copy and paste it into the app."
 msgstr "Chỉ cần nhấp vào nút \"Tạo\" để tạo ra các mã token của bạn; sau đó sao chép và dán nó vào ứng dụng."
 
-#. (stash->{website_name})
 msgid "Since all dealing on the %1 website is fully automated, our pricing and risk management algorithms must take full account of real-time pricing parameters, data feed irregularities and latencies."
 msgstr "Vì tất cả các giao dịch trên trang web %1 hoàn toàn tự động, các thuật toán quản lý giá cả và rủi ro của chúng tôi đòi hỏi phải có các thông số định giá theo thời gian thực, nguồn dữ liệu bất thường và tiềm tàng."
 
@@ -5533,7 +5408,6 @@ msgstr "Nội dung tĩnh"
 msgid "Status"
 msgstr "Tình trạng"
 
-#. (stash->{website_name})
 msgid "Stay informed. %1 offers daily market reports and market research, as well as frequent trading webinars."
 msgstr "Hãy theo dõi thông báo. %1 cung cấp báo cáo thị trường  và nghiên cứu thị trường hàng ngày cũng như là hội thảo qua web giao dịch thường xuyên."
 
@@ -5705,7 +5579,6 @@ msgstr "Terms and conditions"
 msgid "Tertiary"
 msgstr "Bên thứ ba"
 
-#. (stash->{website_name})
 msgid "Test-run %1, and sharpen your trading skills, with a no-risk, no-commitment, virtual account."
 msgstr "Chạy thử %1, và nâng cao kỹ năng giao dịch của bạn, với một tài khoản ảo không rủi ro, không có cam kết."
 
@@ -5715,15 +5588,12 @@ msgstr "Th"
 msgid "Thank you for signing up! Please check your email to retrieve the verification token."
 msgstr "Cám ơn bạn đã đăng ký thành viên! Vui lòng kiểm tra email của bạn để tìm thấy token xác minh."
 
-#. (stash->{website_name})
 msgid "The %1 Quantitative Analytics group is responsible for the pricing of binary options offered on our website, as well as the risk management and profitability of its options book. Processing over a million transactions each day, the company manages a book of exotic options which arguably exceeds in complexity that of the typical derivatives desk."
 msgstr "Nhóm Phân Tích Định Lượng của %1 chịu trách nhiệm định giá các quyền chọn nhị phân được cung cấp trên trang web của chúng tôi, cũng như quản lý rủi ro và lợi nhuận của những quyền chọn đã đặt. Xử lý hơn 1 triệu giao dịch mỗi ngày."
 
-#. (website)
 msgid "The %1 website is protected by certain copyrights."
 msgstr "Trang web %1 được bảo vệ bởi bản quyền tác giả nhất định."
 
-#. (stash->{website_name})
 msgid "The <span itemprop=\"brand\">%1</span> service (formerly known as BetOnMarkets.com) is owned and operated by Binary Ltd. Fully licensed and regulated, %1 has been providing financial trading to a worldwide audience of over 1,000,000 accounts since <span itemprop=\"foundingdate\">1999</span>"
 msgstr "Dịch vụ <span itemprop=\"brand\">%1</span> (được biết đến là BetOnMarkets.com) được công ty Binary sở hữu và vận hành. Đã được cấp phép đầy đủ, %1 đã cung cấp giao dịch tài chính cho hơn 1,000,000 tài khoản trên thế giới từ năm <span itemprop=\"foundingdate\">1999</span>"
 
@@ -5772,7 +5642,6 @@ msgstr "Chính sách Bảo mật và Riêng tư của Binary.com;"
 msgid "The Binary.com Terms and Conditions;"
 msgstr "Các Điều khoản và Điều kiện của Binary.com;"
 
-#. ('https://github.com/binary-com/binary-static')
 msgid "The Binary.com website’s static content (CSS, Javascript) is available as the <a target=\"_blank\" href=\"%1\">binary-static</a> open-source project on github. Would you like to re-skin the Binary.com website, or improve browser compatibility, site rendering speed, or Javascript performance? Please fork the project and submit pull-requests of your suggested code changes."
 msgstr "Nội dung tĩnh của trang web Binary.com (CSS, Javascript) luôn có sẵn như là <a target=\"_blank\" href=\"%1\">nhị phân tĩnh</a> dự án nguồn mở trên github. Bạn có muốn thay đổi bề mặt trang web Binary.com, hoặc muốn cải thiện giao diện trình duyệt, tốc độ chạy của trang, hoặc hoạt động của Javascript? Vui lòng chọn dự án và gửi yêu cầu thay đổi mã theo gợi ý của bạn."
 
@@ -5791,7 +5660,6 @@ msgstr "Công ty chúng tôi hoàn toàn không chịu trách nhiệm đối v�
 msgid "The Company is not under any obligation of confidentiality with respect to the Contributions;"
 msgstr "Công ty chúng tôi chịu sự ràng buộc của bất kỳ quy định nào về sự bảo mật tương ứng với Các khoản bồi thường;"
 
-#. (website)
 msgid "The Company makes no claims that the %1 website will be uninterrupted or provide an error free service, and will not be liable for the consequences of any such errors or interruptions."
 msgstr "Công ty không tuyên bố rằng trang web %1 sẽ không bị gián đoạn hoặc dịch vụ cung cấp không có lỗi và sẽ không chịu hậu quả với những lỗi và gián đoạn này gây ra."
 
@@ -5816,7 +5684,6 @@ msgstr "Công ty chúng tôi có thể sử dụng hay tiết lộ (hoặc lựa
 msgid "The Company may, from time to time, at its sole discretion, or as required by regulations in place to conduct appropriate \"Know Your Customer\" procedures and require a Client to provide proof of identity (such as notarized copy of passport or other means of identity verification as the Company deems required under the circumstances) and may at its sole discretion suspend an account until satisfactory identification information, evidence of identity and address, source of funds and/or source of wealth have been provided. Know Your Customer documentation will be required when a Client deposits money in the account. In the case of a client opening an account with Binary (Europe) Ltd, the threshold for verifying clients is on cumulative withdrawals of EUR 2,300."
 msgstr "Theo thời gian, Công ty có thể quyết định theo ý mình, hoặc theo yêu cầu của quy định ở vị trí thích hợp để tiến hành thủ tục \"Tìm hiểu Khách hàng\" và yêu cầu khách hàng cung cấp bằng chứng nhận dạng (như bản sao công chứng hộ chiếu hoặc các phương tiện xác minh danh tính khác khi Công ty xét thấy cần thiết trong một số trường hợp) và có thể tùy ý đình chỉ tài khoản cho đến khi bằng chứng này được cung cấp. Hồ sơ Tìm hiểu về Khách hàng sẽ được yêu cầu cung cấp khi Khách hàng gửi tiền vào tài khoản. Trong trường hợp khách hàng mở tài khoản với công ty TNHH Binary (Châu Âu), ngưỡng rút tiền tích lũy cho khách hàng đã được xác minh là  EUR 2,300."
 
-#. (website)
 msgid "The Company provides the %1 website on an “as is” and “as available” basis, and gives no warranty that the %1 website will be free of errors, or that errors will be corrected, or that our website is free of any third party interferences such as hackers or any other harmful components that arise outside of the Company’s control."
 msgstr "Công ty cung cấp trang web %1 như là một cơ sở \"sẵn có\", và không đảm bảo rằng trang web %1 sẽ không có lỗi, hoặc lỗi sẽ được sửa chữa, hoặc sẽ không có sự xuất hiện của bên thứ ba như tin tặc hoặc bất kỳ thành phần gây hại khác phát sinh ngoài tầm kiểm soát của Công ty."
 
@@ -5976,7 +5843,6 @@ msgstr "Hoa hồng bạn sẽ tính tiền Khách hàng qua tiền rút v
 msgid "The company does not guarantee the ability to sell a contract prior to its expiration time."
 msgstr "Công ty không bảo đảm có thể bán bán hợp đồng trước thời hạn."
 
-#. (request.url_for("cashier/payment_methods"))
 msgid "The company has various deposit methods available, each with their own timing for deposits, some of which might not be available for withdrawals. Full details of deposits and withdrawals methods available including settlement times are available <a href='%1' class='pjaxload'>here:</a>"
 msgstr "Công ty có nhiều phương thức gửi tiền, mỗi một phương thức đều định thời gian để gửi, một số phương thức thì không dành cho việc rút tiền. Chi tiết đầy đủ về phương thức gửi tiền hoặc rút tiền bao gồm cả thời gian định giá có sẵn ở <a href='%1' class='pjaxload'>đây:</a>"
 
@@ -5992,7 +5858,6 @@ msgstr "Công ty có quyền hủy/ cấm sử dụng chương trình quả
 msgid "The company reserves the right to charge a dormant fee of up to USD/EUR/AUD/GBP25 every 6 months for every Client account that has had no transaction recorded for over 12 months. If a Client's account is with Binary (Europe) Ltd., and his account has had no activity for a period of thirty months, and the Client cannot be located or contacted, the Company shall remit the balance of the account to the Malta Gaming Authority. Clients need to contact our helpdesk to recover funds from inactive, closed, blocked or excluded accounts."
 msgstr "Công ty có quyền thu phí không hoạt động lên đến USD / EUR / AUD / GBP 25 6 tháng/ lần đối với mỗi tài khoản Khách hàng không có giao dịch được ghi nhận trong khoảng hơn 12 tháng. Nếu tài khoản của Khách hàng là của công ty TNHH Binary (Châu Âu), và tài khoản của khách hàng không hoạt động trong 30 tháng, và không thể liên hệ được với khách hàng, Công ty sẽ có trách nhiệm chuyển số dư của tài khoản cho Tổ chức Cá cược Malta. Khách hàng cần phải liên hệ với bộ phận hỗ trợ của chúng tôi để hồi lại số tiền từ việc tài khoản bị đóng, bị chặn và bị vô hiệu hóa."
 
-#. (website)
 msgid "The content on this website is subject to change at any time without notice and is provided for the sole purpose of assisting traders in making independent investment decisions. %1 has taken reasonable measures to ensure the accuracy of the information on the website, however, we do not guarantee its accuracy and will not accept liability for any loss or damage which may arise directly or indirectly from the content or your inability to access the website, for any delay in or failure of the transmission or the receipt of any instruction or notification sent through this website."
 msgstr "Nội dung trên trang web này có thể thay đổi bất cứ lúc nào mà không cần thông báo trước và được cung cấp cho mục đích duy nhất là hỗ trợ nhà giao dịch đưa ra các quyết định đầu tư độc lập. %1 đã thực hiện các biện pháp hợp lý để đảm bảo tính chính xác của thông tin trên trang web, tuy nhiên, chúng tôi không đảm bảo tính chính xác và sẽ không chịu trách nhiệm đối với bất kỳ tổn thất hoặc thiệt hại nào phát sinh trực tiếp hoặc gián tiếp từ nội dung hoặc do không thể truy cập vào trang web, đối với bất kỳ sự chậm trễ hay thất bại trong việc truyền tải hoặc nhận chỉ dẫn hoặc thông báo được gửi qua trang web này."
 
@@ -6032,7 +5897,6 @@ msgstr "Các dịch vụ kinh doanh tài chính có trên trang web này chỉ t
 msgid "The financial trading services contained within this site are only suitable for customers who are able to bear the loss of all the money they invest and who understand and have experience of the risk involved in the acquistion of financial contracts. Transactions in financial contracts carry a high degree of risk. If purchased contracts expire worthless, you will suffer a total loss of your investment, which consists of the contract premium."
 msgstr "Các dịch vụ kinh doanh tài chính có trên trang web này chỉ thích hợp cho những khách hàng có khả năng chịu mất tất cả số tiền họ đầu tư và những người hiểu và có kinh nghiệm về các rủi ro liên quan trong việc mua lại các hợp đồng tài chính. Các giao dịch hợp đồng tài chính mang một mức độ rủi ro cao. Nếu hợp đồng được mua hết hạn trở nên vô giá trị, bạn sẽ bị mất tổng đầu tư của bạn, bao gồm phí bảo hiểm hợp đồng."
 
-#. (url_for('/')
 msgid "The first step is to open an account. You can <a target='_blank' href='%1'>apply online</a> in just a few minutes."
 msgstr "Bước đầu tiên là mở một tài khoản. Bạn có thể <a target='_blank' href='%1'>nộp đơn trực tuyến</a> chỉ mất vài phút."
 
@@ -6042,7 +5906,6 @@ msgstr "Điều đầu tiên cần làm là chọn tài sản bạn muốn giao 
 msgid "The first tick is the first tick after the contract is processed by our servers."
 msgstr "Điểm đầu tiên là giây đầu tiên sau khi hợp đồng được xử lý bởi máy chủ của chúng tôi."
 
-#. (request.website.display_name)
 msgid "The future of trading on %1"
 msgstr "Hợp đồng tương lai của giao dịch trên %1"
 
@@ -6058,7 +5921,6 @@ msgstr "Thua lỗ USD 306 là phần chênh lệch giữa mức giá đi 
 msgid "The market exit price is the price in effect at the end of the contract period."
 msgstr "Giá thoát khỏi thị trường là giá có hiệu lực vào cuối thời gian hợp đồng."
 
-#. (SITENAME)
 msgid "The materials comprising the %1 website (including without limitation all articles, text, images, logos, compilation, systems, code and design) are Copyright 1999-<span class='currentYear'></span> Binary Group of companies. All rights reserved."
 msgstr "Các tài liệu bao gồm trang web %1 (bao gồm nhưng không giới hạn tất cả các bài viết, văn bản, hình ảnh, logo, biên soạn, hệ thống, mã và thiết kế) đều là Bản quyền 1999-<span class='currentYear'></span> của tập đoàn Binary. Tất cả quyền được bảo vệ."
 
@@ -6128,7 +5990,6 @@ msgstr "Các chỉ số biến động mô phỏng các tình huống đa dạng
 msgid "Then, make your trade"
 msgstr "Sau đó, giao dịch"
 
-#. (website)
 msgid "There are risks associated with utilizing an Internet-based deal execution trading system, including but not limited to the failure of hardware, software and Internet connection. Since %1 does not control signal power, its reception or routing via Internet, configuration of your equipment or reliability of its connection, we cannot be responsible for communication failures, distortions or delays when trading via the Internet."
 msgstr "Có những rủi ro liên quan đến việc sử dụng một hệ thống giao dịch thực hiện thỏa thuận dựa trên Internet, bao gồm cả lỗi của phần cứng, phần mềm và kết nối Internet. Vì %1 không kiểm soát tín hiệu, tiếp nhận hoặc định tuyến thông qua Internet, cấu hình của thiết bị hoặc độ tin cậy của kết nối, chúng tôi không chịu trách nhiệm cho những lỗi kết nối liên lạc, tính xuyên tạc hoặc sự chậm trễ khi giao dịch qua Internet."
 
@@ -6262,7 +6123,6 @@ msgstr "Đây là lý do tại sao chúng tôi đang tuyển dụng thêm nhữn
 msgid "This notice does not explain all of the risks involved in investments or similar products or how such risks relate to your personal circumstances. It is important that you fully understand the risks involved before making a decision to enter into or sell an investment product or gambling product with us. If you are in any doubt about the risks involved with Investment Products or Gambling Products, you should seek professional advice."
 msgstr "Thông báo này không giải thích tất cả các rủi ro có trong đầu tư hoặc các sản phẩm tương tự hoặc những rủi ro liên quan đến trường hợp cá nhân của bạn. Điều quan trọng là bạn hiểu đầy đủ về các rủi ro liên quan trước khi đưa ra quyết định nhập vào hoặc bán một sản phẩm đầu tư hay sản phẩm cá cược với chúng tôi. Nếu bạn có nghi ngờ về những rủi ro liên quan đến Sản phẩm Đầu tư hoặc Sản phẩm Cá cược, bạn nên tìm kiếm tư vấn chuyên nghiệp."
 
-#. (website)
 msgid "This notice provides you with information about the risks associated with investment contracts, which you may invest in through services provided to you through %1. Binary Group provides a wide range of products including Binary Options relating to foreign exchange, indices, stocks and other investment products (\"Investment Products\") and binary bets such as those relating to the Random Markets (\"Gambling Products\")."
 msgstr "Thông báo này cung cấp cho bạn những thông tin về rủi ro có liên quan đến hợp đồng đầu tư mà bạn có thể đầu tư thông qua dịch vụ đã được cung cấp cho bạn trên %1. Tập đoàn Binary cung cấp một loạt các sản phẩm bao gồm Quyền chọn Nhị phân liên quan tới thị trường ngoại hối, chỉ số, cổ phiếu và các sản phẩm đầu tư khác (\"Sản phẩm Đầu tư\") và cá cược tài chính như những thứ có liên quan tới Thị trường Ngẫu nhiên (\"Sản phẩm Cá cược\")."
 
@@ -6278,7 +6138,6 @@ msgstr "Trang web này chứa các đường dẫn đến các trang web khác
 msgid "This website does not collect personally identifying information about you except when you specifically and knowingly provide it. There is a technology called \"cookies\" which can be used to provide tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. If you do not accept the cookie, then you will need to input your loginID and password again at every form required to enter into the system. You are advised to choose this option if you have concerns about the security of your personal browser or PC."
 msgstr "Trang web này không thu thập thông tin cá nhân về bạn trừ khi bạn cố ý cung cấp nó. Có một công nghệ gọi là \"cookies\" có thể được sử dụng để cung cấp thông tin từ một trang web. Cookie là một phần tử của dữ liệu mà trang web gửi đến trình duyệt của bạn, sau đó  nó có thể lưu trữ trên hệ thống của bạn. Bạn có thể thiết lập trình duyệt để thông báo khi bạn nhận được một cookie, cho bạn cơ hội quyết định có nên chấp nhận nó hay không. Nếu bạn không chấp nhận cookie này, thì bạn sẽ cần phải nhập ID và mật khẩu của bạn một lần nữa trên các biểu mẫu được yêu cầu để có thể vào được hệ thống. Bạn nên chọn tùy chọn này nếu bạn lo lắng về bảo mật trình duyệt cá nhân hoặc PC của mình."
 
-#. ("https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39172", "https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39495")
 msgid "This website is marketed in the UK and Isle of Man by Binary (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles, licenced and regulated by (1) the Gambling Supervision Commission in the Isle of Man, British Isles, current online gambling licence issued on 31 August 2012, and for UK clients by (2) the UK Gambling Commission - <a href='%1' target='_blank'>view license</a>. This website is marketed in the rest of the EU, for investment products by Binary Investments (Europe) Ltd., Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta, licenced and regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (license no. IS/70156), and for gaming products by Binary (Europe) Ltd., Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta, licenced and regulated by (1) the Malta Gaming Authority in Malta, licence no MGA/CL2/118/2000, 26th May 2015 and for UK clients by (2) the UK Gambling Commission - <a href='%2' target='_blank'>view license</a>, and for Irish clients by (3) the Revenue Commissioners in Ireland, current remote bookmaker's licence issued on 29 September 2015 (licence no 1010285). This website's services are not made available in the USA, Japan, Costa Rica or Hong Kong, or to persons under age 18."
 msgstr "Trang web này được giới thiệu trên thị trường Anh và Đảo Man bởi công ty TNHH Binary (IOM), tầng 1, Tòa nhà Millennium, Đường Victoria, Douglas, IM2 4RW, Đảo Man, Anh, được cấp phép và quy định bởi (1) Ủy ban Giám sát Cá cược tại Đảo Man, Anh, giấy phép cá cược trực tuyến hiện ban hành ngày 31 Tháng Tám năm 2012, và (2) Ủy ban Cá cược Anh cấp cho khách hàng nước Anh- <a href='%1' target='_blank'>xem giấy phép</a>. Trang web này được giới thiệu trên thị trường EU còn lại bởi công ty TNHH Binary Investments (Châu Âu) , Tòa nhà Mompalao, Khu 2, Đường Tower, Msida MSD1825, Malta, được cấp phép và quy định bởi (1) Ủy ban quản lý Cá cược Malta ở Malta, Giấy phép số MGA / CL2 / 118/2000, 26 tháng 5 năm 2015 và (2) Ủy ban quản lý Cá cược UK cấp cho khách hàng của Anh - <a href='%2' target='_blank'>xem giấy phép</a>, và Các ủy viên Cục thuế Ai-len cấp cho khách hàng Ai-len, giấy phép hiện tại có hiệu lực được ban hành vào ngày 29 tháng 9 năm 2015 (giấy phép số 1010285). Các dịch vụ của trang web này không có tại Hoa Kỳ, Nhật Bản,  Costa Rica hay Hong Kong, và không cấp phép cho người dưới 18 tuổi."
 
@@ -6321,7 +6180,6 @@ msgstr "Để được xem xét cho vai trò lãnh đạo quan trọng này, b�
 msgid "To begin Binary option trading, you will first need to read all these documents carefully to understand the structure, risk and other important things. Please confirm that you have read and understood the documents listed below checking the box. If you have any questions, please contact our customer support."
 msgstr "To begin Binary option trading, you will first need to read all these documents carefully to understand the structure, risk and other important things. Please confirm that you have read and understood the documents listed below checking the box. If you have any questions, please contact our customer support."
 
-#. (request.url_for("contact"))
 msgid "To change your name, date of birth, country of residence, or email, please contact <a href=\"%1\">Customer Support</a>."
 msgstr "Để thay đổi tên, ngày sinh, nơi cư trú, hoặc email, vui lòng liên hệ với <a href=\"%1\">Bộ phận Hỗ trợ Khách hàng</a>."
 
@@ -6388,7 +6246,6 @@ msgstr "Giao dịch trên các thị trường tài chính trên thế giơ�
 msgid "Trade only with money you can afford to lose. Do not trade with borrowed money."
 msgstr "Chỉ nên giao dịch với số tiền bạn có. Đừng giao dịch với tiền đi mượn."
 
-#. (stash->{website_name})
 msgid "Trade with ease with %1's wide range of deposit and withdrawal methods. Your funds will be segregated and held in AAA-rated banks."
 msgstr "Giao dịch dễ dàng với hàng loạt các phương thức rút tiền và gửi tiền của %1. Tiền của bạn sẽ được tổng hợp và giữ tại các ngân hàng được xếp hạng AAA."
 
@@ -6416,19 +6273,15 @@ msgstr "Giới hạn Giao dịch và giới hạn Rút tiền"
 msgid "Trading binaries is remarkably easy, and requires only 3 simple steps:"
 msgstr "Giao dịch nhị phân rất dễ, và chỉ yêu cầu 3 bước đơn giản:"
 
-#. (request.url_for("responsible-trading"))
-#. (url_for('responsible-trading')
 msgid "Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset. In regards to binary options which are gambling products, remember that gambling can be addictive - please play responsibly. <span class=\"ja-hide\">Read about <a href=\"%1\" class=\"pjaxload\">Responsible Trading</a>.</span>"
 msgstr "Giao dịch quyền chọn nhị phân có thể không thích hợp cho tất cả mọi người, vì vậy vui lòng bảo đảo rằng bạn đã hiểu hoàn toàn về rủi ro có liên quan. Thất thoát của bạn có thể vượt quá số tiền gửi ban đầu và bạn sẽ không được sở hữu hay có bất kì tiền lãi nào trong tài sản cơ sở. Liên quan tới quyền chọn nhị phân, là sản phẩm cá cược, hãy nhớ rằng chơi cá cược có thể bị nghiện - vui lòng chơi một cách có trách nhiệm. <span class=\"ja-hide\">Đọc về <a href=\"%1\" class=\"pjaxload\">Giao dịch có Trách nhiệm</a>.</span>"
 
-#. (website)
 msgid "Trading in Binary Options is speculative and involves a high degree of risk that can result in the loss of your entire investment. Therefore, trading in Binary Options is appropriate only for persons that understand and are willing to assume the economic, legal and other risks involved in such transactions. You should be satisfied that Binary Options trading is suitable for you in light of your investment circumstances and attitude towards risk before trading. You should not engage in speculative Binary Options trading unless you understand the basic aspects of such trading and its risks. If you are in any doubt as to whether Binary Option trading is appropriate and suitable for you, please seek independent advice from a investment consulting professional. %1 does not provide such advice. It is your responsibility, taking into account your personal circumstances and investment resources, to take particular care and make careful considerations independently, both prior to applying to engage in Binary Options with %1, as well as prior to making any individual order. Where you do not understand the risks involved in applying for a trading account with %1 or in making any individual order, you should seek advice and consultation from an independent investment advisor. If you continue to not understand the risks involved in trading in Binary Options, you should not trade at all."
 msgstr "Giao dịch Quyền chọn Nhị phân là hoạt động đầu cơ và có rủi ro cao có thể gây ra thua lỗ cho toàn bộ vốn đầu tư của bạn. Vì vậy, giao dịch Quyền chọn Nhị phân chỉ thích hợp với người đã hiểu biết đầy đủ và sẵn sàng chấp nhận rủi ro kinh tế, pháp lý và những rủi ro khác có liên quan tới những giao dịch này. Bạn nên biết rằng giao dịch Quyền chọn Nhị phân thích hợp với bạn trong điều kiện bạn sẵn sàng về vốn đầu tư và thái độ đối với những rủi ro xảy ra trước khi giao dịch. Bạn không nên thực hiện các giao dịch Quyền chọn Nhị phân trừ khi bạn hiểu những thành phần cơ bản của những giao dịch này và các rủi ro của nó. Nếu bạn còn nghi ngờ về giao dịch Quyền chọn Nhị phân có thích hợp với bạn hay không, vui lòng tìm nguồn tư vấn độc lập với các đội ngũ chuyên gia tư vấn đầu tư. %1 không cung cấp cho bạn những tư vấn này. Đó là trách nhiệm của bạn, đặt các điều kiện cá nhân và nguồn lực đầu tư vào tài khoản của bạn, đặt mối quan tâm thực sự và cân nhắc cẩn thận một cách độc lập, vừa ưu tiên cho việc tham gia vào Quyền chọn Nhị phân thông qua %1, cùng với ưu tiên đặt lệnh cá nhân. Bạn còn chưa hiểu rủi ro có liên quan trong việc tham gia mở tài khoản giao dịch với %1 hoặc trong việc đặt lệnh cá nhân ở chỗ nào, bạn nên tìm kiếm tư vấn và lời khuyên từ nhà tư vấn đầu tư độc lập. Nếu bạn vẫn tiếp tục không hiểu về những rủi ro có liên quan tới giao dịch Quyền chọn Nhị phân, thì bạn không nên giao dịch."
 
 msgid "Trading manual"
 msgstr "Trading manual"
 
-#. (request.url_for("contact"))
 msgid "Trading the financial markets can become addictive. Fill in the form below to limit your participation on the website or send a signed letter or fax to our customer support team. Once set, you can only tighten your limits. Limits will only be removed or loosened after 7 days with the exception of the self-exclusion date, which cannot be removed or altered once you have confirmed it. To remove or increase your limits, please contact <a href=\"%1\">customer support</a>."
 msgstr "Giao dịch trên thị trường tài chính có thể bị nghiện. Điền thông tin vào mẫu dưới đây để giới hạn mức chơi trên trang web hoặc gửi thư đã được kí hoặc fax cho nhóm hỗ trợ khách hàng của chúng tôi. Khi được thiết lập, bạn có thể thắt chặt giới hạn của mình. Giới hạn này sẽ chỉ bị loại bỏ hoặc nới lỏng sau 7 ngày ngày tự loại trừ, không thể bị loại bỏ hoặc thay thế từ khi bạn đã xác nhận chúng. Để loại bỏ hoặc tăng giới hạn của bạn, vui lòng liên hệ với <a href=\"%1\">đội ngũ chăm sóc khách hàng</a>."
 
@@ -6525,7 +6378,6 @@ msgstr "Trong bất cứ trường hợp nào, kể cả khi Công ty chúng tô
 msgid "Under the Rules, clients may be categorised into one of the following three categories:"
 msgstr "Theo Quy tắc, khách hàng có thể được phân loại theo một trong ba loại sau:"
 
-#. (stash->{website_name})
 msgid "Under the supervision of %1’s Translation Project Manager, you will:"
 msgstr "Dưới sự giám sát của Trưởng dự án biên dịch của %1, bạn sẽ:"
 
@@ -6718,7 +6570,6 @@ msgstr "Chúng tôi mong muốn thiết lập, duy trì và thực hiện nhữn
 msgid "We aim to keep a record of the kinds of activity we carry on in which a material conflict could arise or has arisen. We also maintain procedures to manage actual or potential conflicts. This includes procedures to maintain appropriate independence between members of our staff who are involved in potentially conflicting activities, for example, through the operation of information barriers, physical separation of staff, the segregation of duties and responsibilities and maintenance of a policy of independence which requires our staff, when providing services to a client, to act in the best interests of the client and to disregard any conflicts of interest; and, in some circumstances declining to act for a client or potential client."
 msgstr "Chúng tôi muốn giữ các bản ghi những hoạt động chúng tôi đã thực hiện mà xung đột có thể phát sinh hoặc đã phát sinh. Chúng tôi cũng muốn duy trì các quy trình để quản lý các xung đột đã phát sinh hoặc tiềm ẩn. Điều này cũng bao gồm cả quy trình duy trì tính độc lập thích hợp giữa các nhân viên của chúng tôi người mà có liên quan tới các hoạt động xung động tiền ẩn, ví dụ, thông qua hoạt động rào cản thông tin, tách biệt nhân viên, phân công trách nhiệm và bổn phận, yêu cầu nhân viên duy trì chính sách độc lập, khi cung cấp dịch vụ cho khách hàng, để hành động vì lợi ích tốt nhất của khách hàng và để bỏ qua các xung đột về lợi ích; và trong một vài trường hợp từ chối phục vụ cho khách hàng hoặc khách hàng tiềm năng."
 
-#. (affiliate_email)
 msgid "We also offer specialized pay-out structures to affiliates who offer a trading advice in connection with, and in relation to our commodities. <a href=\"mailto:%1\">Contact our affiliate manager, Karen Yap for details</a>."
 msgstr "Chúng tôi cũng cung cấp cấu trúc trả lãi đặc biệt cho những chi nhánh cung cấp tư vấn giao dịch có liên quan tới hàng hóa của chúng tôi. <a href=\"mailto:%1\">Liên hệ với nhà quản lý liên kết của chúng tôi, Karen Yap để biết thêm chi tiết</a>."
 
@@ -6746,11 +6597,9 @@ msgstr "Chúng tôi không thể dò giá trực tiếp tại thời điểm n�
 msgid "We are not accepting accounts from residents of this country at the present time."
 msgstr "Hiện tại, chúng tôi không nhận tài khoản của người dân tại quốc gia này."
 
-#. ("http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx")
 msgid "We are required by our licence to inform you about what happens to funds which we hold on account for you, and the extent to which funds are protected in the event of insolvency <a href='%1' target='_blank'>%1</a>."
 msgstr "Chúng tôi bắt buộc phải thông báo cho bạn về những điều xảy ra vơi số tiền chúng tôi giữ trong tài khoản của bạn, và mức độ tiền được bảo toàn trong trường hợp bị phá sản <a href='%1' target='_blank'>%1</a>."
 
-#. ("http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx")
 msgid "We are required by our license to inform you about what happens to funds which we hold on account for you, and the extent to which funds are protected in the event of insolvency <a href='%1' target='_blank'>%1</a>."
 msgstr "Chúng tôi bắt buộc phải thông báo cho bạn về những điều xảy ra vơi số tiền chúng tôi giữ trong tài khoản của bạn, và mức độ tiền được bảo toàn trong trường hợp bị phá sản <a href='%1' target='_blank'>%1</a>."
 
@@ -6772,7 +6621,6 @@ msgstr "Nhiệm vụ chung của chúng tôi là hoạt động kinh doanh trun
 msgid "We have a proven track record since starting in 2000."
 msgstr "Chúng tôi có một bản theo dõi đã được chứng nhận từ năm 2000."
 
-#. (affiliate_email)
 msgid "We have a tested and proven selection of banners, links, reviews, newsletters, videos, and text ads for your use. Additionally, we have flash banners which you can grab through your affiliate account. If you would like customized tools, or an item currently not offered on the site, please contact your account manager at: <a href=\"mailto:%1\">%1</a>."
 msgstr "Chúng tôi có một bộ sưu tập đã được thử nghiệm và chứng minh về các biểu ngữ, liên kết, đánh giá, bản tin, video, và các quảng cáo văn bản để cho bạn sử dụng. Ngoài ra, chúng tôi có các biểu ngữ flash mà bạn có thể lấy thông từ tài khoản liên kết của mình. Nếu bạn muốn công cụ tùy chỉnh, hoặc một công cụ hiện đang không được cung cấp trên trang web, xin vui lòng liên hệ với người quản lý tài khoản của bạn tại: <a href=\"mailto:%1\">%1</a>."
 
@@ -6797,7 +6645,6 @@ msgstr "Chúng tôi nghiêm cấm việc sử dụng các biện pháp khuyến 
 msgid "We provide here a summary of the policy we maintain in order to manage conflicts of interest in respect of the duties we owe to our clients."
 msgstr "Ở đây chúng tôi cung cấp bản tóm tắt chính sách mà chúng tôi duy trì để quản lý các xung đột lợi ích theo bổn phận mà chúng tôi phải làm cho khách hàng."
 
-#. (url_for("/")
 msgid "We rebrand BetOnMarkets.com as <a target=\"_blank\" href=\"%1\">www.binary.com</a>. The rebranding is a natural evolution for the platform as it continues to grow market share in the highly competitive field of binary trading. The new brand reflects the nature of the business, and our new tagline – Sharp Prices, Smart Trading – communicates our ethos and commitment to our clients."
 msgstr "Chúng tôi đặt lại tên BetOnMarkets.com thành <a target=\"_blank\" href=\"%1\">www.binary.com</a>. Việc đạt lại tên này phục vụ cho phát triển sàn giao dịch để tiếp tục phát triển thị phần trong lĩnh vực giao dịch nhị phân cạnh tranh. Tên mới này phản ánh đặc điểm của công việc kinh doanh, và khẩu hiệu mới của chúng tôi là- Giá Cạnh Tranh-Giao dịch Thông minh- kết nối với chúng tôi và chúng tôi sẽ cam kết với khách hàng."
 
@@ -6870,7 +6717,6 @@ msgstr "Mã chứng khoán và cổ phiếu phi tập trung là gì?"
 msgid "What commission plan do you offer?"
 msgstr "Bạn dự định đề nghị mức hoa hồng như thế nào?"
 
-#. (broker_name)
 msgid "What is the %1 affiliate program?"
 msgstr "Chương trình liên kết %1 là gì?"
 
@@ -6886,7 +6732,6 @@ msgstr "Tôi có thể tạo những báo cáo nào khác?"
 msgid "What our clients are saying"
 msgstr "Khách hàng của chúng tôi đang nói gì"
 
-#. (stash->{website_name})
 msgid "Whatever your market view or strategy, %1 provides you with the right trade to profit from your prediction. Choose from five ways to trade:"
 msgstr "Dù quan điểm thị trường hay chiến lược của bạn là gì, %1 cung cấp cho bạn quyền giao dịch để kiếm lợi từ dự đoán của bạn. Chọn từ năm cách sau đây để giao dịch:"
 
@@ -6917,7 +6762,6 @@ msgstr "Khi được chấp thuận là một chi nhánh, bạn sẽ được
 msgid "When you start trading with Binary.com, you’ll be directed to the trading screen, where you set your trading parameters, and choose what you want to trade, how and when."
 msgstr "Khi bạn bắt đầu giao dịch bằng Binary.com, bạn sẽ được chuyển tới màn hình giao dịch, nơi mà bạn sẽ thiết lập các thông số giao dịch, và chọn cái mà bạn muốn giao dịch, cách và khi nào muốn giao dịch."
 
-#. (stash->{website_name})
 msgid "When you trade with %1, you can be assured that your deposits are held in a separate trust account and are not used for any other purpose."
 msgstr "Khi bạn giao dịch với %1, bạn được bảo đảm rằng tiền gửi của bạn được cất giữ trong một tài khoản tin cậy riêng biệt và không được sử dụng cho bất kì mục đích nào."
 
@@ -6969,7 +6813,6 @@ msgstr "Bất kể ở Malta hay Malaysia, bạn sẽ được tận hươ�
 msgid "Who can apply to be a Payment Agent?"
 msgstr "Ai có thể nộp đơn để trở thành Đại lý Thanh toán?"
 
-#. (broker_name)
 msgid "Who can be a client on the %1 platform?"
 msgstr "Ai có thể là khách hàng trên sàn giao dịch %1?"
 
@@ -6994,7 +6837,6 @@ msgstr "Tại sao lại chọn chúng tôi"
 msgid "Why do Clients choose to use Payment Agents?"
 msgstr "Tại sao khách hàng lại chọn sử dụng Đại lý Thanh toán?"
 
-#. (stash->{website_name})
 msgid "Why limit yourself? Whatever your market view, %1 allows you to put your strategy to work and profit from your predictions."
 msgstr "Tại sao lại tự giới hạn chính bạn? bất kể quan điểm thị trường của bạn là gì, %1 cho phép bạn làm việc theo chiến lược của mình và thu lợi nhuận từ dự đoán của mình."
 
@@ -7004,7 +6846,6 @@ msgstr "Tại sao phải trả thêm?"
 msgid "Why should I become a binary options trading affiliate?"
 msgstr "Tại sao tôi nên trở thành một chi nhánh giao dịch quyền chọn nhị phân?"
 
-#. (broker_name)
 msgid "Why should I become an affiliate with %1?"
 msgstr "Tại sao tôi nên trở thành một liên kết với %1?"
 
@@ -7029,27 +6870,21 @@ msgstr "Thắng thầu hợp đồng"
 msgid "Winnings may only be paid to the initiator of an account. When a Client maintains an account by means of telegraphic deposits, winnings are only paid to the holder of the originating bank account, and it is the onus of the Client to ensure that account number and name accompany all transfers to the Company. When a Client maintains an account by means of credit/debit card deposits, winnings are only paid back to the same card."
 msgstr "Tiền thắng cược chỉ có thể được trả cho người mở tài khoản. Khi khách hàng duy trì một tài khoản bằng tiền gửi điện tín, tiền thắng cược chỉ được trả lại cho người giữ tài khoản ngân hàng gốc, và nó là trách nhiệm của Khách hàng để đảm bảo rằng số tài khoản và tên đi cùng đều được gửi cho Công ty. Khi khách hàng duy trì một tài khoản tiền gửi bằng phương tiện thẻ tín dụng / thẻ ghi nợ, tiền thắng cược chỉ được trả trên cùng một thẻ."
 
-#. (stash->{website_name})
 msgid "With %1 you can trade:"
 msgstr "Với %1 bạn có thể giao dịch:"
 
-#. (stash->{website_name})
 msgid "With %1 you’re in control of how much you can win. You specify a fixed payout amount at the outset, and your stake – what you pay – is then calculated. Binary.com offers payouts from $1 to $50,000."
 msgstr "Với %1 bạn sẽ kiểm soát được số tiền bạn chiến thắng. Bạn đã vạch ra một số thưởng cố định ngay từ đầu, và tiền vốn của bạn - những gì bạn phải trả - đều tính toán được. Binary.com cung cấp số tiền thưởng từ $1 đến $50,000."
 
-#. (stash->{website_name})
 msgid "With %1's unique platform, there's no risk of 'slippage' or gapping markets. And no hidden fees."
 msgstr "Với sàn giao dịch độc đáo của %1, sẽ không có nguy cơ \"trượt\" hoặc lỗ hổng thị trường. Và sẽ không có phí ẩn."
 
-#. (stash->{website_name})
 msgid "With %1, the most you can lose is the amount you stake at the start of your trade."
 msgstr "Với %1, số tiền bạn bị thua lỗ nhiều nhất là số vốn bạn bỏ ra khi bắt đầu giao dịch."
 
-#. (stash->{website_name})
 msgid "With %1, you're in control. Simply fix your upside and your downside before every trade."
 msgstr "Với %1, bạn sẽ được kiểm soát. Hãy đặt ra ngưỡng trần và ngưỡng sàn nhất định trước mỗi giao dịch."
 
-#. (stash->{website_name})
 msgid "With %1, your money is secure."
 msgstr "Với %1, tiền của bạn được an toàn."
 
@@ -7059,13 +6894,9 @@ msgstr "Liên quan đến việc theo dõi những người mà bạn giới thi
 msgid "Withdraw"
 msgstr "Rút tiền"
 
-#. (1)
 msgid "Withdraw: %1 working day"
 msgstr "Rút tiền:%1 ngày làm việc"
 
-#. (5)
-#. (2)
-#. (3)
 msgid "Withdraw: %1 working days"
 msgstr "Rút tiền: %1 ngày làm việc"
 
@@ -7108,7 +6939,6 @@ msgstr "Giới hạn được viết và tự rút lui"
 msgid "Year"
 msgstr "Năm"
 
-#. (affiliate_email)
 msgid "Yes. Please email us at <a href=\"mailto:%1\">%1</a> for further assistance."
 msgstr "Có. Xin vui lòng gửi email cho chúng tôi tới địa chỉ <a href=\"mailto:%1\">%1</a> để được giúp đỡ."
 
@@ -7139,7 +6969,6 @@ msgstr "Bạn và Công ty là những bên độc lập, và không có điều
 msgid "You and your Application must also comply with the following, which are hereby incorporated by reference:"
 msgstr "Bạn và đơn đăng ký của bạn cũng phải tuân thủ những điều sau, nhờ đó, chúng sẽ được thống nhất bởi phần tham khảo:"
 
-#. (website)
 msgid "You are advised that the Binary Options offered by %1 are not traded under the rules of any recognised, designated or regulated exchange. Consequently, engaging in Binary Options trading may expose you to substantially greater risks than investments which are so traded."
 msgstr "Bạn nên biết rằng các Quyền chọn Nhị phân được cung cấp bởi %1 không được giao dịch theo bất kỳ quy định nào được công nhận, chỉ định hoặc điều chỉnh. Do đó, tham gia vào giao dịch Quyền chọn Nhị phân có thể làm cho bạn gặp rủi ro nhiều hơn so với các khoản đầu tư đã được giao dịch."
 
@@ -7164,14 +6993,12 @@ msgstr "Bạn không được quyền rút tiền qua đại lý thanh toán."
 msgid "You are not entitled to any compensation or reimbursement of any kind from the Company under any circumstances."
 msgstr "Bạn không có quyền nhận bất kỳ khoản bồi thường hay đền bù đối với bất kỳ tài sản nào của Công ty chúng tôi với mọi trường hợp."
 
-#. (website)
 msgid "You are responsible for managing your tax and legal affairs including making any regulatory filings and payments and complying with applicable laws and regulations. We do not provide any regulatory, tax or legal advice. If you are in any doubt as to the tax treatment or liabilities of Investment Products or Gambling Products available through %1, you may wish to seek independent advice."
 msgstr "Bạn có trách nhiệm quản lý thuế và các vấn đề liên quan đến pháp luật bao gồm việc thực hiện các hồ sơ và thanh toán theo quy định của pháp luật và quy định hiện hành. Chúng tôi không cung cấp bất kì tư vấn nào về thuế và luật pháp cũng như quy tắc quy định. Nếu bạn còn nghi ngờ về việc xử lý thuế và nợ phải trả của Sản phẩm Đầu tư hoặc Sản phẩm Cá cược thông qua %1, bạn có thể tìm kiếm tư vấn độc lập."
 
 msgid "You are warned of the following additional risks:"
 msgstr "Bạn đã được cảnh báo về rủi ro bổ sung sau đây:"
 
-#. (url_for('/')
 msgid "You can <a class=\"pjaxload\" href=\"%1\">open an account</a>, deposit funds and begin trading within minutes."
 msgstr "Ban có thể <a class=\"pjaxload\" href=\"%1\">mở một tài khoản</a>, gửi tiền và bắt đầu giao dịch trong vòng vài phút."
 
@@ -7190,7 +7017,6 @@ msgstr "Bạn có thể thiết lập độ dài của giao dịch, từ 10 giâ
 msgid "You can trade a range of markets, timescales and indices – 24/7."
 msgstr "Bạn có thể giao một loạt các thị trường, thang thời gian và các chỉ số - 24/7."
 
-#. (website)
 msgid "You can use an authorized payment agent to process deposits and withdrawals for payment methods or local currencies not supported by %1. It's easy to do."
 msgstr "Bạn có thể sử dụng một đại lý thanh toán uỷ quyền để xử lý các khoản tiền gửi và rút tiền để làm phương thức thanh toán, hoặc đồng tiền địa phương không được hỗ trợ bởi %1. Rất dễ dàng để làm."
 
@@ -7274,7 +7100,6 @@ msgstr "Bạn phải tuân thủ những Điều khoản này để có thể s�
 msgid "You must not be a USA resident, citizen, or have any tax reporting to the USA"
 msgstr "You must not be a USA resident, citizen, or have any tax reporting to the USA"
 
-#. ("<a href=\"https://hackerone.com/binary\" target=\"_blank\">Hackerone</a>", "<a href=\"https://binary.vanillacommunity.com\" target=\"_blank\">Vanilla Community</a>")
 msgid "You must promptly report any security deficiencies in, or intrusions to, your Application that you discover to Binary.com by writing in to %1 or by raising a discussion  thread on %2 which is part of our Developer Site. You will work with Binary.com to immediately correct any security deficiency, and will immediately disconnect any intrusions or intruder. In the event of any security deficiency or intrusion involving the Application, APIs or Content, you will make no public statements (e.g. press, blogs, social media, bulletin boards, etc.) without prior written and express permission from Binary.com in each instance."
 msgstr ""
 "Bạn phải nhanh chóng báo cáo nếu có bất kỳ sự lỏng lẻo về bảo mật, hay sự xâm nhập nào, vào Ứng dụng của bạn mà bạn phát hiện ra tại Binary.com bằng việc viết lên %1 hoặc mở một cuộc thảo luận trên %2 tại một góc trong Mục Phát triển. Bạn sẽ làm việc với Binary.com để ngay lập tức giải quyết bất kỳ sự lỏng lẻo về bảo mật này, và sẽ ngay lập tức ngắt kết nối với bất kỳ sự xâm nhập hoặc kẻ xâm nhập nào.\n"
@@ -7325,21 +7150,18 @@ msgstr "Bạn không được khuyến khích khách hàng nộp tiền đặt c
 msgid "You shall not encourage your referrals to take out any form of loans to be able to make deposits and/or place trades."
 msgstr "Bạn không nên khuyến khích người mà bạn giới thiệu nhận bất kỳ hình thức cho vay nào để có tiền đặt cọc và / hoặc thực hiện giao dịch."
 
-#. (website)
 msgid "You shall not hold or pool your referrals’ funds or third party funds into your own account held with %1."
 msgstr "Bạn sẽ không được nắm giữa hoặc chuyển tiền của người bạn giới thiệu hoặc tiền của bên thứ ba sang tài khoản của mình được mở với %1."
 
 msgid "You shall not place trades on your referrals’ behalf."
 msgstr "Bạn không nên thực hiện giao dịch trên danh nghĩa người mà bạn giới thiệu."
 
-#. (website)
 msgid "You shall not purchase or register keywords, search terms or other identifiers for use in any search engine, portal, sponsored advertising service or other search or referral service which are identical or similar to any of the Company's trademarks or trade names that include the word \"%1\" or any variation thereof."
 msgstr "Bạn không thể mua hoặc đăng ký từ khóa, tìm kiếm các thuật ngữ sử dụng các công cụ tìm kiếm, cổng thông tin, dịch vụ quảng cáo được tài trợ hoặc dịch vụ giới thiệu mà giống hệt hoặc tương tự với nhãn hiệu của Công ty hoặc tên thương mại chứa từ \"%1\" hoặc bất kỳ biến thể nào từ nó."
 
 msgid "You shall not resort to high-pressure sales tactics or false promises."
 msgstr "Bạn không nên sử dụng những chiến thuật bán hàng gây áp lực hoặc những lời hứa không đúng sự thật."
 
-#. (website)
 msgid "You shall not target any of your marketing, advertising, and promotional activities to any persons under the age of 18 years old."
 msgstr "Bạn không nên nhắm mục tiêu của những hoạt động tiếp thị, quảng cáo và khuyến mại tới những ngươif dưới 18 tuổi."
 
@@ -7373,7 +7195,6 @@ msgstr "Bạn sẽ nhận được tiền thưởng nếu giá thị trư�
 msgid "You won't lose your shirt"
 msgstr "Bạn sẽ không bị mất toàn bộ tài sản"
 
-#. ($faq_url)
 msgid "You'll find answers to most of your questions on the <a href='%1' target='_blank'>FAQ</a> page."
 msgstr "Bạn sẽ tìm thấy những câu trả lời cho phần lớn các câu hỏi của bạn nhất trên trang <a href='%1' target='_blank'>Câu hỏi Thường Gặp</a>."
 
@@ -7392,7 +7213,6 @@ msgstr "Hạn mức rút tiền ngày %1 của bạn hiện là %2 %3 (hoặc t�
 msgid "Your Client will receive an email notification informing him/her that the transfer has been processed."
 msgstr "Khách hàng của bạn sẽ nhận được một email thông báo rằng việc chuyển tiền đã được xử lý."
 
-#. (broker_name)
 msgid "Your ID will be stored in a cookie and identified every time a prospect clicks on your affiliate link and lands on %1 and in that event, opens an account with us."
 msgstr "ID của bạn sẽ được lưu giữ trong cookie và được nhận diện mọi lúc khi bạn nhấp chuột vào đường dẫn liên kết của mình và truy cập vào %1 và lúc đó, mở một tài khoản với chúng tôi."
 
@@ -7423,7 +7243,6 @@ msgstr "Tài khoản của bạn không nên được sử dụng như một th
 msgid "Your account transfer is successful. Your new balances are:"
 msgstr "Chuyển khoản thành công. Số dư mới của bạn là:"
 
-#. (url_for('/cashier/payment_agent_listws')
 msgid "Your application will then be reviewed by our compliance and marketing departments. Once approved, we will put you live in our <a href='%1'>payment agent</a> list."
 msgstr "Hồ sơ đăng kí của bạn sẽ được xem xét bởi phòng thủ tục và marketing. Khi đã được duyệt, chúng tôi sẽ xếp bạn vào danh sách <a href='%1'>đại lý thanh toán</a> của chúng tôi."
 
@@ -7442,7 +7261,6 @@ msgstr "Khoản quỹ của bạn đã hết hạn"
 msgid "Your changes have been updated."
 msgstr "Những thay đổi của bạn đã được cập nhật."
 
-#. (broker_name)
 msgid "Your clients will love the %1 trading platform because we offer a complete trading experience tailored to the needs of an exceptionally wide range of traders."
 msgstr "Khách hàng của bạn sẽ yêu thích sàn giao dịch %1 bởi vì chúng tôi cung cấp những kinh nghiệm giao dịch hoàn thiện phù hợp với nhu cầu của rất nhiều nhà giao dịch."
 
@@ -7455,14 +7273,12 @@ msgstr "Thông tin chi tiết của bạn đã được cập nhật."
 msgid "Your funds are safe"
 msgstr "Tiền của bạn đang được an toàn"
 
-#. (stash->{website_name})
 msgid "Your money is always safe with %1. At all times, it is held in segregated AAA-rated banks, which is a condition of our trading licenses."
 msgstr "Tiền của bạn luôn được an toàn với %1. Nó luôn được giữ ở tại những ngân hàng được xếp hạng AAA, đó là điều kiện trong giấy phép kinh doanh của chúng tôi."
 
 msgid "Your name, email address and contact number"
 msgstr "Tên, địa chỉ email và số điện thoại liên lạc của bạn"
 
-#. (website)
 msgid "Your password and login ID are unique and passwords are hashed so that not even %1 staff can read them. This is the reason why we cannot retrieve your password and have to issue you with a new one to your email address if you cannot recall it."
 msgstr "Mật khẩu và ID đăng nhập của bạn là duy nhất và mật khẩu được chia nhỏ để ngay cả nhân viên %1 cũng không thể đọc chúng. Đây là lý do tại sao chúng tôi không thể lấy lại mật khẩu của bạn và phải cấp cho bạn một cái mới tới địa chỉ email của bạn nếu bạn không thể nhớ nó."
 
@@ -7670,7 +7486,6 @@ msgstr "giấy phép bổ sung cho các quyền được cấp theo Điều kho�
 msgid "terms and conditions"
 msgstr "điều khoản và điều kiện"
 
-#. (broker_name)
 msgid "the %1 affiliate program is competitive and adaptive to your unique requirements."
 msgstr "Chương trình liên kết %1 có tính cạnh tranh và thích ứng với các yêu cầu riêng của bạn."
 
@@ -8211,7 +8026,6 @@ msgstr "{JAPAN ONLY}When buying a vanilla put option, the break-even price at th
 msgid "{JAPAN ONLY}Where broking companies show bid and offer prices for purchasing and sell-back of positions, these prices may become further apart the nearer you are to the exercise time."
 msgstr "{JAPAN ONLY}Where broking companies show bid and offer prices for purchasing and sell-back of positions, these prices may become further apart the nearer you are to the exercise time."
 
-#. (request.url_for("/", { 'l' => 'JA'  }))
 msgid "{JAPAN ONLY}You can apply to open an account online. Simply click <a class=\"pjaxload\" href=\"%1\">here</a> to begin the process by opening a demo account.  Once you are familiar with our site and comfortable in your knowledge of binary options we invite you to upgrade to a Real Money Account."
 msgstr "{JAPAN ONLY}You can apply to open an account online. Simply click <a class=\"pjaxload\" href=\"%1\">here</a> to begin the process by opening a demo account.  Once you are familiar with our site and comfortable in your knowledge of binary options we invite you to upgrade to a Real Money Account."
 

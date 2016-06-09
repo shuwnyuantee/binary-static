@@ -40,219 +40,167 @@ msgstr "$25.000 - $100.000"
 msgid "$250,000 - $1,000,000"
 msgstr "$250.000 - $1.000.000"
 
-#. (website, "<a href=\"https://developers.binary.com\" target=\"_blank\"> Application Program Interface</a>")
 msgid "%1 %2 (\"API\") Terms and Conditions"
 msgstr "Termos e Condições"
 
 msgid "%1 %2 has been credited to your Virtual money account %3"
 msgstr "%1 %2 foram creditados na sua conta de dinheiro Virtual %3"
 
-#. (website)
 msgid "%1 Affiliate Program Terms and Conditions"
 msgstr "Termos e condições do programa de afiliados %1"
 
 msgid "%1 Please click the link below to restart the password recovery process. If you require further assistance, please contact our Customer Support."
 msgstr "%1 Clique no link abaixo para reiniciar o processo de recuperação de senha. Caso você necessite de assistência adicional, contate o Apoio ao Cliente."
 
-#. (stash->{website_name})
 msgid "%1 affiliate partners who wish to support a big group of Clients"
 msgstr "Parceiros afiliados da %1 que desejam apoiar grandes grupos de clientes"
 
-#. ('<a target="_blank" href="http://www.gambleaware.co.uk/">GambleAware</a>')
 msgid "%1 also provides links to an online quiz to assess a potential gambling problem and an online gambling calculator to see how much you can really spend."
 msgstr "%1 também oferece links de acesso a um questionário online, para avaliar um problema de jogo potencial, e uma calculadora de apostas online, para ver o quanto você pode realmente gastar."
 
-#. (website)
 msgid "%1 and the bull/bear logo are registered trademarks."
 msgstr "%1 e o logotipo do touro e urso são marcas comerciais registradas."
 
-#. (request.website.display_name)
 msgid "%1 does not charge any transfer fees."
 msgstr "A %1 não cobra taxas de transferência."
 
-#. (broker_name)
-#. (stash('website_name')
 msgid "%1 gives everyone an easy and exciting way to participate in the financial markets. Trade with as little as $1 USD on major currencies, indices and commodities."
 msgstr "A %1 oferece a todos uma forma fácil e estimulante de participar nos mercados financeiros. Negocie com apenas $1 nas principais moedas mundiais, índices e matérias-primas."
 
-#. (stash->{website_name})
 msgid "%1 has created Volatility Indices that you can trade 24/7. You can trade these on all types of contract:"
 msgstr "A %1 desenvolveu os índices Volatility, que podem ser negociados 24/7. É possível negociar estes índices com todos os tipos de contratos:"
 
-#. (stash->{website_name})
 msgid "%1 has earned an enviable reputation for our commitment to high ethical standards and the quality of the trading experience we provide."
 msgstr "A %1 tem ganhado uma reputação invejável devido ao nosso compromisso com elevados padrões éticos e à qualidade da experiência de negociação que nós fornecemos."
 
-#. (stash->{website_name})
 msgid "%1 has several exceptional career opportunities for Customer Service Professionals."
 msgstr "A %1 tem várias oportunidades de careira excepcionais para profissionais de apoio ao cliente."
 
-#. (stash->{website_name})
 msgid "%1 has thousands of clients taking a variety of positions on the financial markets at any one time, and earns a small margin on these trades."
 msgstr "A %1 tem milhares de clientes posicionando-se de forma variável nos mercados financeiros em qualquer dado momento, e ganha uma pequena margem nessas transações."
 
 msgid "%1 has updated its %2. By clicking OK, you confirm that you have read and accepted the updated %2."
 msgstr "A %1 atualizou os seus %2. Ao clicar em OK, você confirma que leu e aceita os %2 atualizados."
 
-#. (landing_company, tnc_page_url)
 msgid "%1 has updated its <a class=\"pjaxload\" href=\"%2\">Terms & Conditions</a>. By clicking OK, you confirm that you have read and accepted the updated <a class=\"pjaxload\" href=\"%2\">Terms & Conditions</a>."
 msgstr "A %1 atualizou seus <a class=\"pjaxload\" href=\"%2\">Termos e Condições</a>. Ao clicar em OK, você confirma que leu e aceitou os <a class=\"pjaxload\" href=\"%2\">Termos e Condições</a> atualizados."
 
-#. (stash->{website_name})
 msgid "%1 is always looking to add experienced professionals to its talented team of administrators, technical contributors, and managers. To support our continued growth, we’ve developed a number of exciting career opportunities in the following areas:"
 msgstr "A %1 visa sempre adicionar profissionais experientes à sua talentosa equipe de administradores, colaboradores técnicos e gestores. Para apoiar o nosso crescimento contínuo, nós desenvolvemos um grande número de estimulantes oportunidades de carreira nas seguintes áreas:"
 
-#. (request.website.display_name, "//developers.binary.com")
 msgid "%1 is an active proponent of the open-source movement. Suggest enhancements, and take part in the development of our powerful applications. You can find more information on our <a href=\"%2\" target=\"_blank\">Developers Portal</a>."
 msgstr "%1 é um defensor ativo do movimento de código aberto. Sugira melhorias e participe no desenvolvimento dos nossos aplicativos poderosos. Mais informações podem ser encontradas no nosso <a href=\"%2\" target=\"_blank\">Portal de Desenvolvedores</a>."
 
-#. (stash->{website_name})
 msgid "%1 is entirely web-based and requires no software installation."
 msgstr "A %1 é totalmente baseada na Internet e não requer instalação de software."
 
-#. (stash->{website_name})
 msgid "%1 is looking to recruit highly skilled, experienced designers who are passionate about developing attractive visuals for both online and offline applications."
 msgstr "A %1 procura recrutar designers experientes e altamente qualificados que são apaixonados pelo desenvolvimento de elementos visuais, tanto para aplicativos online como offline."
 
-#. (stash->{website_name})
 msgid "%1 is one of the oldest and most respected names in online binary trading."
 msgstr "A %1 é um dos nomes mais antigos e mais respeitados na negociação online de opções binárias."
 
-#. (stash->{website_name}, url_for('/group-history')
 msgid "%1 is owned and operated by the Binary Ltd. group of companies. For more information, <a href=\"%2\">visit our history page</a>."
 msgstr "A %1 é controlada e operada pelo grupo de empresas Binary Ltd. Para mais informações, <a href=\"%2\">visite a página da nossa história</a>."
 
-#. (stash->{website_name})
 msgid "%1 is seeking a junior to mid-career professional with exceptional administrative and organization skills to join its General Affairs Team."
 msgstr "A %1 procura um colaborador júnior ou profissional no meio da carreira, com capacidades administrativas e organizacionais excepcionais, para se juntar à nossa equipe de assuntos gerais."
 
-#. (stash->{website_name})
 msgid "%1 is seeking a qualified proofreader with a flair for language and a meticulous eye for detail. You must be able to interact with our staff using a web-based translator interface. You’ll work with colleagues in IT, Customer Support and Marketing to provide localised text and translation services."
 msgstr "A %1 procura um revisor de traduções qualificado com um talento para línguas e uma atenção extraordinária para o detalhe. O candidato terá que interagir com o nosso pessoal através de uma interface de tradução com base na web. Irá trabalhar em colaboração com colegas dos departamentos de TI, Apoio ao Cliente e Marketing para fornecer textos localizados e serviços de tradução."
 
-#. (stash->{website_name})
 msgid "%1 is seeking qualified translation professionals familiar with specific target markets, languages, and cultures. By delivering high-quality translation to support our customers in a particular language, you will serve as the company’s voice to clients in certain key areas of the world. You’ll work with colleagues in IT, Customer Support, and Marketing to provide localised text and translation services through a web-based tool. This position will report to our Translation Project Manager."
 msgstr "A %1 procura profissionais de tradução qualificados e familiarizados com mercados de destino específicos, idiomas e culturas. Ao fornecer serviços de tradução e apoio ao cliente de alta qualidade numa determinada língua, o candidato será a voz da empresa para os nosso clientes em áreas principais do mundo.  O candidato trabalhará em colaboração com colegas nos departamentos de TI, Apoio ao Cliente e Marketing para fornecer textos localizados e serviços de tradução através de uma ferramenta com base na web. Esta função é orientada pela nossa gerente de projetos de tradução."
 
-#. (stash->{website_name})
 msgid "%1 is seeking several highly skilled Marketing Executives, eager to contribute their energy, passion, and specialised strengths in connecting with prospects and clients based throughout the globe."
 msgstr "A %1 procura recrutar vários executivos de Marketing altamente qualificados, com vontade de contribuir com a sua energia, paixão e capacidades especializadas no contato com potenciais parceiros e clientes em todo o mundo."
 
-#. (stash->{website_name})
 msgid "%1 is tailored to traders of all levels."
 msgstr "A %1 é adaptada para negociadores de todos os níveis."
 
-#. (stash->{website_name})
 msgid "%1 is the award-winning industry pioneer in online options trading. We boast:"
 msgstr "A %1 é a premiada plataforma de negociações online, pioneira desta indústria. Nós nos orgulhamos:"
 
-#. (website)
 msgid "%1 makes efforts that the quoted prices of each underlying asset that a Binary Option refers to will be reasonably related to the actual prices of such asset available in the market. %1 makes no warranty, expressed or implied, that the quoted prices represent prevailing market prices."
 msgstr "A %1 esforça-se para que os preços cotados de cada ativo subjacente a que se refere uma opção binária sejam razoavelmente relacionados aos preços reais de tal ativo disponível no mercado. A %1 não garante, de forma explícita ou implícita, que os preços cotados representam os preços prevalecentes no mercado."
 
-#. (website)
 msgid "%1 may have access to information that is not available to you, may have acquired trading positions at prices that are not available to you, and may have interests different from your interests. %1 does not undertake any obligation to provide you with market or other information we possess, nor to alter or refrain from our own trading."
 msgstr "A %1 poderá ter acesso a informações que não estão disponíveis a você, poderá ter adquirido posições de negociação a preços que não estão disponíveis a você e poderá ter interesses diferentes de seus interesses. A %1 não assume qualquer obrigação de lhe fornecer informações de mercado ou outras que possuamos, nem de alterar ou de nos abster das nossas próprias negociações."
 
-#. (stash->{website_name})
 msgid "%1 now seeks Affiliate Managers to drive rapid growth and business development in key areas of the world. Successful recruits for this telecommuting role will actively increase %1’s market presence, expanding its network of affiliate partners from particular countries, geographic regions, and / or languages as needed."
 msgstr "A %1 procura agora gestores de afiliados para impulsionar o crescimento e desenvolvimento do negócio nas principais áreas do mundo. Recrutas bem-sucedidos nesta função de trabalho remoto irão aumentar de forma ativa a presença no mercado da %1, expandindo a sua rede de parceiros de afiliação de países, regiões geográficas e / ou idiomas específicos, conforme necessário."
 
-#. (stash->{website_name})
 msgid "%1 offers a range of common deposit and withdrawal methods, from credit and debit cards to bank wires, e-cash and e-wallets."
 msgstr "A %1 oferece uma gama de métodos comuns de depósito e retirada, desde cartões de crédito e débito, até as transferências bancárias, dinheiro eletrônico e carteiras eletrônicas."
 
-#. (stash->{website_name})
 msgid "%1 offers five ways to trade your chosen asset:"
 msgstr "A %1 oferece cinco formas de negociar o seu ativo escolhido:"
 
-#. (stash->{website_name})
 msgid "%1 offers the world's financial markets in a simple, user-friendly platform."
 msgstr "A %1 oferece os mercados financeiros mundiais numa plataforma simples e fácil de usar."
 
-#. (stash->{website_name})
 msgid "%1 prices are benchmarked against the interbank options market, so you always get best-in-class prices for your trades."
 msgstr "Os preços da %1 são referenciados em comparação com o mercado de opções interbancárias, dessa forma você sempre obtém os melhores preços para as suas negociações."
 
-#. (request.website.display_name)
 msgid "%1 provides a variety of applications to help you trade efficiently."
 msgstr "A %1 fornece uma série de aplicativos para o ajudar a negociar eficientemente."
 
-#. (stash->{website_name})
 msgid "%1 provides business partnership services via the following programs."
 msgstr "A %1 fornece serviços de parceria de negócios através dos seguintes programas."
 
-#. (stash->{website_name}, url_for('/user/settings/self_exclusionws')
 msgid "%1 provides you with the opportunity to either self-exclude or <a href=\"%2\">set limits on your trading activities</a> on this website. You may also <a href=\"%3\">contact us</a> to state the limits you wish to set via live chat, email or phone. Available limits are:"
 msgstr "A %1 proporciona-lhe a oportunidade de escolher entre a auto-exclusão ou <a href=\"%2\">a definição de limites nas suas atividades de negociação</a> neste site. Você também pode <a href=\"%3\">nos contatar</a> por chat ao vivo, e-mail ou telefone, para comunicar o limite que você pretende definir. Os limites disponíveis são:"
 
-#. (stash->{website_name})
 msgid "%1 seeks a Project Coordinator to help drive the production of promotional content and rollout of marketing campaigns, designed to engage new prospects and current customers based throughout the globe."
 msgstr "A %1 procura um coordenador de projetos para auxiliar o impulsionamento da produção de conteúdos promocionais e desenvolver campanhas de marketing, concebidas para estabelecer novas parcerias e manter contato com clientes atuais localizados em todo o mundo."
 
-#. (stash->{website_name})
 msgid "%1 seeks a Social Media Executive to enhance and proactively manage the company's social-media efforts. This role requires effective utilisation of a variety of social media channels to attract and nurture prospects, clients, partners, and recruits based throughout the world."
 msgstr "A %1 procura um Executivo de Mídia Social para melhorar e proativamente gerenciar as iniciativas de mídia social da empresa. Esta função requer a utilização eficaz de uma variedade de canais de mídia social para atrair e cultivar oportunidades de negócio, clientes, parceiros e recrutas, baseados em todo o mundo."
 
-#. (stash->{website_name})
 msgid "%1 seeks a sharp Copywriter to produce content that actively engages new prospects and current customers based throughout the world."
 msgstr "A %1 procura um redator perspicaz para produzir conteúdos que cativam a atenção de novos potenciais parceiros e clientes atuais localizados em todo o mundo."
 
-#. (stash->{website_name})
 msgid "%1 would like to team up with potential payment agents worldwide so we can offer local payment processing services to our clients in their respective regions."
 msgstr "A %1 gostaria de criar parcerias com potenciais agentes de pagamento em todo o mundo, para que possamos disponibilizar serviços de processamento de pagamentos aos nossos clientes nas suas respectivas regiões."
 
-#. (stash->{website_name})
 msgid "%1's Continuous Indices are the Volatility 25 Index, Volatility 50 Index, Volatility 75 Index and Volatility 100 Index. These indices correspond to simulated markets with constant volatilities of 25%, 50%, 75% and 100%."
 msgstr "Os Índice Contínuos da %1 são o Índice Volatility 25, o Índice Volatility 50, o Índice Volatility 75 e o Índice Volatility 100. Estes índices correspondem a mercados simulados com volatilidades de 25%, 50%, 75% e 100%."
 
-#. (stash->{website_name})
 msgid "%1's OTC Indices and stocks are sourced from the over-the-counter market and provide you with an alternative means of trading stock indices and stocks - available from sources outside of the centralised exchanges."
 msgstr ""
 "Os índices e ações OTC (Over The Counter - mercado de balcão) da %1 provêm do mercado de balcão e proporcionam-lhe um meio alternativo de negociar \n"
 "índices de ações e ações - disponíveis de fontes exteriores às bolsas centralizadas."
 
-#. (stash->{website_name})
 msgid "%1's OTC Indices and stocks offer the benefit of real-time charts and pricing. Enjoy even more exciting opportunities to trade our featured market indices and stocks through this new real-time offering."
 msgstr "Os índices e ações OTC da %1 oferecem o benefício de gráficos e preços em tempo real. Desfrute de ainda mais oportunidades estimulantes de negociar os nossos índices e ações de destaque através desta nova oferta em tempo real."
 
-#. (stash->{website_name})
 msgid "%1's Spread Contracts are leveraged derivative contracts, the value of which is directly tied to the underlying market movements.  Clients who 'Long' a rising market (and those who 'Short' a falling market) profit from those movements with much less investment than would be required in the live market."
 msgstr "Os contratos de spread da %1 são contratos de derivativos alavancados, cujo valor está diretamente vinculado aos movimentos de mercado subjacentes. Os clientes que tomam uma posição longa num mercado em crescimento (e aqueles que tomam uma posição curta num mercado em queda) lucram desses movimentos com investimentos muito inferiores àquilo que seria necessário no mercado em direto."
 
-#. (stash->{website_name})
 msgid "%1's Spread Contracts require a 'stop loss' which limits the maximum losses incurred by a client. This 'stop loss' amount will act as a deposit and may not be used for further trading until that Spread Contract is closed. Spread Contracts are closed when sold by the client, upon hitting the 'stop loss' or 'stop profit' level."
 msgstr "Os contratos de spread da %1 exigem um \"limite de perdas\" que limita as perdas máximas incorridas por um cliente. Este valor de \"limite de perdas\" atuará como um depósito e não poderá ser usado para negociação posterior até que esse contrato de spread seja fechado. Os contratos de spread são fechados quando são vendidos por um cliente, ao atingir o nível do \"limite de perdas\" ou \"limite de ganhos\"."
 
-#. (stash->{website_name})
 msgid "%1's patented pricing technology allows you to benefit from the same rates of return as traders in the interbank market."
 msgstr "A tecnologia de preços patenteada da %1 permite que você aproveite as mesmas taxas de retorno do mercado interbancário."
 
-#. (stash->{website_name})
 msgid "%1's systems are now processing in excess of 1 million transactions/day (including virtual accounts)."
 msgstr "Os sistemas %1 já processam mais de 1 milhão de transações/dia (incluindo contas virtuais)."
 
-#. (stash('broker_name')
 msgid "%1: Online Trading platform for binary options on Forex, Indices, Commodities and Smart Indices"
 msgstr "%1: Plataforma de negociação online para opções binárias sobre Índices, Forex, Matérias-Primas e Índices Inteligentes"
 
-#. (stash->{website_name})
 msgid "%1’s IT Operations Group is responsible for the design, development and operation of the company’s high-traffic networks. Its responsibilities include hardware and software deployment, up-time and reliability testing, incident response reporting, network security, intrusion detection, and load balancing."
 msgstr "O grupo de operações de TI da %1 é responsável pelo design, desenvolvimento e operação das redes de alto tráfego da empresa. As suas responsabilidades incluem a implantação de hardware e software, testes de disponibilidade e confiabilidade, comunicação de respostas a incidentes, segurança de rede, detecção de intrusões e balanceamento de cargas."
 
-#. (stash->{website_name})
 msgid "%1’s Quantitative Analytics group is responsible for the pricing of binary options offered on its website, as well as the risk management and profitability of its options book. Since all dealing on the company’s website is fully automated, our pricing and risk management algorithms must take full account of real-time pricing parameters, data feeds irregularities and latencies."
 msgstr "O grupo de análise quantitativa é responsável pela fixação de preços das opções binárias disponibilizadas no website, bem como pela gestão de risco e rentabilidade da corretagem. Uma vez que todas as operações no website da empresa são automatizadas, os nossos algoritmos de determinação de preços e gestão de risco devem ter inteiramente em conta todos os parâmetros de preço, irregularidades nos feeds de dados e latências em tempo real."
 
-#. (stash->{website_name})
 msgid "%1’s Smart FX are smart markets that measure the value of a currency against a basket of major currencies."
 msgstr "Os Índices Inteligentes FX da %1 são mercados inteligentes que medem o valor de uma moeda em relação a uma cesta de moedas principais."
 
-#. (stash->{website_name})
 msgid "%1’s principal Anti-Fraud Officer is responsible for the exercise of exceptional client relationship management skills applied to the prevention of fraudulent activities in payments processing and business transactions. He or she will be expected to partner with our payments and compliance teams in resolving payment queries; administering chargebacks; conducting anti-money laundering audits, and implement a broad array of fraud prevention measures."
 msgstr "O principal oficial anti-fraude na %1 é responsável pela execução de capacidades excepcionais de gestão de relacionamentos com clientes, aplicadas à prevenção de atividades fraudulentas no processamento de pagamentos e transações de negócio. É esperado que esta pessoa colabore com as nossas equipes de pagamentos e conformidade, para resolução de problemas com pagamentos; gerenciando estornos; efetuando auditorias contra a lavagem de dinheiro e na implementação de um amplo conjunto de medidas para a prevenção de fraude."
 
-#. (url_for('/')
 msgid "%2 offers a virtual-money account so you can get the hang of trading binaries. Why not <a class=\"pjaxload\" href=\"%1\">open a free $10k fully-functional virtual-money account</a>, and start learning how to trade."
 msgstr "%2 oferece uma conta virtual para que você possa negociar as binárias. Experimente <a class=\"pjaxload\" href=\"%1\">abrir uma conta gratuita de $10k em dinheiro virtual</a>, e aprenda a negociar."
 
@@ -364,11 +312,9 @@ msgstr "Limite de 7 dias no volume de negócios"
 msgid "<< Back to Job Descriptions"
 msgstr "<< Voltar para Descrições de funções"
 
-#. (url_for('/group-history')
 msgid "<a href=\"%1\">Founded</a> October 1999"
 msgstr "<a href=\"%1\">Fundada</a> em Outubro de 1999"
 
-#. (url_for('/contact')
 msgid "<a href=\"%1\">Offices</a> in Malta, Malaysia and Japan"
 msgstr "<a href=\"%1\">Escritórios</a> em Malta, Malásia e Japão"
 
@@ -383,7 +329,6 @@ msgstr ""
 "    \n"
 "<p><strong>Ganhos Diários</strong>: O relatório de comissões mostra-lhe os seus ganhos diários em comissões, por site / produto.</p>"
 
-#. (broker_name)
 msgid ""
 "<p>A client is someone who has been referred through one of your marketing tools and who has deposited money into their %1 account. They must fulfill the following criteria: </p>\n"
 "\n"
@@ -435,7 +380,6 @@ msgstr "<span>Todos os mercados:</span> moedas, ações, índices e matérias-pr
 msgid "<span>All payouts:</span> from $1 to $50,000."
 msgstr "<span>Todos os pagamentos:</span> de $1 a $50.000."
 
-#. (stash->{website_name})
 msgid "<strong>2-way pricing</strong> - %1 quotes a trade and the counter-trade, so you always get unbiased, transparent prices."
 msgstr "<strong>Preços nos dois sentidos</strong> - a %1 indica o preço de uma negociação e do seu oposto, com preços imparciais e transparentes."
 
@@ -460,7 +404,6 @@ msgstr "<strong>Todos os pagamentos</strong> - de $1 a $50.000."
 msgid "<strong>Appropriateness Test: WARNING:</strong> In providing our services to you, we are required to obtain information from you in order to assess whether a given product or service is appropriate for you (that is, whether you possess the experience and knowledge to understand the risks involved)."
 msgstr "<strong>Teste de adequação: AVISO:</strong> Ao prestar-lhe os nossos serviços, somos obrigados a obter informações de você, a fim de avaliar se um determinado produto ou serviço é adequado para você (ou seja, se possui a experiência e os conhecimentos para compreender os riscos envolvidos)."
 
-#. (stash->{website_name})
 msgid "<strong>Benchmarked prices</strong> - %1 benchmarks its prices daily against inter-bank derivatives markets."
 msgstr "<strong>Preços referenciados</strong> - a %1 referencia e compara os seus preços diariamente com os mercados dos derivados interbancários."
 
@@ -494,11 +437,9 @@ msgstr "<strong>Superior/Inferior</strong> - preveja se mercado vai terminar mai
 msgid "<strong>Higher/Lower</strong> - where you can profit from the market ending higher or lower than a target price."
 msgstr "<strong>Alta/Baixa</strong> - onde você pode lucrar quando o mercado terminar mais alto ou mais baixo do que um preço alvo."
 
-#. (request.website.display_name)
 msgid "<strong>IMPORTANT DISCLAIMER</strong> - %1 is not affiliated with any of the Payment Agents listed above. Each Payment Agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by %1. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of Payment Agents before sending them any money. %1 shall not in any circumstance be held responsible for transactions made between customers and Payment Agents."
 msgstr "<strong>ISENÇÃO DE RESPONSABILIDADE IMPORTANTE</strong> - a %1 não está afiliada em nenhum dos Agentes de Pagamentos acima referidos. Cada Agente de Pagamento opera como prestador de serviços independente e não é endossado, garantido ou de outra forma aprovado pela %1. OS CLIENTES LIDAM COM OS AGENTES DE PAGAMENTOS POR SUA PRÓPRIA CONTA E RISCO. Os clientes são aconselhados a verificar as credenciais dos Agentes de Pagamentos antes de lhes enviarem algum dinheiro. A %1 não deve, em nenhuma circunstância, ser responsabilizada por operações realizadas entre clientes e Agentes de Pagamentos."
 
-#. (website)
 msgid "<strong>IMPORTANT DISCLAIMER</strong> - %1 is not affiliated with any of the payment agents listed above. Each payment agent operates as an independent service provider and is not endorsed, guaranteed or otherwise approved by %1. CUSTOMERS DEAL WITH PAYMENT AGENTS AT THEIR SOLE RISK AND PERIL. Customers are advised to check the credentials of payment agents before sending them any money. %1 shall not in any circumstance be held responsible for transactions made between customers and payment agents."
 msgstr "<strong>ISENÇÃO DE RESPONSABILIDADE IMPORTANTE</strong> - a %1 não está afiliada à nenhum dos Agentes de Pagamentos acima referidos. Cada Agente de Pagamentos opera como prestador de serviços independente e não é endossado, garantido ou de outra forma aprovado pela %1. OS CLIENTES LIDAM COM OS AGENTES DE PAGAMENTOS POR SUA PRÓPRIA CONTA E RISCO. Os clientes são aconselhados a verificar as credenciais dos Agentes de Pagamentos antes de lhes enviarem algum dinheiro. A %1 não deve, em nenhuma circunstância, ser responsabilizada por operações realizadas entre clientes e Agentes de Pagamentos."
 
@@ -520,7 +461,6 @@ msgstr "<strong>Riscos conhecidos</strong> - você sabe desde o início o que ir
 msgid "<strong>Long-term action</strong> - choose trades with durations of up to 365 days."
 msgstr "<strong>Ação a longo prazo</strong> - escolha contratos com duração de até 365 dias."
 
-#. (stash->{website_name})
 msgid "<strong>Long-term partnership:</strong> Your partnership with %1 could be a means to promote your product or services for FREE to our 1,000,000+ registered clients, worldwide."
 msgstr "<strong>Parceria de longo prazo:</strong> A sua parceria com a %1 pode se tornar um meio de promover o seu produto ou os seus serviços GRATUITAMENTE aos nossos mais de 1.000.000 de clientes registrados em todo o mundo."
 
@@ -536,11 +476,9 @@ msgstr "<strong>Sem surpresas</strong> - você nunca vai ter \"avisos de margem\
 msgid "<strong>Other Risks</strong>: There are other risks that relate to trading investment products and trading foreign currencies that cannot be described in detail in this document. Generally, however, securities, options and currency transactions involve exposure to a combination of the following risk factors: market risk, credit risk, settlement risk, liquidity risk, operational risk and legal risk. For example, there can be serious market disruptions if economic or political or other unforeseen events locally or overseas affect the market. In addition to these types of risk there may be other factors such as accounting and tax treatment issues that you should consider."
 msgstr "<strong>Outros riscos</strong>: Existem outros riscos relacionados com a negociação de produtos de investimento e a negociação de moedas estrangeiras que não podem ser descritos em pormenores neste documento. Geralmente, no entanto, as transações de ações, opções e moedas, envolvem exposição a uma combinação dos seguintes fatores de risco: risco de mercado, risco de crédito, risco de liquidação, risco de liquidez, risco operacional e risco legal. Por exemplo, pode haver perturbações graves no mercado se eventos econômicos ou políticos, ou outros imprevistos locais ou no exterior, afetarem o mercado. Além destes tipos de risco, pode haver outros fatores, tais como questões de contabilidade e tratamentos fiscais que você deve considerar."
 
-#. (stash->{website_name})
 msgid "<strong>Patented technology</strong> - %1 is the industry pioneer and holds patented pricing technology."
 msgstr "<strong>Tecnologia patenteada</strong> - a %1 é a pioneira desta indústria e possui uma tecnologia de preços patenteada."
 
-#. (stash->{website_name})
 msgid "<strong>Payment options</strong> - %1 offers many payment methods, such as credit/debit cards, bank wires, e-cash and e-wallets."
 msgstr "<strong>Opções de Pagamento</strong> - a %1 oferece muitos métodos de pagamento, tais como cartões de crédito/débito, transferências bancárias, dinheiro eletrônico e carteiras eletrônicas."
 
@@ -565,7 +503,6 @@ msgstr "<strong>Mercados em subida</strong> - escolha o contrato \"sobe\", o con
 msgid "<strong>Scalable trading</strong> - win the same proportional return on stakes of all values."
 msgstr "<strong>Negociação escalável</strong> - ganhe o mesmo retorno proporcional em apostas de todos os valores."
 
-#. (stash->{website_name})
 msgid "<strong>Security</strong> - %1 ensures your personal data and transactions are always secure."
 msgstr "<strong>Segurança</strong> - a %1 garante que seus dados pessoais e as suas transações estão sempre seguras."
 
@@ -617,11 +554,9 @@ msgstr "<strong>Retornos de até 100% em contratos de alta/queda</strong> - nós
 msgid "<strong>Volatile markets</strong> - choose the one-touch trade, the goes-outside trade, or the ends outside trade."
 msgstr "<strong>Mercados voláteis</strong> - escolha o contrato \"toca\", o contrato \"fica entre\", ou o contrato \"sai fora\"."
 
-#. (stash->{website_name})
 msgid "<strong>Volatility Indices</strong> - trade %1's proprietary volatility indices."
 msgstr "<strong>Índices Volatility</strong> - negocie os índices de volatilidade proprietários da %1."
 
-#. (stash->{website_name})
 msgid "<strong>Volatility indices</strong> - trade %1's own volatility indices, 24/7."
 msgstr "<strong>Índices Volatility</strong> - negocie os índices de volatility exclusivos da %1, 24/7."
 
@@ -652,7 +587,6 @@ msgstr "Um grau de Bacharel em ciências da computação, ou uma combinação eq
 msgid "A Bachelor’s degree in Marketing, Business Administration, or related discipline"
 msgstr "Um grau de Bacharel em Marketing, Administração de Empresas ou numa área relacionada"
 
-#. (stash->{website_name})
 msgid "A Payment Agent acts like an exchange between the Client (that is, our customer) and %1. The Payment Agent processes deposits and withdrawals for Clients who wish to use a specific e-cash method or local currency that is not offered by %1. The transfer fees are borne by the Client."
 msgstr "Um agente de pagamentos atua como um intermediário entre os clientes e a %1. O agente de pagamentos processa depósitos e retiradas para os clientes que desejam usar métodos específicos de dinheiro eletrônico ou moedas locais não oferecidos pela %1. As taxas de transferência são arcadas pelo cliente."
 
@@ -797,7 +731,6 @@ msgstr "Abertura de Conta"
 msgid "Account Transfer"
 msgstr "Transferência de Conta"
 
-#. ("", "")
 msgid "Account balance : %1 %2"
 msgstr "Saldo de conta: %1 %2"
 
@@ -895,7 +828,6 @@ msgstr "Todas as informações de cartões de crédito são enviadas diretamente
 msgid "All markets are closed now. Please try again later."
 msgstr "Todos os mercados estão agora fechados. Tente novamente mais tarde."
 
-#. (website)
 msgid "All opinions, news, research, analysis, prices or other information contained on this website are provided as general market commentary and do not constitute investment advice. %1 will not accept liability for any loss or damage, including but without limitation to, any loss of profit that may arise directly or indirectly from use of or reliance on such information."
 msgstr "Todas as opiniões, notícias, pesquisas, análises, preços ou outras informações contidas neste site são disponibilizadas como comentários gerais do mercado, não constituindo recomendações de investimento. A %1 não se responsabilizará por quaisquer perdas ou danos, incluindo, mas não só, quaisquer perdas de lucros que possam resultar direta ou indiretamente da utilização ou confiança depositada em tais informações."
 
@@ -905,7 +837,6 @@ msgstr "Todos os horários estão de acordo com o fuso horário GMT (Greenwich M
 msgid "Allow Clients to deposit with lower amounts (via local currency)"
 msgstr "Permite que clientes depositem valores mais baixos (através da moeda local)"
 
-#. (stash->{website_name})
 msgid "Allow Clients to use e-wallets, which are not available directly on %1"
 msgstr "Permite que clientes utilizem carteiras eletrônicas que não estão diretamente disponíveis na %1"
 
@@ -975,25 +906,21 @@ msgstr "Quaisquer litígios, controvérsias ou reivindicações que possam resul
 msgid "Any failure on your part to maintain the security of any security devices or procedures used in or in association with the Binary.com API;"
 msgstr "Qualquer falha da sua parte para manter a segurança de quaisquer dispositivos ou procedimentos de segurança usados na ou em associação com a API Binary.com;"
 
-#. (website)
 msgid "Any form of Spam will result in your account being placed under review and all funds due being withheld pending an investigation into your account. You need to be aware that %1 is liable to incur expenses in dealing with Spam generated mail and these same expenses will be deducted from your account. In this instance the amount determined will be fair and deemed final and acceptable based on good faith and such amount will be collectable by law and deemed to have been accepted by yourself as fair and reasonable and as agreed to by registration as an affiliate of %1."
 msgstr "Qualquer forma de spam resultará na análise da sua conta, e todos os fundos devidos serão retidos enquanto uma investigação da sua conta estiver pendente. Você deve ter consciência de que a %1 é responsável por incorrer despesas ao se tratar de mensagens geradas por spam, e que estas mesmas despesas serão deduzidas da sua conta. Neste caso, o valor apurado será justo e considerado definitivo e aceitável com base na boa-fé, sendo essa quantia cobrável por lei e considerada justa, razoável e aceita por você, conforme acordado através do registro de afiliado da %1."
 
 msgid "Any information given on these pages and/or emails or newsletters sent by the company related thereto, is not intended as financial or investment advice and the Company will not accept any liability in this respect, nor will the Company accept any responsibility for the accuracy or comprehensiveness of the information provided on this site."
 msgstr "Todas as informações apresentadas nestas páginas e/ou e-mails ou newsletters enviados pela empresa referentes às mesmas não constituem qualquer recomendação financeira ou de investimento; a empresa não aceitará qualquer responsabilidade a este respeito, nem aceitará qualquer responsabilidade pela precisão ou abrangência das informações fornecidas neste site."
 
-#. (affiliate_email)
 msgid "Any notice given or made under this Agreement to the Company shall be by email to %1. The Company shall send you any notices given or made under this Agreement to the email address supplied on your application form or such other email address as notified by you to the Company."
 msgstr "Qualquer notificação dada ou feita à empresa ao abrigo do presente acordo será enviada por e-mail para a %1. A empresa lhe enviará quaisquer notificações dadas ou feitas ao abrigo do presente acordo para o endereço de e-mail indicado no formulário da sua candidatura, ou outro endereço de e-mail, de acordo com a sua notificação à empresa."
 
 msgid "Any third party claims arising out of, or relating to, your use of, or inability to use, the Binary.com API."
 msgstr "Quaisquer reivindicações de terceiros decorrentes de, ou relacionadas ao, seu uso de, ou incapacidade de usar, a API Binary.com."
 
-#. (broker_name)
 msgid "Anyone over the age of 18 [who has read and agreed to the %1 terms and conditions], and who is not resident in one of the 'closed countries' can trade on the %1 platform."
 msgstr "Qualquer pessoa com idade superior a 18 anos (que tenha lido e aceitado os termos e condições da %1), e que não seja residente em nenhum dos \"países fechados\", pode negociar na plataforma da %1."
 
-#. (stash->{website_name})
 msgid "Anyone who has potential to grow or increase traffic to %1"
 msgstr "Qualquer pessoa ou entidade que tenha o potencial de aumentar o tráfego para a %1"
 
@@ -1003,7 +930,6 @@ msgstr "Aplicativos"
 msgid "Apply a meticulous eye for detail in proofreading the content that appears on the company’s website, blog, social media outlets, and marketing materials."
 msgstr "Ter uma visão meticulosa para os detalhes nas revisões dos conteúdos que aparecem no site, nos blogs e nos meios de comunicação social da empresa."
 
-#. (website, request.url_for("/payment-agent"))
 msgid "Apply to become a %1 <a class=\"pjaxload\" href=\"%2\">payment agent</a>."
 msgstr "Inscreva-se para se tornar um <a class=\"pjaxload\" href=\"%2\">Agente de Pagamentos</a> da %1."
 
@@ -1052,7 +978,6 @@ msgstr "Enquanto desenvolvedor front-end senior, a escrita de códigos robustos 
 msgid "As a Senior Perl Developer, you’ll be tasked with writing robust, high-quality, production-ready code and contributing to the architecture that drives our high-traffic global website."
 msgstr "Enquanto desenvolvedor Perl senior, a escrita de códigos robustos de alta qualidade e prontos para a produção e a contribuição à arquitetura que dá impulso ao nosso website global de alto tráfego, serão as suas responsabilidades."
 
-#. (stash->{website_name})
 msgid "As a developer in the %1 Quant Group, you will be responsible for the implementation and maintenance of the company's risk management and derivatives pricing software. You and the members of your team will develop software designed to study the market micro-structure, optimize existing code, manage financial data feeds and ensure the continuous running of our automated trading platform."
 msgstr "Como desenvolvedor no grupo de analistas quantitativos, você será responsável pela implementação e manutenção do software de gerenciamento de riscos e de determinação de preços da empresa. Você e os membros da sua equipe irão desenvolver software projetado a estudar a sub-estrutura do mercado, otimizar código já existente, gerenciar feeds de dados financeiros e assegurar a execução contínua da nossa plataforma de negociações automatizada."
 
@@ -1107,7 +1032,6 @@ msgstr "Assistir ao chefe do departamento de Conformidade na requisição de lic
 msgid "Assisting with the regulatory and statutory audit of Binary Group companies worldwide"
 msgstr "Assistir com a auditoria regulatória e estatuária das empresas do Grupo Binary em todo o mundo"
 
-#. (stash->{website_name})
 msgid "At %1, we consider the strength and security of our trading platform to be critically important."
 msgstr "Na %1, consideramos a força e a segurança da nossa plataforma de negociação como algo de importância crítica."
 
@@ -1162,7 +1086,6 @@ msgstr "VOLTAR PARA A HOMEPAGE"
 msgid "BIEL Terms"
 msgstr "Termos da BIEL"
 
-#. ("http://www.compensationschemes.org.mt")
 msgid "BIEL forms part of <a href=\"%1\" target=\"_blank\">the Investor Compensation Scheme</a> (the \"Scheme\") which is a rescue fund for investors that are clients of failed investment firms licensed by the MFSA. The Scheme covers 90% of the Company's net liability to a client in respect of investments which qualify for compensation under the Investment Services Act subject to a maximum payment to any one person of €20,000. The Scheme is based on EC Directive 97/9."
 msgstr "BIEL faz parte do <a href=\"%1\" target=\"_blank\">Regime de compensação de investidores de Malta,</a> (o \"Regime\") que é um fundo de resgate para investidores que são clientes de empresas de investimento falidas, licenciadas pela MFSA. O regime cobre 90% do passivo líquido para com um cliente em relação a investimentos suscetíveis de serem beneficiados de indenizações, ao abrigo da lei de serviços de investimento, sujeitas a um pagamento máximo de €20.000 a uma pessoa. O regime baseia-se na diretiva CE 97/9."
 
@@ -1187,7 +1110,6 @@ msgstr "Transferência bancária, cartão de crédito ou carteira eletrônica"
 msgid "Banking"
 msgstr "Transação"
 
-#. (stash->{website_name})
 msgid "Banks, hedge funds and professional investors routinely trade binary options in over-the-counter derivatives markets. Many market professionals use and trust the %1 platform for high-volume flexible trades."
 msgstr "Os bancos, fundos de cobertura e investidores profissionais negociam rotineiramente nas opções binárias em diferentes tipos de mercados derivados. Muitos mercados profissionais usam e confiam na plataforma %1 para um grande volume de negociações flexíveis."
 
@@ -1250,14 +1172,12 @@ msgstr "Binary (C.R.) S.A., registrada na Costa Rica."
 msgid "Binary (Europe) Ltd, Mompalao Building, Suite 2, Tower Road, Msida MSD1825"
 msgstr "Binary (Europa) Ltd, Mompalao Building, Suite 2, Tower Road, Msida MSD1825"
 
-#. (('https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39495')
 msgid "Binary (Europe) Ltd, Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta. Licenced and regulated (for gambling products only) by the Malta Gaming Authority in Malta (licence no MGA/CL2/118/2000) and for UK clients by the UK Gambling Commission - <a href=\"%1\" target=\"_blank\\\">view license</a>."
 msgstr "Binary (Europe) Ltd, Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta. Licenciada e regulamentada (apenas para produtos de jogo) pela Malta Gaming Authority em Malta (Autoridade de Loteria e Jogos de Malta - licença n.º MGA/CL2/118/2000) e para os clientes do Reino Unido pela UK Gambling Commission (Comissão de Jogos do Reino Unido) - <a href=\"%1\" target=\"_blank\\\">ver licença</a>."
 
 msgid "Binary (IOM) Ltd, First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW"
 msgstr "Binary (IOM) Ltd, First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW"
 
-#. (('https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39172')
 msgid "Binary (IOM) Ltd, First Floor, Millennium House, Victoria Road, Douglas, Isle of Man, IM2 4RW. Licenced and regulated by the Gambling Supervision Commission in the Isle of Man (current online gambling licence granted on the 31 August 2012) and for UK clients by the UK Gambling Commission - <a href=\"%1\" target=\"_blank\">view license</a>."
 msgstr "Binary (IOM) Ltd, First Floor, Millennium House, Victoria Road, Douglas, Isle of Man, IM2 4RW. Licenciada e regulamentada pela Gambling Supervision Commission in the Isle of Man (Comissão de Supervisão de Jogo da Ilha de Man - licença de jogos online em vigor concedida em 31 de agosto de 2012) e para os clientes do Reino Unido pela UK Gambling Commission (Comissão de Jogos do Reino Unido) - <a href=\"%1\" target=\"_blank\">ver licença</a>."
 
@@ -1270,7 +1190,6 @@ msgstr "Binary Group Services está procurando desenvolvedores talentosos e moti
 msgid "Binary Group Services is searching for talented and motivated front-end developers who are looking for a chance to excel."
 msgstr "Binary Group Services está procurando desenvolvedores front-end talentosos e motivados que buscam uma oportunidade de brilhar nas suas carreiras."
 
-#. (website)
 msgid "Binary Investments (Europe) Ltd, Binary (Europe) Ltd, Binary (IOM) Ltd, Binary (CR) SA and all other Binary Group members are sometimes referred to collectively as \"%1\", \"us\" or \"we\"."
 msgstr "Binary Investments (Europe) Ltd, Binary (Europe) Ltd, Binary (IOM) Ltd, Binary (CR) SA e todos os outros membros do Binary Group são, às vezes, coletivamente referidos como \"%1\" ou \"nós\"."
 
@@ -1352,7 +1271,6 @@ msgstr "Binary.com atinge 1 milhão de usuários, registrando uma marca históri
 msgid "Binary.com is a flexible place. As well as our offices, we have staff who choose to telecommute from their home offices in countries around the world. If that suits you, we’re open to it."
 msgstr "A Binary.com é um lugar flexível. Para além dos nossos escritórios, nós temos colaboradores que escolheram trabalhar a partir das suas casas, em diferentes países de todo o mundo. Se esse tipo de trabalho combina com você, nós estamos abertos a isso."
 
-#. ('http://search.cpan.org/~binary/', 'https://github.com/binary-com')
 msgid "Binary.com is an active member of the Perl community and is in the process of uploading a number of its internal utility modules to <a target=\"_blank\" href=\"%1\">CPAN</a>. If you are a Perl enthusiast, contribute by reviewing these modules, and submitting pull-requests on <a target=\"_blank\" href=\"%2\">github</a>."
 msgstr "Binary.com é um membro ativo da comunidade Perl e está em processo de carregar um número de seus módulos internos de serviços públicos para <a target=\"_blank\" href=\"%1\">CPAN</a>. Se você é um entusiasta da Perl, contribua revisando esses módulos e enviando pedidos em <a target=\"_blank\" href=\"%2\">github</a>."
 
@@ -1614,14 +1532,12 @@ msgstr "Os clientes devem registrar-se pessoalmente."
 msgid "Clients registered with Binary (C.R.) S.A. can raise their unresolved disputes with management by submitting an email to complaints@binary.com."
 msgstr "Os clientes registrados na Binary (C.R.) S.A. podem dar continuidade às disputas com a gerência enviando um e-mail para complaints@binary.com."
 
-#. ("<a href=\"http://www.mga.org.mt/\" target=\"_blank\">(www.mga.org.mt)</a>")
 msgid "Clients registered with Binary (Europe) Ltd can raise their unresolved disputes with the Malta Gaming Authority %1 at"
 msgstr "Os clientes registrados na Binary (Europe) Ltd podem dar continuidade às disputas não resolvidas com a Malta Gaming Authority (Autoridade do Jogo de Malta) %1 em"
 
 msgid "Clients registered with Binary (IOM) Ltd can raise their unresolved disputes with the alternative dispute resolution entity IBAS by filling the adjudication form on the ADR entity’s"
 msgstr "Os clientes registrados na Binary (IOM) Ltd podem levantar as suas disputas não resolvidas juntos à entidade de resolução de disputas alternativa, IBAS, ao preencher e entregar o formulário ADR dessa entidade"
 
-#. ("<a href='http://mymoneybox.mfsa.com.mt' target='_blank'>http://mymoneybox.mfsa.com.mt</a>")
 msgid "Clients registered with Binary Investments (Europe) Ltd can raise their unresolved disputes with the MFSA's Consumer Complaints Manager. Details on making a complaint with the MFSA's Consumer Complaints Manager as well as their contact details can be found here: %1. Complaints to the MFSA's Consumer Complaints Manager should always be made in writing."
 msgstr "Os clientes registrados na Binary Investments (Europe) Ltd podem dar continuidade às suas disputas não resolvidas com o Gerente de Queixas dos Consumidores da MFSA. Informações sobre como apresentar uma queixa ao Gerente de Queixas dos Consumidores da MFSA, bem como as suas informações de contato, encontram-se aqui: %1. As queixas para o Gerente de Queixas dos Consumidores da MFSA devem ser sempre apresentadas por escrito."
 
@@ -1661,7 +1577,6 @@ msgstr "As comissões serão recebidas durante a permanência do cliente, sobre 
 msgid "Commodities"
 msgstr "Matérias-primas"
 
-#. (stash->{website_name})
 msgid "Commodities are resources that are grown or extracted from the ground, such as silver, gold and oil. On %1, they are priced in US dollars."
 msgstr "As matérias-primas são recursos naturais valiosos, que são cultivados ou extraídos do solo, tais como a prata, o ouro e o petróleo. Na %1, os preços são apresentados em Dólar americano."
 
@@ -1812,7 +1727,6 @@ msgstr "Os contratos não serão, por norma, disponibilizados durante os primeir
 msgid "Contracts will not usually be offered when the underlying market is at its intraday high or intraday low."
 msgstr "Os contratos não serão, por norma, disponibilizados quando o mercado subjacente se encontrar na sua alta ou queda intradiárias."
 
-#. (stash->{website_name})
 msgid "Contribute to %1's open-source projects."
 msgstr "Contribua para os projetos de código aberto da %1."
 
@@ -1956,7 +1870,6 @@ msgstr "Data de nascimento"
 msgid "Day"
 msgstr "Dia"
 
-#. (link)
 msgid ""
 "Dear Valued Customer,\n"
 "\n"
@@ -2027,12 +1940,9 @@ msgstr "Depósito de"
 msgid "Deposit or withdraw to your account via bank-wire, credit card, or e-cash wallet."
 msgstr "Deposite ou retire dinheiro para a sua conta através de transferência bancária, cartão de crédito ou dinheiro eletrônico."
 
-#. (1)
 msgid "Deposit: %1 working day"
 msgstr "Depósito: %1 dia útil"
 
-#. (5)
-#. (1)
 msgid "Deposit: %1 working days"
 msgstr "Depósito: %1 dias úteis"
 
@@ -2045,7 +1955,6 @@ msgstr "Depositar e retirar fundos"
 msgid "Derivative"
 msgstr "Derivado"
 
-#. (website)
 msgid "Derivative investment instruments such as Binary Options and related markets can be highly volatile. The prices of the underlying instrument which a Binary Options refers to may fluctuate rapidly and over wide ranges and may reflect unforeseeable events or changes in conditions, none of which can be controlled by you or %1."
 msgstr "Instrumentos financeiros derivados, tais como as opções binárias e mercados relacionados, podem ser altamente voláteis. Os preços dos instrumentos subjacentes a que se refere uma opção binária podem flutuar rapidamente sobre grandes intervalos e podem refletir eventos imprevisíveis ou mudanças nas condições, nenhum dos quais podem ser controlados por você ou pela %1."
 
@@ -2196,7 +2105,6 @@ msgstr "Prêmio de Operador EGR "
 msgid "EUR"
 msgstr "EUR"
 
-#. (stash->{website_name})
 msgid "Each binary option contract runs for a set time – with %1 you can choose a contract that runs between 10 seconds and 365 days."
 msgstr "Cada contrato de opção binária dura um determinado tempo – com a %1 você pode escolher um contrato que dura de 10 segundos a 365 dias."
 
@@ -2212,7 +2120,6 @@ msgstr "Cada transação de opção possui uma data e hora específica, conhecid
 msgid "Each party to this Agreement represents and warrants to the other that it has, and will retain throughout the term of this Agreement all right, title, and authority to enter into this Agreement, to grant to the other party the rights and licences granted in this Agreement, and to perform all of its obligations under this Agreement."
 msgstr "Cada parte do presente Acordo representa e garante à outra parte que tem e irá manter ao longo de toda a vigência deste Acordo, o direito e autoridade para celebrar o presente Acordo, para conceder à outra parte os direitos e licenças concedidas neste Acordo, e para cumprir todas as suas obrigações nos termos do presente Acordo."
 
-#. (stash->{website_name})
 msgid "Earn commissions by introducing new customers to %1."
 msgstr "Ganhe comissões ao angariar novos clientes para a %1."
 
@@ -2228,7 +2135,6 @@ msgstr "Obter uma segunda fonte de rendimento durante o seu tempo livre?"
 msgid "Earning tax free trading profits*?"
 msgstr "Obter lucros provenientes de negociações livres de impostos*?"
 
-#. (stash->{website_name})
 msgid "Educate prospects, clients, and partners regarding the benefits of %1’s innovative online trading platform"
 msgstr "Educar candidatos, clientes e parceiros em relação aos benefícios da plataforma de negociação inovadora da %1"
 
@@ -2304,7 +2210,6 @@ msgstr "Assegurar a conformidade com padrões de controle de qualidade que regem
 msgid "Ensure compliance with the quality standards that govern our website content"
 msgstr "Assegurar a conformidade com padrões de controle de qualidade que regem os nossos conteúdos no site"
 
-#. (website)
 msgid "Ensure that any historical trading records and performance figures presented to your referrals related to trading on the website %1 are accurate and not misleading."
 msgstr "Garantir que os registros de históricos de negociações e estatísticas de desempenho apresentados às suas indicações relativos a negociações no website %1 sejam precisos e não enganosos."
 
@@ -2614,7 +2519,6 @@ msgstr "Acompanhar a rejeição de depósitos"
 msgid "For added security, please check your email to retrieve the verification token."
 msgstr "Para proporcionar maior segurança, verifique a sua caixa de entrada para obter o token de verificação."
 
-#. (stash->{website_name})
 msgid "For e-cash methods or local currencies not supported by %1."
 msgstr "Para métodos de dinheiro eletrônico ou moedas locais não suportados pela %1."
 
@@ -2696,7 +2600,6 @@ msgstr "GBP"
 msgid "GMT"
 msgstr "GMT (Hora de Greenwich)"
 
-#. (stash->{website_name})
 msgid "GMT stands for Greenwich Mean Time, the official time used in the UK during winter. In summer, the UK changes to British Summer Time, which is GMT + 1 hour. All times on the Binary.com site use GMT all year round."
 msgstr "GMT (Hora Média de Greenwich) é a hora oficial utilizada no Reino Unido durante o inverno. No verão, o Reino Unido muda para a Hora de Verão do Reino Unido, que é GMT +1 hora. Todas as horas exibidas no site da Binary.com usam GMT durante todo o ano."
 
@@ -2757,7 +2660,6 @@ msgstr "Glossário"
 msgid "Go to the <a href=\"https://login.binary.com/password-retrieve.php\">password retrieval page</a>, and enter your username and e-mail address in the form fields provided to have your password e-mailed to you."
 msgstr "Vá para a <a href=\"https://login.binary.com/password-retrieve.php\">página de recuperação de senha</a> e insira o seu nome de usuário e endereço de e-mail nos campos de formulário apresentados, para que a sua senha seja enviada por e-mail."
 
-#. (broker_name)
 msgid "Go to the <a href=\"https://login.binary.com/signup.php\">sign up page</a> to register as an affiliate today."
 msgstr "Vá para a <a href=\"https://login.binary.com/signup.php\">página de cadastro</a> para se registrar ainda hoje como afiliado."
 
@@ -2839,14 +2741,12 @@ msgstr "Como financio a minha conta?"
 msgid "How do I know how much I have earned?"
 msgstr "Como sei quanto ganhei?"
 
-#. (stash->{website_name})
 msgid "How does %1 make money?"
 msgstr "Como a %1 ganha dinheiro?"
 
 msgid "How does it work?"
 msgstr "Como funciona?"
 
-#. (stash->{website_name})
 msgid "How safe is my money with %1?"
 msgstr "Que segurança tem o meu dinheiro na %1?"
 
@@ -2966,7 +2866,6 @@ msgstr "Se você não receber o e-mail dentro dos próximos minutos, verifique a
 msgid "If you have the skill set we seek, you’ll become a valued member of a highly competent front end development team engaged in driving our binary options trading systems to new heights."
 msgstr "Se você possuir o conjunto de habilidades que procuramos, você irá se tornará um membro valorizado de uma equipe front-end altamente qualificada, envolvida na elevação dos nossos sistemas de negociação de opções binárias para novas altitudes."
 
-#. (broker_name)
 msgid "If you introduce our website to potential clients, you will eventually start earning passive income, just as soon as one of them opens a real account with %1. And you will continue making money for as long as the client uses our services. Simply put, you will start earning a commission which in actual fact, requires very little effort to maintain."
 msgstr "Se você promover o nosso site a potenciais clientes, irá eventualmente começar a ganhar rendimentos passivos, tão logo um deles abra uma conta real na %1. E você continuará a receber dinheiro durante todo o tempo que o cliente usar os nossos serviços. Em termos práticos, você começará a ganhar uma comissão que, na verdade, exige muito pouco esforço para se manter."
 
@@ -3054,11 +2953,9 @@ msgstr "Se você selecionar uma <strong>hora de início</strong> como \"Agora\",
 msgid "If you select a specific <strong>end time</strong>, the <strong>end time</strong> is the selected time."
 msgstr "Se você selecionar uma <strong>hora de término</strong> específica, a <strong>hora de término</strong> do contrato é a hora selecionada."
 
-#. (broker_name)
 msgid "If you want to profit from this high demand product then your best option is to partner with the market leader. %1 has been in the business for over 15 years, and has been successful ever since."
 msgstr "Se você quiser lucrar com este produto de elevada procura, então a sua melhor opção será fazer parceria com a líder do mercado. A %1 existe no mercado há mais de 15 anos e tem sido bem-sucedida desde o início."
 
-#. (stash->{affiliate_email})
 #, fuzzy
 #| msgid "If you would like more information on becoming a Payment Agent, please contact us at <a href='mailto:affiliates@binary.com'>affiliates@binary.com</a>"
 msgid "If you would like more information on becoming a Payment Agent, please contact us at <a href='mailto:%1'>%1</a>"
@@ -3067,14 +2964,12 @@ msgstr "Se você deseja mais informações sobre como se tornar um agente de pag
 msgid "If you would like to file a complaint with regards to our service, kindly contact us providing any relevant details relating to your complaint. We shall investigate your enquiry and a response will be given to your enquiry. We will usually provide a final response within 1-2 weeks (and at most within 2 months) from receipt of all relevant details."
 msgstr "Se você gostaria de fazer uma reclamação em relação ao nosso serviço, entre em contato conosco, informando-nos dos detalhes da sua queixa. Nós iremos investigar o seu caso e uma resposta será enviada. Por norma, forneceremos uma resposta final dentro de 1 a 2 semanas (e no máximo 2 meses) após o recebimento de todas as informações relevantes."
 
-#. (broker_name)
 msgid "If you're a broker we'd like to work with you. You will be introducing your clients to a unique and innovative product - the %1 trading platform."
 msgstr "Se você for um corretor, gostaríamos muito de trabalhar com você. Você estará apresentando um produto único e inovador aos seus clientes - a plataforma de negociações %1."
 
 msgid "If your complaint relates to an outcome of a trade or a transaction and remains unresolved, it will turn into a dispute. Should you be unsatisfied with our response, you can choose to escalate your complaint to the regulator or to an alternative dispute resolution entity."
 msgstr "Se a sua reclamação se refere a um resultado de uma negociação ou a uma transação, e continua sem solução, ela vai se transformar em uma disputa. Se você estiver insatisfeito com a nossa resposta, você pode optar por extender a sua reclamação para o regulador ou a uma entidade de resolução alternativa de litígios."
 
-#. (stash->{website_name}, url_for('contact')
 msgid "If you’re an individual trader, you’ll appreciate the simplicity, flexibility, and limited risk of binary trading. With %1’s low minimum stakes, you’ll soon learn how to trade with skill and confidence. And if you have any questions, you’re free to access <a class=\"pjaxload\" href=\"%2\">our helpful support desk</a>."
 msgstr "Se você é um negociador individual, vai apreciar a simplicidade, flexibilidade e os riscos limitados das negociações binárias. Com o risco mínimo da %1, você irá aprender rapidamente como negociar com habilidade e confiança. E se você tiver qualquer dúvida, tem acesso gratuito ao nosso <a class=\"pjaxload\" href=\"%2\">apoio ao cliente</a>."
 
@@ -3129,7 +3024,6 @@ msgstr "Para proporcionar acesso aos nossos aplicativos móveis e outros aplicat
 msgid "In order to support its continued growth, %1 is seeking to recruit and place a qualified Compliance Executive. In this newly created role, to be based in Malta, the incumbent will report to our Head of Regulatory and Legal Compliance"
 msgstr "A fim de promover o seu crescimento contínuo, a %1 visa recrutar e colocar um executivo de conformidade qualificado. Nesta função recém-criada, sediada em Malta, este operador se reportará ao chefe do departamento de conformidade regulamentar e legal"
 
-#. (stash->{website_name})
 msgid "In order to support its continued growth, the Human Resources Group at %1 is seeking to place a highly competent administrator in a senior recruitment role. Please note that this is not a position suitable for an HR generalist, but should be of keen interest to a high level administrator with extensive experience in the global recruitment of managers and single technical contributors. A background in financial services and experience in the recruitment of senior professionals in IT and Quantitative Analytics would be ideal."
 msgstr "A fim de promover o seu crescimento contínuo, o grupo de recursos humanos na %1 visa colocar um administrador altamente qualificado numa função de recrutamento sênior. Note que esta não é uma função adequada para um generalista de RH, mas pode ser de grande interesse para um administrador de alto nível, com ampla experiência no recrutamento global de gestores e técnicos contribuidores únicos. Formação em serviços financeiros e experiência no recrutamento de profissionais sêniors de TI e análises quantitativas seria ideal."
 
@@ -3226,7 +3120,6 @@ msgstr "Instantâneo"
 msgid "Insufficient balance"
 msgstr "Saldo insuficiente"
 
-#. (stash->{website_name})
 msgid "Interested, so what’s next? If you can offer our Clients a specific e-cash method or a local payment option that is not already provided by %1, and you have a good track record in the market, then we would love to <a href='mailto:affiliates@binary.com'>hear from you!</a>"
 msgstr "Você está interessado, então o que vem a seguir? Se você puder disponibilizar aos nossos clientes um método de pagamento por dinheiro eletrônico ou opção de pagamento local que ainda não é fornecida pela %1 e possui um bom histórico no mercado, então adoraríamos <a href='mailto:affiliates@binary.com'>que você entrasse em contato conosco!</a>"
 
@@ -3962,15 +3855,12 @@ msgstr "Conectar-se"
 msgid "Log out"
 msgstr "Sair"
 
-#. (broker_name)
 msgid "Log-in to your %1 affiliate account and click on: Finances &rarr; Payment instructions."
 msgstr "Faça o login na sua conta de afiliado da %1 e clique em: Finanças &rarr; Instruções de pagamento."
 
-#. (broker_name)
 msgid "Log-in to your %1 affiliate account and click on: Marketing &rarr; All Media."
 msgstr "Faça o login na sua conta de afiliado da %1 e clique em: Marketing &rarr; Todas as mídias."
 
-#. (broker_name)
 msgid "Log-in to your %1 affiliate account and click on: Reports &rarr; Traffic Report."
 msgstr "Faça o login na sua conta de afiliado da %1 e clique em: Relatórios &rarr; Relatório de tráfego."
 
@@ -4517,7 +4407,6 @@ msgstr "O nosso compromisso de fornecer \"melhor execução\" não significa que
 msgid "Our company continues to thrive and obtains a license in the Isle of Man to better service our UK clients."
 msgstr "Nossa empresa continua a prosperar e possui uma licença na Ilha de Man para melhor atender nossos clientes do Reino Unido."
 
-#. (request.url_for("cashier/payment_methods"))
 msgid "Our costs and charges for depositing and withdrawing money are set out <a href=\"%1\" class=\"pjaxload\">here</a>. Please be aware of all costs and charges that apply to you because they will affect your profitability."
 msgstr "O nossos custos e encargos para depósitos e retiradas de fundos estão definidos <a href=\"%1\" class=\"pjaxload\">aqui</a>. Tome nota de todos os custos e encargos que são aplicáveis a você, porque estes irão afetar os seus lucros."
 
@@ -4563,7 +4452,6 @@ msgstr "Mais de 3 anos"
 msgid "Over 5 years"
 msgstr "Over 5 years"
 
-#. (url_for('/careers')
 msgid "Over 90 <a href=\"%1\">staff</a> and contractors worldwide"
 msgstr "Mais de 90 <a href=\"%1\">funcionários</a> e colaboradores em todo o mundo"
 
@@ -4582,7 +4470,6 @@ msgstr "Supervisionar repostas a incidentes nos nossos servidores de produção 
 msgid "Ownership"
 msgstr "Propriedade"
 
-#. (website)
 msgid "Ownership and content of the %1 website remains our respective properties and shall not be deemed to have been transferred to you through any act or omission in respect of this Agreement."
 msgstr "A posse e o conteúdo do site %1 permanecem as nossas respectivas propriedades e não serão consideradas como terem sido cedidos a você através de qualquer ato ou omissão relativamente a este Acordo."
 
@@ -4715,7 +4602,6 @@ msgstr "Confirme a negociação no seu extrato antes de continuar."
 msgid "Please confirm the transaction details in order to complete the transfer:"
 msgstr "Confirme os detalhes da transação para concluir a transferência:"
 
-#. (affiliate_email)
 msgid "Please contact us with whatever is on your mind at <a href=\"mailto:%1\">%1</a>. We’d be happy to hear from you and willing to assist you. So, feel free to share your ideas and suggestions with us."
 msgstr "Contate-nos para expor as suas questões, quaisquer que sejam, através de <a href=\"mailto:%1\">%1</a>. Teremos todo o prazer de receber os seus comentários e estamos prontos para ajudá-lo. Portanto, sinta-se à vontade para compartilhar as suas ideias e sugestões conosco."
 
@@ -4770,11 +4656,9 @@ msgstr "Note que, devido à sua natureza e conexão com os mercados de balcão, 
 msgid "Please note that our website generates log files that record the IP addresses of accesses to your account. This information is gathered with the sole purpose of assisting in the unlikely event of a need to investigate accesses to your account by unauthorised users. Additionally we may verify certain of the information you supply in the account opening form, or otherwise, with third-party information providers."
 msgstr "Por favor, note que a nossa página Web gera arquivos de registro que gravam os endereços IP dos acessos à sua conta. Esta informação é recolhida com o único propósito de ajudar no caso improvável de uma necessidade de investigação de acessos à sua conta por parte de utilizadores não autorizados. Além disso, poderemos verificar certas informações que tenha fornecido no formulário de abertura de conta, ou de alguma outra forma, junto de prestadores de informações externos."
 
-#. (broker_name)
 msgid "Please note that weekend quotes are ignored for the purpose of contract settlement. During weekends, the forex markets may occasionally generate prices, however these prices are often artificial (traders sometimes take advantage of the illiquidity of the markets during weekends to push up or down prices). To avoid settling prices based on such artificial prices, it is %1's policy not to count weekend prices towards contract settlement values (except for the volatility indices, which are open during weekends)."
 msgstr "Por favor, note que as cotações ao fim-de-semana são ignoradas para fins de liquidação de contratos. Durante a semana, os mercados forex podem, ocasionalmente, gerar preços; no entanto, estes preços são frequentemente artificiais (os negociadores, por vezes, beneficiam da falta de liquidez dos mercados durante os fins-de-semana para forçar os preços a subir ou a descer). Para evitar a liquidação de preços com base nesses preços artificiais, é política da %1 não contar os preços do fim-de-semana nos valores de liquidação de contratos (exceto em índices de volatility, que estão abertos durante os fins-de-semana)."
 
-#. (website)
 msgid "Please note that you may update your personal information at any time by logging into the \"Settings\" section of your account. It is your responsibility to ensure that %1 is promptly and continually informed of any change in your personal information."
 msgstr "Por favor, note que pode atualizar as suas informações pessoais a qualquer momento entrando na seção \"Definições\" da sua conta. É da sua responsabilidade garantir que a %1 seja informada de forma imediata e contínua de quaisquer alterações às suas informações pessoais."
 
@@ -4808,7 +4692,6 @@ msgstr "Especifique o seu intervalo preferido para o balanço da realidade em mi
 msgid "Please submit a valid %1."
 msgstr "Insira um %1 válido."
 
-#. (stash->{affiliate_email})
 #, fuzzy
 #| msgid "Please submit the above information to <a href='mailto:affiliates@binary.com'>affiliates@binary.com</a>."
 msgid "Please submit the above information to <a href='mailto:%1'>%1</a>."
@@ -5039,7 +4922,6 @@ msgstr "Redigite a sua senha"
 msgid "Read"
 msgstr "Ler"
 
-#. (stash->{website_name})
 msgid "Read about the five types of trade offered by %1."
 msgstr "Saiba mais sobre os cinco tipos de negociações oferecidos pela %1."
 
@@ -5103,7 +4985,6 @@ msgstr "A Regent Markets recebe financiamento para fornecer serviços de apostas
 msgid "Regent Markets sets up a programming centre in Cyberjaya, Malaysia"
 msgstr "A Regent Markets inicia um centro de programação em Cyberjaya, Malásia"
 
-#. (('http://www.regentpac.com/ICMServlet/download/13-1907-3066/EAnnt-ThirdPartiesSale(04Mar2015)
 msgid "Regent Pacific Group Ltd., the Hong Kong-listed founding shareholder of Binary.com, <a href=\"%1\" target=\"_blank\">disposes of its stake</a> at a valuation of US$ 50.5 million."
 msgstr "A Regent Pacific Group Ltd., acionista fundadora da Binary.com, cotada na Bolsa de Hong Kong, <a href=\"%1\" target=\"_blank\">aliena a sua participação</a>, valorizada em US$ 50,5 milhões."
 
@@ -5188,11 +5069,9 @@ msgstr "Clientes não profissionais"
 msgid "Return"
 msgstr "Prêmio"
 
-#. (url_for('trading?market=forex&formname=risefall')
 msgid "Returns above 100% on simple <a href='%1' class='pjaxload'>rise/fall</a> contracts."
 msgstr "Retorno de cerca de 100% em contratos simples <a href='%1' class='pjaxload'>Em Alta/Em Queda</a> ."
 
-#. (url_for('trading?market=forex&formname=higherlower')
 msgid "Returns above 1000% on <a href='%1' class='pjaxload'>higher/lower</a> and <a href='%2' class='pjaxload'>touch/no-touch</a> trades."
 msgstr "Retornos acima de 1000% nas negociações<a href='%1' class='pjaxload'>em Alta/em Baixa</a> e <a href='%2' class='pjaxload'>toca/não toca</a>."
 
@@ -5280,7 +5159,6 @@ msgstr "Âmbito e intenção"
 msgid "Score"
 msgstr "Classificação"
 
-#. (broker_name)
 msgid "Seasoned traders can use the %1 platform for the full advantage of the wide range of trading and analysis tools we have on offer."
 msgstr "Os negociadores experientes podem usar a plataforma %1 para tirarem pleno partido da ampla oferta de ferramentas de negociação e análise existente."
 
@@ -5404,7 +5282,6 @@ msgstr "Se algum cliente, em nome de quem você esteja a receber comissões, pro
 msgid "Should these expenses not be covered by funds in your account we reserve the right to investigate other alternative means for obtaining payment, for example: should your account have generated purchasing accounts, we will hold payment of commission for these accounts until such a time as the account for damages has been cleared."
 msgstr "Caso as despesas não sejam cobertas por fundos na sua conta, reservamo-nos o direito de investigar outros meios alternativos para obtermos o pagamento, por exemplo: se a sua conta tiver gerado contas de compras, iremos reter o pagamento da comissão dessas contas até ao momento em que a conta de prejuízos tenha sido saldada."
 
-#. (url_for('contact')
 msgid "Should you need help or support, please contact our <a href=\"%1\">Customer Service department</a> and one of our representatives will assist you as soon as possible."
 msgstr "Caso precise de ajuda ou apoio, por favor contate o nosso <a href=\"%1\">Departamento de Apoio ao Cliente</a> e um dos nossos representantes irá atendê-lo o mais rápido possível."
 
@@ -5423,14 +5300,12 @@ msgstr "Experiência relevante em Mídia Social, Marketing e / ou Publicidade"
 msgid "Simplicity"
 msgstr "Simplicidade"
 
-#. (stash->{website_name})
 msgid "Simply change any of your parameters and the trade price instantly changes, giving you real-time knowledge of your stake. %1 ensures fair and transparent pricing by showing you both sides of the trade."
 msgstr "Simplesmente mude qualquer parâmetro e o preço muda instantaneamente, oferecendo informações sobre a sua negociação em tempo-real. A %1 garante preços justos e transparentes, mostrando os dois lados da sua negociação."
 
 msgid "Simply click on \"Create\" to generate your token; then copy and paste it into the app."
 msgstr "Basta clicar em \"Criar\" para gerar o seu token; depois copie-o e cole-o no aplicativo."
 
-#. (stash->{website_name})
 msgid "Since all dealing on the %1 website is fully automated, our pricing and risk management algorithms must take full account of real-time pricing parameters, data feed irregularities and latencies."
 msgstr "Uma vez que toda a atividade no site da %1 é totalmente automatizada, os nossos algoritmos de apreçamento e gerenciamento de risco devem tomar plena conta dos parâmetros de preço em tempo real, irregularidades nos feeds de dados e latências."
 
@@ -5533,7 +5408,6 @@ msgstr "Conteúdo estático"
 msgid "Status"
 msgstr "Estado"
 
-#. (stash->{website_name})
 msgid "Stay informed. %1 offers daily market reports and market research, as well as frequent trading webinars."
 msgstr "Mantenha-se informado. A %1 oferece relatórios diários sobre mercados e pesquisas de mercado, assim como webinars frequentes."
 
@@ -5705,7 +5579,6 @@ msgstr "Termos e Condições"
 msgid "Tertiary"
 msgstr "Ensino Superior"
 
-#. (stash->{website_name})
 msgid "Test-run %1, and sharpen your trading skills, with a no-risk, no-commitment, virtual account."
 msgstr "Experimente a %1 e melhore as suas habilidades de negociação com a nossa conta virtual, livre de riscos e sem compromissos."
 
@@ -5715,15 +5588,12 @@ msgstr "Qui"
 msgid "Thank you for signing up! Please check your email to retrieve the verification token."
 msgstr "Obrigado por se cadastrar! Verifique a sua caixa de entrada para obter o token de verificação."
 
-#. (stash->{website_name})
 msgid "The %1 Quantitative Analytics group is responsible for the pricing of binary options offered on our website, as well as the risk management and profitability of its options book. Processing over a million transactions each day, the company manages a book of exotic options which arguably exceeds in complexity that of the typical derivatives desk."
 msgstr "O grupo de análise quantitativa da %1 é responsável pelo apreçamento das opções binárias disponibilizadas no site, bem como pelo gerenciamento de risco e rentabilidade da sua carteira de opções. Processando mais de um milhão de transações por dia, a empresa gere uma carteira de opções exóticas que provavelmente excede em termos de complexidade aquela de uma corretora de derivados típica."
 
-#. (website)
 msgid "The %1 website is protected by certain copyrights."
 msgstr "O website da %1 está protegido por determinados direitos de autor."
 
-#. (stash->{website_name})
 msgid "The <span itemprop=\"brand\">%1</span> service (formerly known as BetOnMarkets.com) is owned and operated by Binary Ltd. Fully licensed and regulated, %1 has been providing financial trading to a worldwide audience of over 1,000,000 accounts since <span itemprop=\"foundingdate\">1999</span>"
 msgstr "O serviço da <span itemprop=\"brand\">%1</span> (antigamente chamado de BetOnMarkets.com) é detido e operado pela Binary Ltd. Totalmente licenciada e regulamentada, a %1 tem disponibilizado negociações financeiras a um público mundial com mais de 1.000.000 contas desde <span itemprop=\"foundingdate\">1999</span>"
 
@@ -5772,7 +5642,6 @@ msgstr "A política de privacidade e segurança da Binary.com;"
 msgid "The Binary.com Terms and Conditions;"
 msgstr "Os termos e condições da Binary.com"
 
-#. ('https://github.com/binary-com/binary-static')
 msgid "The Binary.com website’s static content (CSS, Javascript) is available as the <a target=\"_blank\" href=\"%1\">binary-static</a> open-source project on github. Would you like to re-skin the Binary.com website, or improve browser compatibility, site rendering speed, or Javascript performance? Please fork the project and submit pull-requests of your suggested code changes."
 msgstr "O conteúdo estático do site Binary.com (CSS, Javascript) está disponível como <a target=\"_blank\" href=\"%1\">binary-static</a>, projeto open source no github. Você gostaria de recriar o site Binary.com ou melhorar a compatibilidade dos navegadores, aumentar a velocidade do site ou a performance Javascript? Por favor desenhe o projeto e envie o pedido com as suas sugestões de mudança nos códigos."
 
@@ -5791,7 +5660,6 @@ msgstr "A empresa não se responsabiliza por quaisquer perdas ou danos de qualqu
 msgid "The Company is not under any obligation of confidentiality with respect to the Contributions;"
 msgstr "A empresa não se encontra sob qualquer obrigação de confidencialidade em relação às contribuições;"
 
-#. (website)
 msgid "The Company makes no claims that the %1 website will be uninterrupted or provide an error free service, and will not be liable for the consequences of any such errors or interruptions."
 msgstr "A Empresa não afirma que o site %1 permanecerá ininterrupto, ou que fornecerá um serviço isento de erros, nem será responsável pelas consequências de tais erros ou interrupções."
 
@@ -5816,7 +5684,6 @@ msgstr "A empresa pode usar ou divulgar (ou escolher não usar nem divulgar) tai
 msgid "The Company may, from time to time, at its sole discretion, or as required by regulations in place to conduct appropriate \"Know Your Customer\" procedures and require a Client to provide proof of identity (such as notarized copy of passport or other means of identity verification as the Company deems required under the circumstances) and may at its sole discretion suspend an account until satisfactory identification information, evidence of identity and address, source of funds and/or source of wealth have been provided. Know Your Customer documentation will be required when a Client deposits money in the account. In the case of a client opening an account with Binary (Europe) Ltd, the threshold for verifying clients is on cumulative withdrawals of EUR 2,300."
 msgstr "A empresa pode, ocasionalmente e a seu exclusivo critério, ou conforme exigido por regulamentos em vigor para a efetuação de procedimentos de \"Conhecer o cliente\" apropriados, pedir aos clientes que forneçam prova da sua identidade (tal como uma cópia autenticada do passaporte ou outro meio de verificação de identidade que a Empresa considere necessário, segundo as circunstâncias) e pode, a seu exclusivo critério, suspender uma conta até que informações de identificação satisfatórias, comprovantes de identidade e endereço, fontes de fundos e/ou riqueza tenham sido fornecidas. A documentação \"Conhecer o cliente\" será necessária quando os clientes abrirem uma conta junto da Binary (Europe) Ltd, o limite para a verificação reside em retiradas cumulativas de fundos que atingem EUR 2.300."
 
-#. (website)
 msgid "The Company provides the %1 website on an “as is” and “as available” basis, and gives no warranty that the %1 website will be free of errors, or that errors will be corrected, or that our website is free of any third party interferences such as hackers or any other harmful components that arise outside of the Company’s control."
 msgstr "A Empresa fornece o site %1 numa base \"conforme se encontra\" e \"conforme disponibilizado\" e não garante que o site %1 estará livre de erros ou que os erros serão corrigidos, ou que o nosso site está livre de quaisquer interferências de terceiros, tais como hackers ou quaisquer componentes nocivos que surgirem sem o nosso controle."
 
@@ -5976,7 +5843,6 @@ msgstr "A comissão que você irá cobrar aos clientes para depósitos e retirad
 msgid "The company does not guarantee the ability to sell a contract prior to its expiration time."
 msgstr "A Empresa não garante a capacidade de vender um contrato antes do seu termo."
 
-#. (request.url_for("cashier/payment_methods"))
 msgid "The company has various deposit methods available, each with their own timing for deposits, some of which might not be available for withdrawals. Full details of deposits and withdrawals methods available including settlement times are available <a href='%1' class='pjaxload'>here:</a>"
 msgstr "A empresa disponibiliza vários métodos de depósito, cada um com o seu prazo para depósitos, alguns dos quais podem não estar disponíveis para retiradas. Informações completas sobre os métodos de depósito e retirada disponíveis, incluindo prazos de liquidação, estão disponíveis <a href='%1' class='pjaxload'>aqui:</a>"
 
@@ -5992,7 +5858,6 @@ msgstr "A Empresa reserva-se o direito de cancelar/proibir o uso desta promoçã
 msgid "The company reserves the right to charge a dormant fee of up to USD/EUR/AUD/GBP25 every 6 months for every Client account that has had no transaction recorded for over 12 months. If a Client's account is with Binary (Europe) Ltd., and his account has had no activity for a period of thirty months, and the Client cannot be located or contacted, the Company shall remit the balance of the account to the Malta Gaming Authority. Clients need to contact our helpdesk to recover funds from inactive, closed, blocked or excluded accounts."
 msgstr "A empresa reserva o direito de cobrar uma taxa de inatividade de até USD/EUR/AUD/GBP25 a cada 6 meses para cada conta de cliente que não tiver uma transação registrada durante 12 meses. Se uma conta de um cliente estiver registrada na Binary (Europe) Ltd. e a sua conta não tiver tido atividade durante um período de trinta meses, e o cliente não puder ser localizado ou contatado, a Empresa remeterá o saldo para a Autoridade de Jogos de Malta. Os clientes necessitam contatar o nosso suporte ao usuário para recuperar fundos de contas inativas, encerradas, bloqueadas ou excluídas."
 
-#. (website)
 msgid "The content on this website is subject to change at any time without notice and is provided for the sole purpose of assisting traders in making independent investment decisions. %1 has taken reasonable measures to ensure the accuracy of the information on the website, however, we do not guarantee its accuracy and will not accept liability for any loss or damage which may arise directly or indirectly from the content or your inability to access the website, for any delay in or failure of the transmission or the receipt of any instruction or notification sent through this website."
 msgstr "O conteúdo deste site está sujeito a alterações em qualquer momento sem pré-aviso e destina-se exclusivamente a prestar assistência aos negociadores na tomada de decisões de investimento independentes. A %1 tomou medidas razoáveis para garantir a exatidão das informações no site. No entanto, não garantimos a sua exatidão e não aceitaremos responsabilidade por qualquer perda ou dano que possam resultar direta ou indiretamente do conteúdo ou da sua incapacidade de aceder a este site, por qualquer atraso ou falha na transmissão ou recepção de qualquer instrução ou notificação enviada através deste site."
 
@@ -6032,7 +5897,6 @@ msgstr "Os serviços de negociação financeira contidos neste site são adequad
 msgid "The financial trading services contained within this site are only suitable for customers who are able to bear the loss of all the money they invest and who understand and have experience of the risk involved in the acquistion of financial contracts. Transactions in financial contracts carry a high degree of risk. If purchased contracts expire worthless, you will suffer a total loss of your investment, which consists of the contract premium."
 msgstr "Os serviços de negociação financeira contidos neste site são adequados apenas para clientes que sejam capazes de suportar a perda de todo o dinheiro que investem e que entendem e têm experiência nos riscos envolvidos na aquisição de contratos financeiros. As transações em contratos financeiros têm um elevado grau de risco. Se os contratos adquiridos finalizarem sem valor, você sofrerá uma perda total do seu investimento, que consistirá no prêmio do contrato."
 
-#. (url_for('/')
 msgid "The first step is to open an account. You can <a target='_blank' href='%1'>apply online</a> in just a few minutes."
 msgstr "O primeiro passo é abrir uma conta. Você pode <a target='_blank' href='%1'>inscrever-se online</a> em apenas poucos minutos."
 
@@ -6042,7 +5906,6 @@ msgstr "A primeira coisa a fazer é escolher o ativo que você deseja negociar, 
 msgid "The first tick is the first tick after the contract is processed by our servers."
 msgstr "O primeiro tique-taque é o primeiro movimento depois que o contrato é processado pelos nossos servidores."
 
-#. (request.website.display_name)
 msgid "The future of trading on %1"
 msgstr "O futuro das negociações na %1"
 
@@ -6058,7 +5921,6 @@ msgstr "A perda de USD 306 é a diferença entre o nível de saída e de entrada
 msgid "The market exit price is the price in effect at the end of the contract period."
 msgstr "O preço de saída do mercado é o preço em vigor no momento do fim do contrato."
 
-#. (SITENAME)
 msgid "The materials comprising the %1 website (including without limitation all articles, text, images, logos, compilation, systems, code and design) are Copyright 1999-<span class='currentYear'></span> Binary Group of companies. All rights reserved."
 msgstr "Os materiais que compõem o site da %1 (incluindo, sem limitação, todos os artigos, textos, imagens, logótipos, compilação, sistemas, código e design) estão protegidos por direitos de autor de 1999-<span class='currentYear'></span> do Grupo de empresas Binary. Todos os direitos reservados."
 
@@ -6128,7 +5990,6 @@ msgstr "Os índices de volatilidade simulam várias situações de mercados reai
 msgid "Then, make your trade"
 msgstr "Então, faça a sua negociação"
 
-#. (website)
 msgid "There are risks associated with utilizing an Internet-based deal execution trading system, including but not limited to the failure of hardware, software and Internet connection. Since %1 does not control signal power, its reception or routing via Internet, configuration of your equipment or reliability of its connection, we cannot be responsible for communication failures, distortions or delays when trading via the Internet."
 msgstr "Existem riscos associados à utilização de um sistema de negociação de execução de negócios baseado na Internet, incluindo, mas não exclusivamente, falhas de hardware, software e de ligação à Internet. Uma vez que a %1 não controla a potência do sinal, a sua recepção ou roteamento via Internet, a configuração do seu equipamento ou fiabilidade da sua ligação, não podemos ser responsáveis por falhas de comunicação, distorções ou atrasos durante a negociação por meio da Internet."
 
@@ -6262,7 +6123,6 @@ msgstr "É esta razão por qual estamos agora recrutando testadores adicionais p
 msgid "This notice does not explain all of the risks involved in investments or similar products or how such risks relate to your personal circumstances. It is important that you fully understand the risks involved before making a decision to enter into or sell an investment product or gambling product with us. If you are in any doubt about the risks involved with Investment Products or Gambling Products, you should seek professional advice."
 msgstr "Este aviso não explica todos os riscos relacionados com produtos de investimento ou semelhantes, nem como tais riscos se relacionam com as suas circunstâncias pessoais. É importante que você compreenda plenamente os riscos envolvidos antes de tomar uma decisão sobre a celebração ou venda de contratos de produtos de investimento ou de jogo conosco. Se você tiver dúvidas sobre os riscos relacionados com produtos de investimento ou de jogo, deverá procurar aconselhamento profissional."
 
-#. (website)
 msgid "This notice provides you with information about the risks associated with investment contracts, which you may invest in through services provided to you through %1. Binary Group provides a wide range of products including Binary Options relating to foreign exchange, indices, stocks and other investment products (\"Investment Products\") and binary bets such as those relating to the Random Markets (\"Gambling Products\")."
 msgstr "Este aviso fornece-lhe informações sobre os riscos associados a contratos de investimento, nos quais você pode investir através de serviços fornecidos pela %1. O Binary Group disponibiliza uma vasta gama de produtos, incluindo opções binárias relacionadas com divisas estrangeiras, índices, ações e outros produtos de investimento (\"Produtos de Investimento\") e apostas binárias, tais como essas relacionadas com os Mercados de Randoms (\"Produtos de Jogo\")."
 
@@ -6278,7 +6138,6 @@ msgstr "Esta página Web contém links para outras páginas Web e pode conter an
 msgid "This website does not collect personally identifying information about you except when you specifically and knowingly provide it. There is a technology called \"cookies\" which can be used to provide tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. If you do not accept the cookie, then you will need to input your loginID and password again at every form required to enter into the system. You are advised to choose this option if you have concerns about the security of your personal browser or PC."
 msgstr "Esta página Web não recolhe informações de identificação pessoal sobre si, exceto quando você as fornecer de forma específica e intencional. Há uma tecnologia chamada \"cookies\", que pode ser utilizada para fornecer informações personalizadas a partir de uma página Web. Um cookie é um elemento de dados que uma página Web pode enviar para o seu browser, o qual poderá em seguida armazená-lo no seu sistema. Pode configurar o seu browser para notificá-lo quando receber um cookie, dando-lhe a oportunidade de decidir se deseja aceitá-lo. Se não aceitar o cookie, terá então de introduzir o seu ID de início de sessão e senha novamente em todos os formulários necessários para entrar no sistema. Aconselhamo-lo a escolher esta opção se tiver preocupações relativas à segurança do seu PC ou browser."
 
-#. ("https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39172", "https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39495")
 msgid "This website is marketed in the UK and Isle of Man by Binary (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles, licenced and regulated by (1) the Gambling Supervision Commission in the Isle of Man, British Isles, current online gambling licence issued on 31 August 2012, and for UK clients by (2) the UK Gambling Commission - <a href='%1' target='_blank'>view license</a>. This website is marketed in the rest of the EU, for investment products by Binary Investments (Europe) Ltd., Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta, licenced and regulated as a Category 3 Investment Services provider by the Malta Financial Services Authority (license no. IS/70156), and for gaming products by Binary (Europe) Ltd., Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta, licenced and regulated by (1) the Malta Gaming Authority in Malta, licence no MGA/CL2/118/2000, 26th May 2015 and for UK clients by (2) the UK Gambling Commission - <a href='%2' target='_blank'>view license</a>, and for Irish clients by (3) the Revenue Commissioners in Ireland, current remote bookmaker's licence issued on 29 September 2015 (licence no 1010285). This website's services are not made available in the USA, Japan, Costa Rica or Hong Kong, or to persons under age 18."
 msgstr "Este site é comercializado no Reino Unido e na Ilha de Man pela Binary (IOM) Ltd., First Floor, Millennium House, Victoria Road, Douglas, IM2 4RW, Isle of Man, British Isles, licenciada e regulamentada pela (1) Comissão de Supervisão ao Jogo da Ilha de Man, Ilhas Britânicas, licença de jogo online atual emitida em 31 de Agosto de 2012, e para os clientes do Reino Unido pela (2) Comissão de Apostas do Reino Unido - <a href='%1' target='_blank'>ver licença</a>. Este site é comercializado no resto da União Europeia, para produtos de investimento pela Binary Investments (Europe) Ltd., Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta, licenciada e regulada como uma prestadora de serviços de investimento de categoria 3 pela Malta Financial Services Authority (Autoridade de Serviços Financeiros de Malta - licença IS/70156), e para produtos de jogo pela Binary (Europe) Ltd., Mompalao Building, Suite 2, Tower Road, Msida MSD1825, Malta, licenciada e regulamentada pela (1) Malta Gaming Authority (Autoridade de Jogo de Malta) em Malta, licença MGA/CL2/118/2000, de 26 de maio de 2015 e para os clientes do Reino Unido pela (2) Comissão de Apostas do Reino Unido - <a href='%2' target='_blank'>ver licença</a>, e para clientes irlandeses pelo (3) o departamento dos impostos (Revenue Commissioners) na Irlanda, licença de casa de apostas remota atual emitida a 29 de setembro de 2015 (licença n.º 1010285).  Os serviços deste site não estão disponíveis nos EUA, Japão, Costa Rica ou Hong Kong e para pessoas menores de 18 anos."
 
@@ -6321,7 +6180,6 @@ msgstr "Para ser candidato(a) para esta função de liderança crítica para a m
 msgid "To begin Binary option trading, you will first need to read all these documents carefully to understand the structure, risk and other important things. Please confirm that you have read and understood the documents listed below checking the box. If you have any questions, please contact our customer support."
 msgstr "Para iniciar a negociação de opções binárias na Binary.com, você irá necessitar primeiro ler todos estes documentos cuidadosamente para compreender a estrutura, o risco e outros assuntos importantes. Confirme, por favor, que você leu e entendeu os documentos listados abaixo ao marcar a caixa de seleção. Se tiver quaisquer perguntas, entre em contato com o nosso apoio ao cliente."
 
-#. (request.url_for("contact"))
 msgid "To change your name, date of birth, country of residence, or email, please contact <a href=\"%1\">Customer Support</a>."
 msgstr "Para alterar o seu nome, data de nascimento, país de residência ou endereço de e-mail, contate o <a href=\"%1\">Apoio ao cliente</a>."
 
@@ -6388,7 +6246,6 @@ msgstr "Negocie nos mercados financeiros mundiais numa plataforma simples e fác
 msgid "Trade only with money you can afford to lose. Do not trade with borrowed money."
 msgstr "Negocie apenas uma quantia de dinheiro que possa perder. Não jogue com dinheiro emprestado."
 
-#. (stash->{website_name})
 msgid "Trade with ease with %1's wide range of deposit and withdrawal methods. Your funds will be segregated and held in AAA-rated banks."
 msgstr "Negocie com facilidade a partir da ampla gama de métodos de depósito e retirada oferecidos pela %1. Os seus fundos são segregados e mantidos em bancos de classificação AAA."
 
@@ -6416,19 +6273,15 @@ msgstr "Limites de Negociação e de Retirada"
 msgid "Trading binaries is remarkably easy, and requires only 3 simple steps:"
 msgstr "Negociar binários é extremamente fácil e requer apenas 3 passos simples:"
 
-#. (request.url_for("responsible-trading"))
-#. (url_for('responsible-trading')
 msgid "Trading binary options may not be suitable for everyone, so please ensure that you fully understand the risks involved. Your losses can exceed your initial deposit and you do not own or have any interest in the underlying asset. In regards to binary options which are gambling products, remember that gambling can be addictive - please play responsibly. <span class=\"ja-hide\">Read about <a href=\"%1\" class=\"pjaxload\">Responsible Trading</a>.</span>"
 msgstr "A negociação de opções binárias pode não ser apropriada para todos. Por essa razão, pedimos que se certifique de que compreenda totalmente todos os riscos envolvidos. As suas perdas podem exceder o seu depósito inicial e você não será titular de, nem possuirá interesses em, o ativo subjacente. Em relação a opções binárias que são produtos de jogo, lembre-se de que os jogos a dinheiro podem ser viciantes - jogue responsavelmente. <span class=\"ja-hide\">Leia sobre a <a href=\"%1\" class=\"pjaxload\">Negocião Responsável</a>.</span>"
 
-#. (website)
 msgid "Trading in Binary Options is speculative and involves a high degree of risk that can result in the loss of your entire investment. Therefore, trading in Binary Options is appropriate only for persons that understand and are willing to assume the economic, legal and other risks involved in such transactions. You should be satisfied that Binary Options trading is suitable for you in light of your investment circumstances and attitude towards risk before trading. You should not engage in speculative Binary Options trading unless you understand the basic aspects of such trading and its risks. If you are in any doubt as to whether Binary Option trading is appropriate and suitable for you, please seek independent advice from a investment consulting professional. %1 does not provide such advice. It is your responsibility, taking into account your personal circumstances and investment resources, to take particular care and make careful considerations independently, both prior to applying to engage in Binary Options with %1, as well as prior to making any individual order. Where you do not understand the risks involved in applying for a trading account with %1 or in making any individual order, you should seek advice and consultation from an independent investment advisor. If you continue to not understand the risks involved in trading in Binary Options, you should not trade at all."
 msgstr "A negociação de opções binárias é especulativa e envolve um alto grau de risco que pode resultar na perda total do seu investimento. Portanto, a negociação de opções binárias é apropriada apenas para pessoas que compreendem e que estão dispostas a assumir os riscos econômicos, legais e outros envolvidos em tais transações. Antes de começar a negociar, você deveria estar convencido de que a negociação de opções binárias é apropriada para si, tendo em conta as suas circunstâncias de investimento e atitude perante riscos. Não se envolva em negociações especulativas de opções binárias a menos que compreenda os elementos básicos de tais negociações e os seus riscos. Se você tiver quaisquer dúvidas sobre a adequação das negociações de opções binárias para si, procure aconselhamento independente de um consultor de investimentos profissional. A %1 não presta tais serviços. É da sua responsabilidade, levando em conta as suas circunstâncias pessoais e recursos para investimento, ser particularmente cuidadoso e tomar decisões cuidadosas independentemente, tanto antes de se inscrever para se envolver com opções binárias na %1, bem como antes de realizar uma ordem individual. Nos casos em que você não compreenda os riscos envolvidos na inscrição para uma conta de negociação na %1 ou na realização de uma ordem individual, deverá procurar aconselhamento e consultoria de um consultor profissional independente. Se você continuar a não compreender os riscos envolvidos na negociação de opções binárias, não deveria negociar de modo algum."
 
 msgid "Trading manual"
 msgstr "Guia de negociação"
 
-#. (request.url_for("contact"))
 msgid "Trading the financial markets can become addictive. Fill in the form below to limit your participation on the website or send a signed letter or fax to our customer support team. Once set, you can only tighten your limits. Limits will only be removed or loosened after 7 days with the exception of the self-exclusion date, which cannot be removed or altered once you have confirmed it. To remove or increase your limits, please contact <a href=\"%1\">customer support</a>."
 msgstr "A negociação em mercados financeiros pode criar dependência. Preencha o formulário abaixo para limitar a sua participação no nosso site ou envie uma carta ou fax assinado para a nossa equipe de apoio ao cliente. Uma vez definidos, você só poderá apertar os seus limites. Os limites só serão removidos ou desapertados após 7 dias com exceção da data de auto-exclusão, que não pode ser removida ou alterada uma vez que você a confirmou. Para remover ou aumentar os seus limites, contate o <a href=\"%1\">apoio ao cliente</a>."
 
@@ -6525,7 +6378,6 @@ msgstr "Em nenhuma circunstância pode a empresa, ou o seu diretores ou funcion�
 msgid "Under the Rules, clients may be categorised into one of the following three categories:"
 msgstr "De acordo com as regras, os clientes podem ser categorizados em uma das três categorias seguintes:"
 
-#. (stash->{website_name})
 msgid "Under the supervision of %1’s Translation Project Manager, you will:"
 msgstr "Sob a supervisão da gerente de projetos de tradução da %1, você irá:"
 
@@ -6718,7 +6570,6 @@ msgstr "O nosso objetivo é estabelecer, manter e operar mecanismos administrati
 msgid "We aim to keep a record of the kinds of activity we carry on in which a material conflict could arise or has arisen. We also maintain procedures to manage actual or potential conflicts. This includes procedures to maintain appropriate independence between members of our staff who are involved in potentially conflicting activities, for example, through the operation of information barriers, physical separation of staff, the segregation of duties and responsibilities and maintenance of a policy of independence which requires our staff, when providing services to a client, to act in the best interests of the client and to disregard any conflicts of interest; and, in some circumstances declining to act for a client or potential client."
 msgstr "O nosso objetivo é manter um registro dos tipos de atividades que desenvolvemos em que um conflito material possa surgir ou tenha surgido. Também mantemos procedimentos para gerenciar conflitos reais ou potenciais. Isto inclui procedimentos para manter independência apropriada entre membros do nosso pessoal que estejam envolvidos em atividades potencialmente conflitantes, por exemplo, através da operação de barreiras de informação, separação física de pessoal, a segregação de funções e responsabilidades e manutenção de uma política de independência que obriga os nossos funcionários, ao prestarem serviços a um cliente, a agir nos melhores interesses do cliente e dispensar quaisquer conflitos de interesse; e, em certas circunstâncias, recusar agir em nome de um cliente ou um potencial cliente."
 
-#. (affiliate_email)
 msgid "We also offer specialized pay-out structures to affiliates who offer a trading advice in connection with, and in relation to our commodities. <a href=\"mailto:%1\">Contact our affiliate manager, Karen Yap for details</a>."
 msgstr "Também disponibilizamos estruturas de pagamento especializadas para afiliados que fornecem recomendações de negociação em conjunto com, e em relação às, nossas matérias-primas. <a href=\"mailto:%2\">Entre em contato com a nossa gestora de afiliados, Karen Yap, para mais detalhes</a>."
 
@@ -6746,11 +6597,9 @@ msgstr "Não podemos transmitir ao vivo os preços no momento. Para ver os preç
 msgid "We are not accepting accounts from residents of this country at the present time."
 msgstr "Não aceitamos atualmente contas de residentes deste país."
 
-#. ("http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx")
 msgid "We are required by our licence to inform you about what happens to funds which we hold on account for you, and the extent to which funds are protected in the event of insolvency <a href='%1' target='_blank'>%1</a>."
 msgstr "Nós somos obrigados por nossa licença à informá-lo sobre o que acontece com os fundos da sua conta que nós guardamos para você, e como esses fundos são protegidos em caso de insolvência <a href='%1' target='_blank'>%1</a>."
 
-#. ("http://www.gamblingcommission.gov.uk/Consumers/Protection-of-customer-funds.aspx")
 msgid "We are required by our license to inform you about what happens to funds which we hold on account for you, and the extent to which funds are protected in the event of insolvency <a href='%1' target='_blank'>%1</a>."
 msgstr "Nós somos obrigados por nossa licença à informá-lo sobre o que acontece com os fundos da sua conta que nós guardamos para você, e como esses fundos são protegidos em caso de insolvência <a href='%1' target='_blank'>%1</a>."
 
@@ -6772,7 +6621,6 @@ msgstr "Nós temos o dever geral de realizar negócios com você de forma honest
 msgid "We have a proven track record since starting in 2000."
 msgstr "Nós temos um histórico comprovado desde o início, em 2000."
 
-#. (affiliate_email)
 msgid "We have a tested and proven selection of banners, links, reviews, newsletters, videos, and text ads for your use. Additionally, we have flash banners which you can grab through your affiliate account. If you would like customized tools, or an item currently not offered on the site, please contact your account manager at: <a href=\"mailto:%1\">%1</a>."
 msgstr "Temos uma seleção testada e comprovada de banners, links, comentários, newsletters, vídeos e anúncios de texto para a sua utilização. Além disso, temos banners em flash que você pode obter por meio da sua conta de associado. Se quiser ferramentas personalizadas ou um item não oferecido atualmente no site, por favor entre em contacto com seu gestor de conta em: <a href=\"mailto:%1\">%1</a>."
 
@@ -6797,7 +6645,6 @@ msgstr "Proibimos o uso de quaisquer incentivos, ofertas ou pagamentos não auto
 msgid "We provide here a summary of the policy we maintain in order to manage conflicts of interest in respect of the duties we owe to our clients."
 msgstr "Disponibilizamos aqui um resumo da política que mantemos para o gerenciamento de conflitos de interesse em relação aos deveres que temos para com os nossos clientes."
 
-#. (url_for("/")
 msgid "We rebrand BetOnMarkets.com as <a target=\"_blank\" href=\"%1\">www.binary.com</a>. The rebranding is a natural evolution for the platform as it continues to grow market share in the highly competitive field of binary trading. The new brand reflects the nature of the business, and our new tagline – Sharp Prices, Smart Trading – communicates our ethos and commitment to our clients."
 msgstr "Nós renomeamos a BetOnMarkets.com como <a target=\"_blank\" href=\"%1\">www.binary.com</a>. A mudança no nome da marca é uma evolução natural para a plataforma que continua a aumentar a sua quota no mercado altamente competitivo de negociação binária. A nova marca reflete a natureza do nosso negócio, e o nosso slogan - Preços afiados, negociações inteligentes - comunica a nossa ética e compromisso com os nossos clientes."
 
@@ -6870,7 +6717,6 @@ msgstr "O que são os índices e as ações OTC?"
 msgid "What commission plan do you offer?"
 msgstr "Qual é o plano de comissões oferecido?"
 
-#. (broker_name)
 msgid "What is the %1 affiliate program?"
 msgstr "O que é o programa de afiliados da %1?"
 
@@ -6886,7 +6732,6 @@ msgstr "Que outros relatórios posso criar?"
 msgid "What our clients are saying"
 msgstr "O que os nossos clientes dizem"
 
-#. (stash->{website_name})
 msgid "Whatever your market view or strategy, %1 provides you with the right trade to profit from your prediction. Choose from five ways to trade:"
 msgstr "Independentemente da sua perspectiva ou estratégia de mercado, a %1 proporciona-lhe a negociação certa para lucrar com a sua previsão. Escolha a partir de cinco formas de negociação:"
 
@@ -6917,7 +6762,6 @@ msgstr "Quando você for aprovado como afiliado, receberá tudo necessário para
 msgid "When you start trading with Binary.com, you’ll be directed to the trading screen, where you set your trading parameters, and choose what you want to trade, how and when."
 msgstr "Quando você começa a negociar com a Binary.com, será direcionado diretamente à tela de negociação, onde você pode definir os parâmetros das suas negociações e escolher o que você quer negociar, como e quando."
 
-#. (stash->{website_name})
 msgid "When you trade with %1, you can be assured that your deposits are held in a separate trust account and are not used for any other purpose."
 msgstr "Quando você negocia com a %1, pode ter a certeza de que os seus depósitos são mantidos em contas fiduciárias separadas e que não são usados para quaisquer outros fins."
 
@@ -6969,7 +6813,6 @@ msgstr "Seja em Malta ou na Malásia, você vai desfrutar de um alto padrão de 
 msgid "Who can apply to be a Payment Agent?"
 msgstr "Quem pode candidatar-se para ser um agente de pagamentos?"
 
-#. (broker_name)
 msgid "Who can be a client on the %1 platform?"
 msgstr "Quem pode ser cliente na plataforma da %1?"
 
@@ -6994,7 +6837,6 @@ msgstr "Por que nós?"
 msgid "Why do Clients choose to use Payment Agents?"
 msgstr "Por que os clientes escolhem usar agentes de pagamentos?"
 
-#. (stash->{website_name})
 msgid "Why limit yourself? Whatever your market view, %1 allows you to put your strategy to work and profit from your predictions."
 msgstr "Por que se limitar? Independentemente da sua perspectiva de mercado, a %1 permite-lhe pôr a sua estratégia a funcionar e lucrar com as suas previsões."
 
@@ -7004,7 +6846,6 @@ msgstr "Por que pagar mais?"
 msgid "Why should I become a binary options trading affiliate?"
 msgstr "Por que razão devo tornar-me afiliado de negociação de opções binárias?"
 
-#. (broker_name)
 msgid "Why should I become an affiliate with %1?"
 msgstr "Por que razão devo me tornar afiliado da %1?"
 
@@ -7029,27 +6870,21 @@ msgstr "Ganhar o Contrato"
 msgid "Winnings may only be paid to the initiator of an account. When a Client maintains an account by means of telegraphic deposits, winnings are only paid to the holder of the originating bank account, and it is the onus of the Client to ensure that account number and name accompany all transfers to the Company. When a Client maintains an account by means of credit/debit card deposits, winnings are only paid back to the same card."
 msgstr "Os ganhos só podem ser pagos ao iniciador de uma conta. Quando um Cliente mantém uma conta por meio de depósitos telegráficos, os ganhos são pagos apenas ao titular da conta bancária de origem, e é da responsabilidade do cliente garantir que o número e o nome da conta de acompanhe todas as transferências para a Empresa. Quando um Cliente mantém uma conta por meio de depósitos com cartão de crédito / débito, os ganhos só são pagos novamente para o mesmo cartão."
 
-#. (stash->{website_name})
 msgid "With %1 you can trade:"
 msgstr "Com a %1 é possível negociar:"
 
-#. (stash->{website_name})
 msgid "With %1 you’re in control of how much you can win. You specify a fixed payout amount at the outset, and your stake – what you pay – is then calculated. Binary.com offers payouts from $1 to $50,000."
 msgstr "Com a %1 você controla quanto pode ganhar. Você escolhe um prêmio fixo no início da sua negociação e a sua aposta (o que você paga) é então calculada. A Binary.com oferece pagamentos de $1 a $50,000."
 
-#. (stash->{website_name})
 msgid "With %1's unique platform, there's no risk of 'slippage' or gapping markets. And no hidden fees."
 msgstr "Com a plataforma única da %1, não há risco de \"derrapagem\" ou de mercados de espaçamento. E também não há taxas ocultas."
 
-#. (stash->{website_name})
 msgid "With %1, the most you can lose is the amount you stake at the start of your trade."
 msgstr "Com a %1, o máximo que você pode perder é o valor que você apostou no início da sua negociação."
 
-#. (stash->{website_name})
 msgid "With %1, you're in control. Simply fix your upside and your downside before every trade."
 msgstr "Com a %1 o controle é seu. Simplesmente fixe o seu máximo e o seu mínimo antes de todas as negociações."
 
-#. (stash->{website_name})
 msgid "With %1, your money is secure."
 msgstr "Com %1, o seu dinheiro está seguro."
 
@@ -7059,13 +6894,9 @@ msgstr "No que diz respeito ao acompanhamento dos clientes que acedem à Binary.
 msgid "Withdraw"
 msgstr "Retirar"
 
-#. (1)
 msgid "Withdraw: %1 working day"
 msgstr "Retirada: %1 dia útil"
 
-#. (5)
-#. (2)
-#. (3)
 msgid "Withdraw: %1 working days"
 msgstr "Retirada: %1 dias úteis"
 
@@ -7108,7 +6939,6 @@ msgstr "Limites escritos e auto-exclusão"
 msgid "Year"
 msgstr "Ano"
 
-#. (affiliate_email)
 msgid "Yes. Please email us at <a href=\"mailto:%1\">%1</a> for further assistance."
 msgstr "Sim. Envie um e-mail <a href=\"mailto:%1\">%1</a> para mais informações."
 
@@ -7139,7 +6969,6 @@ msgstr "Você e a Empresa são contratantes independentes, e nada no presente Ac
 msgid "You and your Application must also comply with the following, which are hereby incorporated by reference:"
 msgstr "Você e o seu aplicativo devem também cumprir o seguinte, que está, neste ato, incorporado por referência:"
 
-#. (website)
 msgid "You are advised that the Binary Options offered by %1 are not traded under the rules of any recognised, designated or regulated exchange. Consequently, engaging in Binary Options trading may expose you to substantially greater risks than investments which are so traded."
 msgstr "Lembramos você que as opções binárias disponibilizadas pela %1 não são negociadas ao abrigo de regras de qualquer bolsa de valores reconhecida, designada ou regulada. Consequentemente, o envolvimento com opções binárias pode expô-lo a riscos substancialmente maiores que os dos investimentos que sejam negociados nessas condições."
 
@@ -7164,14 +6993,12 @@ msgstr "Você não está autorizado a fazer uma retirada por meio de agente de p
 msgid "You are not entitled to any compensation or reimbursement of any kind from the Company under any circumstances."
 msgstr "Você não tem direito a receber nenhuma compensação ou reembolso de qualquer natureza da empresa, em nenhuma circunstância."
 
-#. (website)
 msgid "You are responsible for managing your tax and legal affairs including making any regulatory filings and payments and complying with applicable laws and regulations. We do not provide any regulatory, tax or legal advice. If you are in any doubt as to the tax treatment or liabilities of Investment Products or Gambling Products available through %1, you may wish to seek independent advice."
 msgstr "Você é responsável pelo gerenciamento dos seus assuntos fiscais e legais, incluindo a entrega de quaisquer declarações e pagamentos regulamentares e o cumprimento de leis e regulamentações aplicáveis. Não prestamos serviços de aconselhamento sobre assuntos regulatórios, fiscais ou legais. Se tiver quaisquer dúvidas em relação ao tratamento fiscal ou às obrigações dos produtos de investimento ou de jogo disponíveis através da %1, deverá procurar aconselhamento independente."
 
 msgid "You are warned of the following additional risks:"
 msgstr "Você é por este meio avisado dos seguintes riscos adicionais:"
 
-#. (url_for('/')
 msgid "You can <a class=\"pjaxload\" href=\"%1\">open an account</a>, deposit funds and begin trading within minutes."
 msgstr "É possível <a class=\"pjaxload\" href=\"%1\">abrir uma conta</a>, depositar fundos e começar a negociar dentro de poucos minutos."
 
@@ -7190,7 +7017,6 @@ msgstr "Você pode definir a duração da sua negociação, desde 10 segundos at
 msgid "You can trade a range of markets, timescales and indices – 24/7."
 msgstr "Você pode negociar em uma variedade de mercados, prazos e índices - 24 horas por dia/7 dias por semana."
 
-#. (website)
 msgid "You can use an authorized payment agent to process deposits and withdrawals for payment methods or local currencies not supported by %1. It's easy to do."
 msgstr "Você pode utilizar os Agentes de Pagamentos para processar os depósitos e retiradas para métodos de pagamento ou moedas locais não suportados pela %1. Isso é fácil de fazer."
 
@@ -7274,7 +7100,6 @@ msgstr "Você deve cumprir estes termos para poder usar a API Binary.com."
 msgid "You must not be a USA resident, citizen, or have any tax reporting to the USA"
 msgstr "Você não deverá ser um residente ou um cidadão dos EUA, nem possuir qualquer tipo de obrigação fiscal aos EUA"
 
-#. ("<a href=\"https://hackerone.com/binary\" target=\"_blank\">Hackerone</a>", "<a href=\"https://binary.vanillacommunity.com\" target=\"_blank\">Vanilla Community</a>")
 msgid "You must promptly report any security deficiencies in, or intrusions to, your Application that you discover to Binary.com by writing in to %1 or by raising a discussion  thread on %2 which is part of our Developer Site. You will work with Binary.com to immediately correct any security deficiency, and will immediately disconnect any intrusions or intruder. In the event of any security deficiency or intrusion involving the Application, APIs or Content, you will make no public statements (e.g. press, blogs, social media, bulletin boards, etc.) without prior written and express permission from Binary.com in each instance."
 msgstr "Você deve relatar imediatamente quaisquer deficiências de segurança no, ou intrusões para, seu aplicativo, que você descobrir, à Binary.com, ao escrever para %1 ou criando uma linha de discussão em %2, que faz parte do nosso site de Desenvolvedores. Você trabalhará com a Binary.com para corrigir imediatamente quaisquer deficiências de segurança, e desligará quaisquer intrusões ou intrusos. Na eventualidade de qualquer deficiência de segurança ou intrusão envolvendo o aplicativo, APIs ou conteúdos, você não fará nenhumas declarações públicas (i.e. imprensa, mídias sociais, quadros de avisos, etc.) sem a expressa autorização prévia por escrito da Binary.com em cada instância."
 
@@ -7323,21 +7148,18 @@ msgstr "Você não deve incentivar os clientes a efetuar depósitos ou realizar 
 msgid "You shall not encourage your referrals to take out any form of loans to be able to make deposits and/or place trades."
 msgstr "Você não deve incentivar os clientes que indica a contrairem qualquer tipo de empréstimo para poderem fazer depósitos e/ou realizar negociações."
 
-#. (website)
 msgid "You shall not hold or pool your referrals’ funds or third party funds into your own account held with %1."
 msgstr "Você não deve deter ou reunir fundos de clientes indicados ou fundos de terceiros na sua própria conta da %1."
 
 msgid "You shall not place trades on your referrals’ behalf."
 msgstr "Você não deve negociar em nome dos clientes que indica."
 
-#. (website)
 msgid "You shall not purchase or register keywords, search terms or other identifiers for use in any search engine, portal, sponsored advertising service or other search or referral service which are identical or similar to any of the Company's trademarks or trade names that include the word \"%1\" or any variation thereof."
 msgstr "Você não deve comprar ou registrar palavras-chave, termos de pesquisa ou outros identificadores para uso em qualquer mecanismo de busca, portal, serviço de publicidade patrocinada ou outro serviço de pesquisa ou de indicação que sejam idênticos ou semelhantes a qualquer uma das marcas comerciais ou nomes comerciais da Empresa, que incluam a palavra \"%1\" ou qualquer variante do mesmo."
 
 msgid "You shall not resort to high-pressure sales tactics or false promises."
 msgstr "Você não deve recorrer a táticas de venda de alta pressão ou a promessa falsas."
 
-#. (website)
 msgid "You shall not target any of your marketing, advertising, and promotional activities to any persons under the age of 18 years old."
 msgstr "Você não deve destinar quaisquer das suas atividades de marketing, publicidade ou promocionais a quaisquer pessoas com menos de 18 de idade."
 
@@ -7371,7 +7193,6 @@ msgstr "Ganha o prêmio se o preço do mercado terminar no dígito que seleciono
 msgid "You won't lose your shirt"
 msgstr "Não perca tudo"
 
-#. ($faq_url)
 msgid "You'll find answers to most of your questions on the <a href='%1' target='_blank'>FAQ</a> page."
 msgstr "Você encontrará respostas para a maioria de suas perguntas na página <a href='%1' target='_blank'>Perguntas frequentes</a>."
 
@@ -7390,7 +7211,6 @@ msgstr "O seu limite de retiradas de %1 dia(s) é atualmente %2 %3 (ou equivalen
 msgid "Your Client will receive an email notification informing him/her that the transfer has been processed."
 msgstr "O seu Cliente receberá uma notificação por e-mail com a informação de que a transferência foi processada."
 
-#. (broker_name)
 msgid "Your ID will be stored in a cookie and identified every time a prospect clicks on your affiliate link and lands on %1 and in that event, opens an account with us."
 msgstr "A sua ID será armazenada numa cookie e identificada cada vez que um candidato clicar no seu link de afiliado e chegar a %1 e, nesse evento, abrir uma conta conosco."
 
@@ -7421,7 +7241,6 @@ msgstr "A sua conta não deve ser usada como um recurso bancário e os depósito
 msgid "Your account transfer is successful. Your new balances are:"
 msgstr "A sua transferência de conta foi bem-sucedida. O seus novos saldos são:"
 
-#. (url_for('/cashier/payment_agent_listws')
 msgid "Your application will then be reviewed by our compliance and marketing departments. Once approved, we will put you live in our <a href='%1'>payment agent</a> list."
 msgstr "A sua candidatura será então analisada pelos nossos departamentos de conformidade e de marketing. Uma vez aprovada, iremos pô-lo em funcionamento na nossa lista de <a href='%1'>agentes de pagamentos</a>."
 
@@ -7440,7 +7259,6 @@ msgstr "A sua sessão do caixa expirou"
 msgid "Your changes have been updated."
 msgstr "As suas alterações foram atualizadas."
 
-#. (broker_name)
 msgid "Your clients will love the %1 trading platform because we offer a complete trading experience tailored to the needs of an exceptionally wide range of traders."
 msgstr "Os seus clientes irão adorar a plataforma de negociação %1 porque nós fornecemos uma experiência de negociação completa, à medida das necessidades de uma gama excepcionalmente ampla de negociadores."
 
@@ -7453,14 +7271,12 @@ msgstr "As suas informações foram atualizadas."
 msgid "Your funds are safe"
 msgstr "Os seus fundos estão seguros"
 
-#. (stash->{website_name})
 msgid "Your money is always safe with %1. At all times, it is held in segregated AAA-rated banks, which is a condition of our trading licenses."
 msgstr "O seu dinheiro está sempre seguro com a %1. O tempo todo, ele é guardado em bancos de classificação AAA, que é uma condição de nossas licenças comerciais."
 
 msgid "Your name, email address and contact number"
 msgstr "O seu nome, endereço de e-mail e número de contato"
 
-#. (website)
 msgid "Your password and login ID are unique and passwords are hashed so that not even %1 staff can read them. This is the reason why we cannot retrieve your password and have to issue you with a new one to your email address if you cannot recall it."
 msgstr "A sua senha e o ID de início de sessão são únicos e as senhas estão protegidas para que nem os funcionários da %1 as possam ler. Esta é a razão por que não podemos recuperar a senha e de termos de lhe emitir uma nova e enviá-la para o seu endereço de e-mail se não conseguir lembrar-se."
 
@@ -7668,7 +7484,6 @@ msgstr "sublicenciar quaisquer direitos concedidos ao abrigo destes termos, para
 msgid "terms and conditions"
 msgstr "termos e condições"
 
-#. (broker_name)
 msgid "the %1 affiliate program is competitive and adaptive to your unique requirements."
 msgstr "o programa de afiliados %1 é competitivo e adaptável à suas necessidades únicas."
 
@@ -8209,7 +8024,6 @@ msgstr "{JAPAN ONLY}When buying a vanilla put option, the break-even price at th
 msgid "{JAPAN ONLY}Where broking companies show bid and offer prices for purchasing and sell-back of positions, these prices may become further apart the nearer you are to the exercise time."
 msgstr "{JAPAN ONLY}Where broking companies show bid and offer prices for purchasing and sell-back of positions, these prices may become further apart the nearer you are to the exercise time."
 
-#. (request.url_for("/", { 'l' => 'JA'  }))
 msgid "{JAPAN ONLY}You can apply to open an account online. Simply click <a class=\"pjaxload\" href=\"%1\">here</a> to begin the process by opening a demo account.  Once you are familiar with our site and comfortable in your knowledge of binary options we invite you to upgrade to a Real Money Account."
 msgstr "{JAPAN ONLY}You can apply to open an account online. Simply click <a class=\"pjaxload\" href=\"%1\">here</a> to begin the process by opening a demo account.  Once you are familiar with our site and comfortable in your knowledge of binary options we invite you to upgrade to a Real Money Account."
 
